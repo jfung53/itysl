@@ -1,0 +1,434 @@
+{
+  "character_filters": {
+    "1": {
+      "merge_groups": [],
+      "delete_ids": [],
+      "keep_ids": []
+    },
+    "2": {
+      "merge_groups": [],
+      "delete_ids": [],
+      "keep_ids": []
+    },
+    "3": {
+      "merge_groups": [],
+      "delete_ids": [0, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 22, 23, 24, 25, 31, 40, 42, 43, 44, 45, 48, 49, 50, 51, 52, 53],
+      "keep_ids": []
+    },
+    "4": {
+      "merge_groups": [],
+      "delete_ids": [0, 1, 2, 3, 6, 8, 9, 10, 11],
+      "keep_ids": []
+    },
+    "5": {
+      "merge_groups": [[4, 19]],
+      "delete_ids": [0, 7, 8, 9, 10, 11, 14],
+      "keep_ids": []
+    },
+    "6": {
+      "merge_groups": [],
+      "delete_ids": [13, 14, 17],
+      "keep_ids": []
+    },
+    "7": {
+      "merge_groups": [],
+      "delete_ids": [1, 2, 3],
+      "keep_ids": []
+    },
+    "8": {
+      "merge_groups": [[8, 12]],
+      "delete_ids": [6, 9, 10],
+      "keep_ids": []
+    },
+    "9": {
+      "merge_groups": [[2, 4], [5, 9]],
+      "delete_ids": [11],
+      "keep_ids": []
+    },
+    "10": {
+      "merge_groups": [],
+      "delete_ids": [],
+      "keep_ids": []
+    },
+    "11": {
+      "merge_groups": [],
+      "delete_ids": [2, 4, 7, 9],
+      "keep_ids": []
+    },
+    "12": {
+      "merge_groups": [],
+      "delete_ids": [2, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+      "keep_ids": []
+    },
+    "13": {
+      "merge_groups": [],
+      "delete_ids": [1, 5, 6],
+      "keep_ids": []
+    },
+    "14": {
+      "merge_groups": [],
+      "delete_ids": [0, 1, 2, 4, 8, 12],
+      "keep_ids": []
+    },
+    "15": {
+      "merge_groups": [],
+      "delete_ids": [0, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 14, 17, 18, 19, 20, 21, 22, 23, 24, 25, 27, 28, 29, 30, 32, 33],
+      "keep_ids": []
+    },
+    "16": {
+      "merge_groups": [],
+      "delete_ids": [7, 8, 9, 10, 11],
+      "keep_ids": []
+    },
+    "17": {
+      "merge_groups": [],
+      "delete_ids": [0, 2, 7, 8, 10, 11, 12, 15, 16, 17, 18, 19, 20, 22, 25, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37],
+      "keep_ids": []
+    },
+    "18": {
+      "merge_groups": [],
+      "delete_ids": [],
+      "keep_ids": []
+    },
+    "19": {
+      "merge_groups": [],
+      "delete_ids": [0, 3],
+      "keep_ids": []
+    },
+    "20": {
+      "merge_groups": [[1, 21, 22, 23], [0, 20]],
+      "delete_ids": [2, 4, 5, 9, 10, 11, 12, 24, 27],
+      "keep_ids": []
+    },
+    "21": {
+      "merge_groups": [],
+      "delete_ids": [0, 4, 6, 11, 12, 17, 18, 19, 22, 25],
+      "keep_ids": []
+    },
+    "22": {
+      "merge_groups": [],
+      "delete_ids": [5, 7, 10, 11, 12, 13, 15, 24],
+      "keep_ids": []
+    },
+    "23": {
+      "merge_groups": [[2, 5]],
+      "delete_ids": [],
+      "keep_ids": []
+    },
+    "24": {
+      "merge_groups": [],
+      "delete_ids": [],
+      "keep_ids": []
+    },
+    "25": {
+      "merge_groups": [],
+      "delete_ids": [0, 1, 2, 3, 5, 13, 14, 15],
+      "keep_ids": []
+    },
+    "26": {
+      "merge_groups": [],
+      "delete_ids": [4],
+      "keep_ids": []
+    },
+    "27": {
+      "merge_groups": [],
+      "delete_ids": [],
+      "keep_ids": []
+    },
+    "28": {
+      "merge_groups": [],
+      "delete_ids": [6, 7, 8],
+      "keep_ids": []
+    },
+    "29": {
+      "merge_groups": [],
+      "delete_ids": [8],
+      "keep_ids": []
+    },
+    "30": {
+      "merge_groups": [],
+      "delete_ids": [4, 5, 6, 7],
+      "keep_ids": []
+    },
+    "31": {
+      "merge_groups": [],
+      "delete_ids": [4, 5, 8],
+      "keep_ids": []
+    },
+    "32": {
+      "merge_groups": [[5, 6]],
+      "delete_ids": [],
+      "keep_ids": []
+    },
+    "33": {
+      "merge_groups": [],
+      "delete_ids": [],
+      "keep_ids": [0]
+    },
+    "34": {
+      "merge_groups": [],
+      "delete_ids": [6, 9, 10, 11, 12, 13, 14, 15, 16, 17, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35],
+      "keep_ids": []
+    },
+    "35": {
+      "merge_groups": [],
+      "delete_ids": [0, 2, 3, 4, 8, 9, 10, 11, 12, 14, 17, 18, 19, 21, 26, 27, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45],
+      "keep_ids": []
+    },
+    "36": {
+      "merge_groups": [],
+      "delete_ids": [9, 12],
+      "keep_ids": []
+    },
+    "37": {
+      "merge_groups": [[3, 6]],
+      "delete_ids": [7],
+      "keep_ids": []
+    },
+    "38": {
+      "merge_groups": [],
+      "delete_ids": [0, 5, 7, 11],
+      "keep_ids": []
+    },
+    "39": {
+      "merge_groups": [],
+      "delete_ids": [],
+      "keep_ids": []
+    },
+    "40": {
+      "merge_groups": [],
+      "delete_ids": [],
+      "keep_ids": []
+    },
+    "41": {
+      "merge_groups": [[14, 19], [2, 20], [1, 30]],
+      "delete_ids": [3, 7, 10, 12, 15, 17, 18, 21],
+      "keep_ids": []
+    },
+    "42": {
+      "merge_groups": [],
+      "delete_ids": [],
+      "keep_ids": []
+    },
+    "43": {
+      "merge_groups": [],
+      "delete_ids": [1, 2, 4],
+      "keep_ids": []
+    },
+    "44": {
+      "merge_groups": [],
+      "delete_ids": [3, 5],
+      "keep_ids": []
+    },
+    "45": {
+      "merge_groups": [[0, 2]],
+      "delete_ids": [5, 6],
+      "keep_ids": []
+    },
+    "46": {
+      "merge_groups": [[1, 19], [25, 39]],
+      "delete_ids": [0, 2, 3, 5, 6, 8, 10, 12, 13, 14, 15, 16, 17, 18, 20, 21, 22, 23, 24, 26, 27, 28, 29, 30, 31, 32, 34, 35, 40, 41, 42],
+      "keep_ids": []
+    },
+    "47": {
+      "merge_groups": [[5, 6, 7, 8, 9, 13, 21], [22, 12]],
+      "delete_ids": [10, 14, 15, 16, 17, 18, 19, 20, 23],
+      "keep_ids": []
+    },
+    "48": {
+      "merge_groups": [[3, 8, 9]],
+      "delete_ids": [],
+      "keep_ids": []
+    },
+    "49": {
+      "merge_groups": [],
+      "delete_ids": [3, 6, 11, 12, 14],
+      "keep_ids": []
+    },
+    "50": {
+      "merge_groups": [[0, 1, 2]],
+      "delete_ids": [],
+      "keep_ids": []
+    },
+    "51": {
+      "merge_groups": [],
+      "delete_ids": [4, 11],
+      "keep_ids": []
+    },
+    "52": {
+      "merge_groups": [[9, 21]],
+      "delete_ids": [0, 1, 5, 6, 8, 10, 11, 12, 13, 15, 16, 17, 18, 19, 20, 22, 24, 27, 28],
+      "keep_ids": []
+    },
+    "53": {
+      "merge_groups": [],
+      "delete_ids": [],
+      "keep_ids": []
+    },
+    "54": {
+      "merge_groups": [],
+      "delete_ids": [1, 3, 4, 5, 10],
+      "keep_ids": []
+    },
+    "55": {
+      "merge_groups": [],
+      "delete_ids": [],
+      "keep_ids": []
+    },
+    "56": {
+      "merge_groups": [[1, 8, 10, 12], [7, 9]],
+      "delete_ids": [],
+      "keep_ids": []
+    },
+    "57": {
+      "merge_groups": [],
+      "delete_ids": [2, 4, 5, 6],
+      "keep_ids": []
+    },
+    "58": {
+      "merge_groups": [[5, 10]],
+      "delete_ids": [],
+      "keep_ids": []
+    },
+    "59": {
+      "merge_groups": [],
+      "delete_ids": [0, 9],
+      "keep_ids": []
+    },
+    "60": {
+      "merge_groups": [[0, 2, 4, 11]],
+      "delete_ids": [1],
+      "keep_ids": []
+    },
+    "61": {
+      "merge_groups": [[9, 23]],
+      "delete_ids": [17, 19],
+      "keep_ids": []
+    },
+    "62": {
+      "merge_groups": [],
+      "delete_ids": [],
+      "keep_ids": [3, 5, 10, 17]
+    },
+    "63": {
+      "merge_groups": [[0, 3]],
+      "delete_ids": [],
+      "keep_ids": []
+    },
+    "64": {
+      "merge_groups": [[9, 14]],
+      "delete_ids": [0, 4, 15],
+      "keep_ids": []
+    },
+    "65": {
+      "merge_groups": [[3, 7, 8, 9]],
+      "delete_ids": [],
+      "keep_ids": []
+    },
+    "66": {
+      "merge_groups": [],
+      "delete_ids": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "keep_ids": []
+    },
+    "67": {
+      "merge_groups": [[0, 2, 3], [4, 5], [1, 7]],
+      "delete_ids": [],
+      "keep_ids": []
+    },
+    "68": {
+      "merge_groups": [],
+      "delete_ids": [],
+      "keep_ids": []
+    },
+    "69": {
+      "merge_groups": [],
+      "delete_ids": [],
+      "keep_ids": [1, 27, 29, 45, 56, 58, 59, 92]
+    },
+    "70": {
+      "merge_groups": [[0, 18], [27, 37]],
+      "delete_ids": [],
+      "keep_ids": [0, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]
+    },
+    "71": {
+      "merge_groups": [],
+      "delete_ids": [2, 4, 5, 8, 12, 13, 14, 15],
+      "keep_ids": []
+    },
+    "72": {
+      "merge_groups": [[3, 13, 41]],
+      "delete_ids": [1, 2, 4, 5, 6, 7, 8, 10, 11, 12, 14, 15, 16, 17, 18, 19, 20, 22, 23, 24, 25, 26, 27, 28, 29],
+      "keep_ids": []
+    },
+    "73": {
+      "merge_groups": [[0, 2]],
+      "delete_ids": [],
+      "keep_ids": []
+    },
+    "74": {
+      "merge_groups": [[27, 33]],
+      "delete_ids": [],
+      "keep_ids": [0, 1, 2, 6, 8, 15, 18, 19, 27]
+    },
+    "75": {
+      "merge_groups": [],
+      "delete_ids": [2, 5, 7],
+      "keep_ids": []
+    },
+    "76": {
+      "merge_groups": [],
+      "delete_ids": [],
+      "keep_ids": []
+    },
+    "77": {
+      "merge_groups": [[3, 12]],
+      "delete_ids": [0, 2, 4, 6, 7, 8, 9, 10, 11, 13],
+      "keep_ids": []
+    },
+    "78": {
+      "merge_groups": [],
+      "delete_ids": [],
+      "keep_ids": []
+    },
+    "79": {
+      "merge_groups": [[6, 58]],
+      "delete_ids": [],
+      "keep_ids": [5, 6, 7, 10, 11, 13]
+    },
+    "80": {
+      "merge_groups": [],
+      "delete_ids": [11, 12],
+      "keep_ids": []
+    },
+    "81": {
+      "merge_groups": [],
+      "delete_ids": [3, 5, 6, 7, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+      "keep_ids": []
+    },
+    "82": {
+      "merge_groups": [[14, 43, 84]],
+      "delete_ids": [0, 1, 2, 3, 7, 8, 10, 11, 13, 15, 20, 21, 22, 24, 26, 28, 33, 37, 38, 39, 40, 41, 42, 44, 45, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 62, 63, 64, 66, 67, 68, 69, 70, 71, 72, 73, 75, 76, 78, 80, 87, 88, 90, 91, 92],
+      "keep_ids": []
+    },
+    "83": {
+      "merge_groups": [],
+      "delete_ids": [60, 6, 7, 8],
+      "keep_ids": []
+    },
+    "84": {
+      "merge_groups": [],
+      "delete_ids": [4],
+      "keep_ids": []
+    },
+    "85": {
+      "merge_groups": [],
+      "delete_ids": [],
+      "keep_ids": []
+    },
+    "86": {
+      "merge_groups": [[6, 11, 12, 13, 16], [14, 19]],
+      "delete_ids": [0, 8, 9, 10, 20, 21],
+      "keep_ids": []
+    }
+  }
+}
