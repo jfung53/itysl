@@ -6,6 +6,7 @@ __pycache__/
 screenshots/
 videos/
 review/
+slides/
 
 tracked_faces_progress.json
 filtered_tracked_faces.json
