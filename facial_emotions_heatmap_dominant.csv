@@ -1,0 +1,1663 @@
+sketch_id,name,sketch_order,season,episode,time_bin,time_bin_start,time_bin_end,time_bin_center,emotion,count,total_detections,dominance_ratio,category,category2
+1,Both Ways,0,1,1,0.0-5.0%,0.0,5.0,2.5,anger,5,9,0.5555555555555556,office,
+1,Both Ways,0,1,1,5.0-10.0%,5.0,10.0,7.5,anger,5,13,0.38461538461538464,office,
+1,Both Ways,0,1,1,10.0-15.0%,10.0,15.0,12.5,happy,3,6,0.5,office,
+1,Both Ways,0,1,1,15.0-20.0%,15.0,20.0,17.5,sad,3,5,0.6,office,
+1,Both Ways,0,1,1,20.0-25.0%,20.0,25.0,22.5,surprise,1,1,1.0,office,
+1,Both Ways,0,1,1,25.0-30.0%,25.0,30.0,27.5,disgust,2,4,0.5,office,
+1,Both Ways,0,1,1,30.0-35.0%,30.0,35.0,32.5,sad,2,3,0.6666666666666666,office,
+1,Both Ways,0,1,1,35.0-40.0%,35.0,40.0,37.5,happy,2,4,0.5,office,
+1,Both Ways,0,1,1,40.0-45.0%,40.0,45.0,42.5,disgust,4,6,0.6666666666666666,office,
+1,Both Ways,0,1,1,50.0-55.0%,50.0,55.0,52.5,neutral,1,2,0.5,office,
+1,Both Ways,0,1,1,55.0-60.0%,55.0,60.0,57.5,fear,1,2,0.5,office,
+1,Both Ways,0,1,1,60.0-65.0%,60.0,65.0,62.5,neutral,3,5,0.6,office,
+1,Both Ways,0,1,1,65.0-70.0%,65.0,70.0,67.5,happy,2,2,1.0,office,
+1,Both Ways,0,1,1,70.0-75.0%,70.0,75.0,72.5,happy,3,5,0.6,office,
+1,Both Ways,0,1,1,75.0-80.0%,75.0,80.0,77.5,happy,1,2,0.5,office,
+1,Both Ways,0,1,1,80.0-85.0%,80.0,85.0,82.5,happy,1,2,0.5,office,
+1,Both Ways,0,1,1,85.0-90.0%,85.0,90.0,87.5,happy,3,4,0.75,office,
+1,Both Ways,0,1,1,90.0-95.0%,90.0,95.0,92.5,neutral,4,6,0.6666666666666666,office,
+1,Both Ways,0,1,1,95.0-100.0%,95.0,100.0,97.5,fear,2,5,0.4,office,
+2,Has This Ever Happened to You?,1,1,1,0.0-5.0%,0.0,5.0,2.5,disgust,3,7,0.42857142857142855,commercial,
+2,Has This Ever Happened to You?,1,1,1,5.0-10.0%,5.0,10.0,7.5,sad,2,5,0.4,commercial,
+2,Has This Ever Happened to You?,1,1,1,10.0-15.0%,10.0,15.0,12.5,sad,3,6,0.5,commercial,
+2,Has This Ever Happened to You?,1,1,1,15.0-20.0%,15.0,20.0,17.5,neutral,5,7,0.7142857142857143,commercial,
+2,Has This Ever Happened to You?,1,1,1,20.0-25.0%,20.0,25.0,22.5,happy,2,5,0.4,commercial,
+2,Has This Ever Happened to You?,1,1,1,25.0-30.0%,25.0,30.0,27.5,disgust,2,5,0.4,commercial,
+2,Has This Ever Happened to You?,1,1,1,30.0-35.0%,30.0,35.0,32.5,disgust,4,7,0.5714285714285714,commercial,
+2,Has This Ever Happened to You?,1,1,1,35.0-40.0%,35.0,40.0,37.5,fear,2,3,0.6666666666666666,commercial,
+2,Has This Ever Happened to You?,1,1,1,40.0-45.0%,40.0,45.0,42.5,happy,3,8,0.375,commercial,
+2,Has This Ever Happened to You?,1,1,1,45.0-50.0%,45.0,50.0,47.5,anger,5,11,0.45454545454545453,commercial,
+2,Has This Ever Happened to You?,1,1,1,50.0-55.0%,50.0,55.0,52.5,happy,3,6,0.5,commercial,
+2,Has This Ever Happened to You?,1,1,1,55.0-60.0%,55.0,60.0,57.5,surprise,5,11,0.45454545454545453,commercial,
+2,Has This Ever Happened to You?,1,1,1,60.0-65.0%,60.0,65.0,62.5,anger,8,10,0.8,commercial,
+2,Has This Ever Happened to You?,1,1,1,65.0-70.0%,65.0,70.0,67.5,anger,2,7,0.2857142857142857,commercial,
+2,Has This Ever Happened to You?,1,1,1,70.0-75.0%,70.0,75.0,72.5,anger,1,3,0.3333333333333333,commercial,
+2,Has This Ever Happened to You?,1,1,1,75.0-80.0%,75.0,80.0,77.5,anger,2,7,0.2857142857142857,commercial,
+2,Has This Ever Happened to You?,1,1,1,85.0-90.0%,85.0,90.0,87.5,anger,3,5,0.6,commercial,
+2,Has This Ever Happened to You?,1,1,1,90.0-95.0%,90.0,95.0,92.5,anger,2,7,0.2857142857142857,commercial,
+2,Has This Ever Happened to You?,1,1,1,95.0-100.0%,95.0,100.0,97.5,neutral,3,6,0.5,commercial,
+3,Baby of the Year,2,1,1,0.0-5.0%,0.0,5.0,2.5,sad,9,15,0.6,game show,
+3,Baby of the Year,2,1,1,5.0-10.0%,5.0,10.0,7.5,happy,5,13,0.38461538461538464,game show,
+3,Baby of the Year,2,1,1,10.0-15.0%,10.0,15.0,12.5,surprise,4,9,0.4444444444444444,game show,
+3,Baby of the Year,2,1,1,15.0-20.0%,15.0,20.0,17.5,happy,6,11,0.5454545454545454,game show,
+3,Baby of the Year,2,1,1,20.0-25.0%,20.0,25.0,22.5,happy,8,15,0.5333333333333333,game show,
+3,Baby of the Year,2,1,1,25.0-30.0%,25.0,30.0,27.5,happy,2,6,0.3333333333333333,game show,
+3,Baby of the Year,2,1,1,30.0-35.0%,30.0,35.0,32.5,disgust,9,37,0.24324324324324326,game show,
+3,Baby of the Year,2,1,1,35.0-40.0%,35.0,40.0,37.5,sad,7,19,0.3684210526315789,game show,
+3,Baby of the Year,2,1,1,40.0-45.0%,40.0,45.0,42.5,happy,5,12,0.4166666666666667,game show,
+3,Baby of the Year,2,1,1,45.0-50.0%,45.0,50.0,47.5,happy,3,8,0.375,game show,
+3,Baby of the Year,2,1,1,50.0-55.0%,50.0,55.0,52.5,sad,6,13,0.46153846153846156,game show,
+3,Baby of the Year,2,1,1,55.0-60.0%,55.0,60.0,57.5,sad,8,20,0.4,game show,
+3,Baby of the Year,2,1,1,60.0-65.0%,60.0,65.0,62.5,sad,4,11,0.36363636363636365,game show,
+3,Baby of the Year,2,1,1,65.0-70.0%,65.0,70.0,67.5,sad,11,17,0.6470588235294118,game show,
+3,Baby of the Year,2,1,1,70.0-75.0%,70.0,75.0,72.5,sad,11,23,0.4782608695652174,game show,
+3,Baby of the Year,2,1,1,75.0-80.0%,75.0,80.0,77.5,sad,4,6,0.6666666666666666,game show,
+3,Baby of the Year,2,1,1,80.0-85.0%,80.0,85.0,82.5,sad,15,24,0.625,game show,
+3,Baby of the Year,2,1,1,85.0-90.0%,85.0,90.0,87.5,sad,3,6,0.5,game show,
+3,Baby of the Year,2,1,1,90.0-95.0%,90.0,95.0,92.5,sad,5,11,0.45454545454545453,game show,
+3,Baby of the Year,2,1,1,95.0-100.0%,95.0,100.0,97.5,sad,8,15,0.5333333333333333,game show,
+4,Instagram,3,1,1,0.0-5.0%,0.0,5.0,2.5,happy,10,11,0.9090909090909091,social media,
+4,Instagram,3,1,1,5.0-10.0%,5.0,10.0,7.5,neutral,4,7,0.5714285714285714,social media,
+4,Instagram,3,1,1,10.0-15.0%,10.0,15.0,12.5,happy,3,4,0.75,social media,
+4,Instagram,3,1,1,15.0-20.0%,15.0,20.0,17.5,happy,4,5,0.8,social media,
+4,Instagram,3,1,1,20.0-25.0%,20.0,25.0,22.5,sad,5,7,0.7142857142857143,social media,
+4,Instagram,3,1,1,25.0-30.0%,25.0,30.0,27.5,happy,4,5,0.8,social media,
+4,Instagram,3,1,1,30.0-35.0%,30.0,35.0,32.5,neutral,4,7,0.5714285714285714,social media,
+4,Instagram,3,1,1,35.0-40.0%,35.0,40.0,37.5,happy,4,6,0.6666666666666666,social media,
+4,Instagram,3,1,1,40.0-45.0%,40.0,45.0,42.5,sad,4,7,0.5714285714285714,social media,
+4,Instagram,3,1,1,45.0-50.0%,45.0,50.0,47.5,sad,4,5,0.8,social media,
+4,Instagram,3,1,1,50.0-55.0%,50.0,55.0,52.5,sad,4,7,0.5714285714285714,social media,
+4,Instagram,3,1,1,55.0-60.0%,55.0,60.0,57.5,disgust,3,7,0.42857142857142855,social media,
+4,Instagram,3,1,1,60.0-65.0%,60.0,65.0,62.5,happy,3,6,0.5,social media,
+4,Instagram,3,1,1,65.0-70.0%,65.0,70.0,67.5,sad,8,13,0.6153846153846154,social media,
+4,Instagram,3,1,1,70.0-75.0%,70.0,75.0,72.5,happy,2,4,0.5,social media,
+4,Instagram,3,1,1,75.0-80.0%,75.0,80.0,77.5,neutral,4,11,0.36363636363636365,social media,
+4,Instagram,3,1,1,80.0-85.0%,80.0,85.0,82.5,sad,3,7,0.42857142857142855,social media,
+4,Instagram,3,1,1,85.0-90.0%,85.0,90.0,87.5,sad,4,7,0.5714285714285714,social media,
+4,Instagram,3,1,1,90.0-95.0%,90.0,95.0,92.5,disgust,2,6,0.3333333333333333,social media,
+4,Instagram,3,1,1,95.0-100.0%,95.0,100.0,97.5,happy,3,7,0.42857142857142855,social media,
+5,Gift Receipt,4,1,1,0.0-5.0%,0.0,5.0,2.5,happy,17,27,0.6296296296296297,party,
+5,Gift Receipt,4,1,1,5.0-10.0%,5.0,10.0,7.5,happy,19,46,0.41304347826086957,party,
+5,Gift Receipt,4,1,1,10.0-15.0%,10.0,15.0,12.5,happy,16,29,0.5517241379310345,party,
+5,Gift Receipt,4,1,1,15.0-20.0%,15.0,20.0,17.5,happy,16,38,0.42105263157894735,party,
+5,Gift Receipt,4,1,1,20.0-25.0%,20.0,25.0,22.5,happy,17,25,0.68,party,
+5,Gift Receipt,4,1,1,25.0-30.0%,25.0,30.0,27.5,neutral,12,27,0.4444444444444444,party,
+5,Gift Receipt,4,1,1,30.0-35.0%,30.0,35.0,32.5,sad,17,41,0.4146341463414634,party,
+5,Gift Receipt,4,1,1,35.0-40.0%,35.0,40.0,37.5,happy,10,36,0.2777777777777778,party,
+5,Gift Receipt,4,1,1,40.0-45.0%,40.0,45.0,42.5,neutral,16,52,0.3076923076923077,party,
+5,Gift Receipt,4,1,1,45.0-50.0%,45.0,50.0,47.5,neutral,5,19,0.2631578947368421,party,
+5,Gift Receipt,4,1,1,50.0-55.0%,50.0,55.0,52.5,neutral,14,30,0.4666666666666667,party,
+5,Gift Receipt,4,1,1,55.0-60.0%,55.0,60.0,57.5,sad,5,13,0.38461538461538464,party,
+5,Gift Receipt,4,1,1,60.0-65.0%,60.0,65.0,62.5,neutral,9,35,0.2571428571428571,party,
+5,Gift Receipt,4,1,1,65.0-70.0%,65.0,70.0,67.5,sad,20,43,0.46511627906976744,party,
+5,Gift Receipt,4,1,1,70.0-75.0%,70.0,75.0,72.5,surprise,3,5,0.6,party,
+5,Gift Receipt,4,1,1,75.0-80.0%,75.0,80.0,77.5,neutral,6,10,0.6,party,
+5,Gift Receipt,4,1,1,80.0-85.0%,80.0,85.0,82.5,neutral,16,28,0.5714285714285714,party,
+5,Gift Receipt,4,1,1,85.0-90.0%,85.0,90.0,87.5,surprise,4,11,0.36363636363636365,party,
+5,Gift Receipt,4,1,1,95.0-100.0%,95.0,100.0,97.5,neutral,2,2,1.0,party,
+6,Biker Guy,5,1,2,0.0-5.0%,0.0,5.0,2.5,happy,2,3,0.6666666666666666,sci-fi/fantasy,
+6,Biker Guy,5,1,2,5.0-10.0%,5.0,10.0,7.5,sad,2,3,0.6666666666666666,sci-fi/fantasy,
+6,Biker Guy,5,1,2,10.0-15.0%,10.0,15.0,12.5,surprise,2,4,0.5,sci-fi/fantasy,
+6,Biker Guy,5,1,2,15.0-20.0%,15.0,20.0,17.5,anger,1,2,0.5,sci-fi/fantasy,
+6,Biker Guy,5,1,2,20.0-25.0%,20.0,25.0,22.5,surprise,2,4,0.5,sci-fi/fantasy,
+6,Biker Guy,5,1,2,25.0-30.0%,25.0,30.0,27.5,happy,1,2,0.5,sci-fi/fantasy,
+6,Biker Guy,5,1,2,30.0-35.0%,30.0,35.0,32.5,sad,1,1,1.0,sci-fi/fantasy,
+6,Biker Guy,5,1,2,35.0-40.0%,35.0,40.0,37.5,happy,2,3,0.6666666666666666,sci-fi/fantasy,
+6,Biker Guy,5,1,2,40.0-45.0%,40.0,45.0,42.5,surprise,2,4,0.5,sci-fi/fantasy,
+6,Biker Guy,5,1,2,50.0-55.0%,50.0,55.0,52.5,sad,1,2,0.5,sci-fi/fantasy,
+6,Biker Guy,5,1,2,60.0-65.0%,60.0,65.0,62.5,neutral,6,7,0.8571428571428571,sci-fi/fantasy,
+6,Biker Guy,5,1,2,65.0-70.0%,65.0,70.0,67.5,neutral,19,22,0.8636363636363636,sci-fi/fantasy,
+6,Biker Guy,5,1,2,70.0-75.0%,70.0,75.0,72.5,sad,4,8,0.5,sci-fi/fantasy,
+6,Biker Guy,5,1,2,75.0-80.0%,75.0,80.0,77.5,happy,4,7,0.5714285714285714,sci-fi/fantasy,
+6,Biker Guy,5,1,2,80.0-85.0%,80.0,85.0,82.5,happy,7,8,0.875,sci-fi/fantasy,
+6,Biker Guy,5,1,2,85.0-90.0%,85.0,90.0,87.5,neutral,19,45,0.4222222222222222,sci-fi/fantasy,
+6,Biker Guy,5,1,2,90.0-95.0%,90.0,95.0,92.5,happy,16,21,0.7619047619047619,sci-fi/fantasy,
+6,Biker Guy,5,1,2,95.0-100.0%,95.0,100.0,97.5,neutral,3,6,0.5,sci-fi/fantasy,
+7,River Mountain High,6,1,2,0.0-5.0%,0.0,5.0,2.5,happy,6,6,1.0,commercial,
+7,River Mountain High,6,1,2,10.0-15.0%,10.0,15.0,12.5,neutral,1,1,1.0,commercial,
+7,River Mountain High,6,1,2,15.0-20.0%,15.0,20.0,17.5,neutral,7,9,0.7777777777777778,commercial,
+7,River Mountain High,6,1,2,20.0-25.0%,20.0,25.0,22.5,sad,2,3,0.6666666666666666,commercial,
+7,River Mountain High,6,1,2,25.0-30.0%,25.0,30.0,27.5,happy,5,8,0.625,commercial,
+7,River Mountain High,6,1,2,30.0-35.0%,30.0,35.0,32.5,neutral,7,9,0.7777777777777778,commercial,
+7,River Mountain High,6,1,2,35.0-40.0%,35.0,40.0,37.5,neutral,5,8,0.625,commercial,
+7,River Mountain High,6,1,2,40.0-45.0%,40.0,45.0,42.5,neutral,4,11,0.36363636363636365,commercial,
+7,River Mountain High,6,1,2,45.0-50.0%,45.0,50.0,47.5,neutral,4,9,0.4444444444444444,commercial,
+7,River Mountain High,6,1,2,50.0-55.0%,50.0,55.0,52.5,neutral,5,10,0.5,commercial,
+7,River Mountain High,6,1,2,55.0-60.0%,55.0,60.0,57.5,sad,8,10,0.8,commercial,
+7,River Mountain High,6,1,2,60.0-65.0%,60.0,65.0,62.5,happy,5,13,0.38461538461538464,commercial,
+7,River Mountain High,6,1,2,65.0-70.0%,65.0,70.0,67.5,sad,4,9,0.4444444444444444,commercial,
+7,River Mountain High,6,1,2,70.0-75.0%,70.0,75.0,72.5,sad,6,9,0.6666666666666666,commercial,
+7,River Mountain High,6,1,2,75.0-80.0%,75.0,80.0,77.5,sad,6,13,0.46153846153846156,commercial,
+7,River Mountain High,6,1,2,80.0-85.0%,80.0,85.0,82.5,sad,6,12,0.5,commercial,
+7,River Mountain High,6,1,2,85.0-90.0%,85.0,90.0,87.5,sad,4,11,0.36363636363636365,commercial,
+7,River Mountain High,6,1,2,90.0-95.0%,90.0,95.0,92.5,sad,8,13,0.6153846153846154,commercial,
+7,River Mountain High,6,1,2,95.0-100.0%,95.0,100.0,97.5,neutral,4,10,0.4,commercial,
+8,Wilson's Toupees,7,1,2,0.0-5.0%,0.0,5.0,2.5,happy,7,11,0.6363636363636364,commercial,
+8,Wilson's Toupees,7,1,2,5.0-10.0%,5.0,10.0,7.5,happy,7,9,0.7777777777777778,commercial,
+8,Wilson's Toupees,7,1,2,10.0-15.0%,10.0,15.0,12.5,sad,6,8,0.75,commercial,
+8,Wilson's Toupees,7,1,2,15.0-20.0%,15.0,20.0,17.5,happy,3,9,0.3333333333333333,commercial,
+8,Wilson's Toupees,7,1,2,20.0-25.0%,20.0,25.0,22.5,sad,3,6,0.5,commercial,
+8,Wilson's Toupees,7,1,2,25.0-30.0%,25.0,30.0,27.5,neutral,2,5,0.4,commercial,
+8,Wilson's Toupees,7,1,2,30.0-35.0%,30.0,35.0,32.5,sad,3,3,1.0,commercial,
+8,Wilson's Toupees,7,1,2,35.0-40.0%,35.0,40.0,37.5,surprise,2,5,0.4,commercial,
+8,Wilson's Toupees,7,1,2,40.0-45.0%,40.0,45.0,42.5,anger,1,2,0.5,commercial,
+8,Wilson's Toupees,7,1,2,45.0-50.0%,45.0,50.0,47.5,happy,1,1,1.0,commercial,
+8,Wilson's Toupees,7,1,2,50.0-55.0%,50.0,55.0,52.5,neutral,2,3,0.6666666666666666,commercial,
+8,Wilson's Toupees,7,1,2,55.0-60.0%,55.0,60.0,57.5,neutral,4,10,0.4,commercial,
+8,Wilson's Toupees,7,1,2,60.0-65.0%,60.0,65.0,62.5,surprise,4,6,0.6666666666666666,commercial,
+8,Wilson's Toupees,7,1,2,65.0-70.0%,65.0,70.0,67.5,surprise,3,8,0.375,commercial,
+8,Wilson's Toupees,7,1,2,70.0-75.0%,70.0,75.0,72.5,sad,7,13,0.5384615384615384,commercial,
+8,Wilson's Toupees,7,1,2,75.0-80.0%,75.0,80.0,77.5,sad,4,10,0.4,commercial,
+8,Wilson's Toupees,7,1,2,80.0-85.0%,80.0,85.0,82.5,sad,4,12,0.3333333333333333,commercial,
+8,Wilson's Toupees,7,1,2,85.0-90.0%,85.0,90.0,87.5,happy,14,17,0.8235294117647058,commercial,
+8,Wilson's Toupees,7,1,2,90.0-95.0%,90.0,95.0,92.5,neutral,5,9,0.5555555555555556,commercial,
+8,Wilson's Toupees,7,1,2,95.0-100.0%,95.0,100.0,97.5,sad,5,10,0.5,commercial,
+9,Pink Bag,8,1,2,0.0-5.0%,0.0,5.0,2.5,happy,10,23,0.43478260869565216,office,
+9,Pink Bag,8,1,2,5.0-10.0%,5.0,10.0,7.5,happy,10,20,0.5,office,
+9,Pink Bag,8,1,2,10.0-15.0%,10.0,15.0,12.5,happy,12,21,0.5714285714285714,office,
+9,Pink Bag,8,1,2,15.0-20.0%,15.0,20.0,17.5,neutral,6,13,0.46153846153846156,office,
+9,Pink Bag,8,1,2,20.0-25.0%,20.0,25.0,22.5,happy,7,22,0.3181818181818182,office,
+9,Pink Bag,8,1,2,25.0-30.0%,25.0,30.0,27.5,surprise,6,10,0.6,office,
+9,Pink Bag,8,1,2,30.0-35.0%,30.0,35.0,32.5,sad,4,12,0.3333333333333333,office,
+9,Pink Bag,8,1,2,35.0-40.0%,35.0,40.0,37.5,surprise,5,9,0.5555555555555556,office,
+9,Pink Bag,8,1,2,40.0-45.0%,40.0,45.0,42.5,sad,4,10,0.4,office,
+9,Pink Bag,8,1,2,45.0-50.0%,45.0,50.0,47.5,neutral,7,15,0.4666666666666667,office,
+9,Pink Bag,8,1,2,50.0-55.0%,50.0,55.0,52.5,sad,10,25,0.4,office,
+9,Pink Bag,8,1,2,55.0-60.0%,55.0,60.0,57.5,surprise,8,15,0.5333333333333333,office,
+9,Pink Bag,8,1,2,60.0-65.0%,60.0,65.0,62.5,sad,6,19,0.3157894736842105,office,
+9,Pink Bag,8,1,2,65.0-70.0%,65.0,70.0,67.5,surprise,12,16,0.75,office,
+9,Pink Bag,8,1,2,70.0-75.0%,70.0,75.0,72.5,neutral,6,17,0.35294117647058826,office,
+9,Pink Bag,8,1,2,75.0-80.0%,75.0,80.0,77.5,surprise,9,16,0.5625,office,
+9,Pink Bag,8,1,2,80.0-85.0%,80.0,85.0,82.5,surprise,7,15,0.4666666666666667,office,
+9,Pink Bag,8,1,2,85.0-90.0%,85.0,90.0,87.5,sad,4,12,0.3333333333333333,office,
+9,Pink Bag,8,1,2,90.0-95.0%,90.0,95.0,92.5,sad,9,22,0.4090909090909091,office,
+9,Pink Bag,8,1,2,95.0-100.0%,95.0,100.0,97.5,sad,6,11,0.5454545454545454,office,
+10,River Mountain High,9,1,2,0.0-5.0%,0.0,5.0,2.5,neutral,2,5,0.4,commercial,
+10,River Mountain High,9,1,2,5.0-10.0%,5.0,10.0,7.5,happy,2,5,0.4,commercial,
+10,River Mountain High,9,1,2,10.0-15.0%,10.0,15.0,12.5,sad,3,7,0.42857142857142855,commercial,
+10,River Mountain High,9,1,2,15.0-20.0%,15.0,20.0,17.5,sad,3,5,0.6,commercial,
+10,River Mountain High,9,1,2,20.0-25.0%,20.0,25.0,22.5,sad,4,5,0.8,commercial,
+10,River Mountain High,9,1,2,25.0-30.0%,25.0,30.0,27.5,sad,6,9,0.6666666666666666,commercial,
+10,River Mountain High,9,1,2,30.0-35.0%,30.0,35.0,32.5,sad,2,4,0.5,commercial,
+10,River Mountain High,9,1,2,35.0-40.0%,35.0,40.0,37.5,sad,5,7,0.7142857142857143,commercial,
+10,River Mountain High,9,1,2,40.0-45.0%,40.0,45.0,42.5,neutral,3,4,0.75,commercial,
+10,River Mountain High,9,1,2,45.0-50.0%,45.0,50.0,47.5,happy,1,4,0.25,commercial,
+10,River Mountain High,9,1,2,50.0-55.0%,50.0,55.0,52.5,sad,2,2,1.0,commercial,
+10,River Mountain High,9,1,2,55.0-60.0%,55.0,60.0,57.5,sad,1,1,1.0,commercial,
+10,River Mountain High,9,1,2,65.0-70.0%,65.0,70.0,67.5,neutral,1,1,1.0,commercial,
+10,River Mountain High,9,1,2,70.0-75.0%,70.0,75.0,72.5,happy,3,5,0.6,commercial,
+10,River Mountain High,9,1,2,75.0-80.0%,75.0,80.0,77.5,happy,2,3,0.6666666666666666,commercial,
+10,River Mountain High,9,1,2,80.0-85.0%,80.0,85.0,82.5,happy,3,3,1.0,commercial,
+10,River Mountain High,9,1,2,85.0-90.0%,85.0,90.0,87.5,happy,9,14,0.6428571428571429,commercial,
+10,River Mountain High,9,1,2,90.0-95.0%,90.0,95.0,92.5,happy,4,5,0.8,commercial,
+10,River Mountain High,9,1,2,95.0-100.0%,95.0,100.0,97.5,anger,2,3,0.6666666666666666,commercial,
+11,The Man,10,1,2,0.0-5.0%,0.0,5.0,2.5,happy,9,16,0.5625,revenge,
+11,The Man,10,1,2,5.0-10.0%,5.0,10.0,7.5,happy,9,17,0.5294117647058824,revenge,
+11,The Man,10,1,2,10.0-15.0%,10.0,15.0,12.5,happy,9,12,0.75,revenge,
+11,The Man,10,1,2,15.0-20.0%,15.0,20.0,17.5,happy,8,13,0.6153846153846154,revenge,
+11,The Man,10,1,2,20.0-25.0%,20.0,25.0,22.5,neutral,4,8,0.5,revenge,
+11,The Man,10,1,2,25.0-30.0%,25.0,30.0,27.5,neutral,2,3,0.6666666666666666,revenge,
+11,The Man,10,1,2,30.0-35.0%,30.0,35.0,32.5,sad,4,5,0.8,revenge,
+11,The Man,10,1,2,40.0-45.0%,40.0,45.0,42.5,sad,7,8,0.875,revenge,
+11,The Man,10,1,2,45.0-50.0%,45.0,50.0,47.5,happy,4,9,0.4444444444444444,revenge,
+11,The Man,10,1,2,50.0-55.0%,50.0,55.0,52.5,happy,6,10,0.6,revenge,
+11,The Man,10,1,2,55.0-60.0%,55.0,60.0,57.5,happy,4,7,0.5714285714285714,revenge,
+11,The Man,10,1,2,60.0-65.0%,60.0,65.0,62.5,neutral,4,7,0.5714285714285714,revenge,
+11,The Man,10,1,2,65.0-70.0%,65.0,70.0,67.5,happy,1,2,0.5,revenge,
+11,The Man,10,1,2,70.0-75.0%,70.0,75.0,72.5,neutral,4,5,0.8,revenge,
+11,The Man,10,1,2,75.0-80.0%,75.0,80.0,77.5,happy,3,8,0.375,revenge,
+11,The Man,10,1,2,80.0-85.0%,80.0,85.0,82.5,sad,5,9,0.5555555555555556,revenge,
+11,The Man,10,1,2,85.0-90.0%,85.0,90.0,87.5,neutral,7,12,0.5833333333333334,revenge,
+11,The Man,10,1,2,90.0-95.0%,90.0,95.0,92.5,fear,6,15,0.4,revenge,
+11,The Man,10,1,2,95.0-100.0%,95.0,100.0,97.5,neutral,18,22,0.8181818181818182,revenge,
+12,Which Hand,11,1,3,0.0-5.0%,0.0,5.0,2.5,happy,10,10,1.0,magic show,
+12,Which Hand,11,1,3,5.0-10.0%,5.0,10.0,7.5,happy,4,10,0.4,magic show,
+12,Which Hand,11,1,3,10.0-15.0%,10.0,15.0,12.5,happy,7,11,0.6363636363636364,magic show,
+12,Which Hand,11,1,3,15.0-20.0%,15.0,20.0,17.5,happy,5,10,0.5,magic show,
+12,Which Hand,11,1,3,20.0-25.0%,20.0,25.0,22.5,happy,16,17,0.9411764705882353,magic show,
+12,Which Hand,11,1,3,30.0-35.0%,30.0,35.0,32.5,happy,1,1,1.0,magic show,
+12,Which Hand,11,1,3,35.0-40.0%,35.0,40.0,37.5,happy,3,4,0.75,magic show,
+12,Which Hand,11,1,3,40.0-45.0%,40.0,45.0,42.5,sad,3,5,0.6,magic show,
+12,Which Hand,11,1,3,45.0-50.0%,45.0,50.0,47.5,surprise,1,1,1.0,magic show,
+12,Which Hand,11,1,3,50.0-55.0%,50.0,55.0,52.5,anger,6,13,0.46153846153846156,magic show,
+12,Which Hand,11,1,3,55.0-60.0%,55.0,60.0,57.5,disgust,4,10,0.4,magic show,
+12,Which Hand,11,1,3,60.0-65.0%,60.0,65.0,62.5,fear,4,7,0.5714285714285714,magic show,
+12,Which Hand,11,1,3,65.0-70.0%,65.0,70.0,67.5,surprise,3,5,0.6,magic show,
+12,Which Hand,11,1,3,70.0-75.0%,70.0,75.0,72.5,surprise,4,5,0.8,magic show,
+12,Which Hand,11,1,3,75.0-80.0%,75.0,80.0,77.5,anger,4,10,0.4,magic show,
+12,Which Hand,11,1,3,80.0-85.0%,80.0,85.0,82.5,anger,2,8,0.25,magic show,
+12,Which Hand,11,1,3,85.0-90.0%,85.0,90.0,87.5,neutral,4,9,0.4444444444444444,magic show,
+12,Which Hand,11,1,3,90.0-95.0%,90.0,95.0,92.5,happy,12,17,0.7058823529411765,magic show,
+12,Which Hand,11,1,3,95.0-100.0%,95.0,100.0,97.5,happy,5,11,0.45454545454545453,magic show,
+13,Focus Group,12,1,3,0.0-5.0%,0.0,5.0,2.5,neutral,9,14,0.6428571428571429,office,
+13,Focus Group,12,1,3,5.0-10.0%,5.0,10.0,7.5,neutral,9,22,0.4090909090909091,office,
+13,Focus Group,12,1,3,10.0-15.0%,10.0,15.0,12.5,neutral,8,20,0.4,office,
+13,Focus Group,12,1,3,15.0-20.0%,15.0,20.0,17.5,neutral,4,10,0.4,office,
+13,Focus Group,12,1,3,20.0-25.0%,20.0,25.0,22.5,surprise,5,13,0.38461538461538464,office,
+13,Focus Group,12,1,3,25.0-30.0%,25.0,30.0,27.5,fear,4,12,0.3333333333333333,office,
+13,Focus Group,12,1,3,30.0-35.0%,30.0,35.0,32.5,neutral,6,12,0.5,office,
+13,Focus Group,12,1,3,35.0-40.0%,35.0,40.0,37.5,surprise,5,11,0.45454545454545453,office,
+13,Focus Group,12,1,3,40.0-45.0%,40.0,45.0,42.5,surprise,6,12,0.5,office,
+13,Focus Group,12,1,3,45.0-50.0%,45.0,50.0,47.5,neutral,4,11,0.36363636363636365,office,
+13,Focus Group,12,1,3,50.0-55.0%,50.0,55.0,52.5,neutral,2,8,0.25,office,
+13,Focus Group,12,1,3,55.0-60.0%,55.0,60.0,57.5,neutral,4,7,0.5714285714285714,office,
+13,Focus Group,12,1,3,60.0-65.0%,60.0,65.0,62.5,surprise,6,13,0.46153846153846156,office,
+13,Focus Group,12,1,3,65.0-70.0%,65.0,70.0,67.5,sad,2,5,0.4,office,
+13,Focus Group,12,1,3,70.0-75.0%,70.0,75.0,72.5,sad,4,12,0.3333333333333333,office,
+13,Focus Group,12,1,3,75.0-80.0%,75.0,80.0,77.5,happy,10,22,0.45454545454545453,office,
+13,Focus Group,12,1,3,80.0-85.0%,80.0,85.0,82.5,surprise,9,16,0.5625,office,
+13,Focus Group,12,1,3,85.0-90.0%,85.0,90.0,87.5,surprise,9,12,0.75,office,
+13,Focus Group,12,1,3,90.0-95.0%,90.0,95.0,92.5,neutral,4,7,0.5714285714285714,office,
+13,Focus Group,12,1,3,95.0-100.0%,95.0,100.0,97.5,happy,10,24,0.4166666666666667,office,
+14,Laser Spine Specialists,13,1,3,0.0-5.0%,0.0,5.0,2.5,sad,2,5,0.4,commercial,
+14,Laser Spine Specialists,13,1,3,5.0-10.0%,5.0,10.0,7.5,happy,2,3,0.6666666666666666,commercial,
+14,Laser Spine Specialists,13,1,3,10.0-15.0%,10.0,15.0,12.5,happy,5,8,0.625,commercial,
+14,Laser Spine Specialists,13,1,3,15.0-20.0%,15.0,20.0,17.5,happy,6,10,0.6,commercial,
+14,Laser Spine Specialists,13,1,3,20.0-25.0%,20.0,25.0,22.5,happy,4,7,0.5714285714285714,commercial,
+14,Laser Spine Specialists,13,1,3,25.0-30.0%,25.0,30.0,27.5,happy,4,7,0.5714285714285714,commercial,
+14,Laser Spine Specialists,13,1,3,30.0-35.0%,30.0,35.0,32.5,disgust,3,12,0.25,commercial,
+14,Laser Spine Specialists,13,1,3,35.0-40.0%,35.0,40.0,37.5,happy,7,8,0.875,commercial,
+14,Laser Spine Specialists,13,1,3,40.0-45.0%,40.0,45.0,42.5,neutral,3,7,0.42857142857142855,commercial,
+14,Laser Spine Specialists,13,1,3,45.0-50.0%,45.0,50.0,47.5,happy,1,3,0.3333333333333333,commercial,
+14,Laser Spine Specialists,13,1,3,50.0-55.0%,50.0,55.0,52.5,anger,3,8,0.375,commercial,
+14,Laser Spine Specialists,13,1,3,55.0-60.0%,55.0,60.0,57.5,anger,2,3,0.6666666666666666,commercial,
+14,Laser Spine Specialists,13,1,3,60.0-65.0%,60.0,65.0,62.5,disgust,1,4,0.25,commercial,
+14,Laser Spine Specialists,13,1,3,65.0-70.0%,65.0,70.0,67.5,surprise,3,4,0.75,commercial,
+14,Laser Spine Specialists,13,1,3,70.0-75.0%,70.0,75.0,72.5,anger,4,11,0.36363636363636365,commercial,
+14,Laser Spine Specialists,13,1,3,75.0-80.0%,75.0,80.0,77.5,happy,3,10,0.3,commercial,
+14,Laser Spine Specialists,13,1,3,80.0-85.0%,80.0,85.0,82.5,sad,5,6,0.8333333333333334,commercial,
+14,Laser Spine Specialists,13,1,3,85.0-90.0%,85.0,90.0,87.5,sad,2,4,0.5,commercial,
+14,Laser Spine Specialists,13,1,3,90.0-95.0%,90.0,95.0,92.5,sad,4,6,0.6666666666666666,commercial,
+14,Laser Spine Specialists,13,1,3,95.0-100.0%,95.0,100.0,97.5,neutral,3,8,0.375,commercial,
+15,New Joe,14,1,3,0.0-5.0%,0.0,5.0,2.5,happy,2,4,0.5,funeral,
+15,New Joe,14,1,3,5.0-10.0%,5.0,10.0,7.5,neutral,12,15,0.8,funeral,
+15,New Joe,14,1,3,10.0-15.0%,10.0,15.0,12.5,neutral,2,4,0.5,funeral,
+15,New Joe,14,1,3,15.0-20.0%,15.0,20.0,17.5,neutral,8,13,0.6153846153846154,funeral,
+15,New Joe,14,1,3,20.0-25.0%,20.0,25.0,22.5,neutral,6,10,0.6,funeral,
+15,New Joe,14,1,3,25.0-30.0%,25.0,30.0,27.5,anger,3,5,0.6,funeral,
+15,New Joe,14,1,3,30.0-35.0%,30.0,35.0,32.5,happy,4,7,0.5714285714285714,funeral,
+15,New Joe,14,1,3,35.0-40.0%,35.0,40.0,37.5,neutral,4,5,0.8,funeral,
+15,New Joe,14,1,3,40.0-45.0%,40.0,45.0,42.5,neutral,1,3,0.3333333333333333,funeral,
+15,New Joe,14,1,3,45.0-50.0%,45.0,50.0,47.5,neutral,5,7,0.7142857142857143,funeral,
+15,New Joe,14,1,3,50.0-55.0%,50.0,55.0,52.5,neutral,8,8,1.0,funeral,
+15,New Joe,14,1,3,55.0-60.0%,55.0,60.0,57.5,happy,3,6,0.5,funeral,
+15,New Joe,14,1,3,60.0-65.0%,60.0,65.0,62.5,neutral,10,15,0.6666666666666666,funeral,
+15,New Joe,14,1,3,65.0-70.0%,65.0,70.0,67.5,neutral,7,11,0.6363636363636364,funeral,
+15,New Joe,14,1,3,70.0-75.0%,70.0,75.0,72.5,neutral,3,7,0.42857142857142855,funeral,
+15,New Joe,14,1,3,75.0-80.0%,75.0,80.0,77.5,neutral,9,13,0.6923076923076923,funeral,
+15,New Joe,14,1,3,80.0-85.0%,80.0,85.0,82.5,neutral,4,6,0.6666666666666666,funeral,
+15,New Joe,14,1,3,85.0-90.0%,85.0,90.0,87.5,neutral,7,8,0.875,funeral,
+15,New Joe,14,1,3,90.0-95.0%,90.0,95.0,92.5,neutral,3,5,0.6,funeral,
+15,New Joe,14,1,3,95.0-100.0%,95.0,100.0,97.5,neutral,2,4,0.5,funeral,
+16,Game Night,15,1,3,0.0-5.0%,0.0,5.0,2.5,happy,8,10,0.8,party,
+16,Game Night,15,1,3,5.0-10.0%,5.0,10.0,7.5,neutral,16,25,0.64,party,
+16,Game Night,15,1,3,10.0-15.0%,10.0,15.0,12.5,neutral,8,20,0.4,party,
+16,Game Night,15,1,3,15.0-20.0%,15.0,20.0,17.5,sad,11,22,0.5,party,
+16,Game Night,15,1,3,20.0-25.0%,20.0,25.0,22.5,neutral,12,22,0.5454545454545454,party,
+16,Game Night,15,1,3,25.0-30.0%,25.0,30.0,27.5,neutral,6,20,0.3,party,
+16,Game Night,15,1,3,30.0-35.0%,30.0,35.0,32.5,surprise,5,17,0.29411764705882354,party,
+16,Game Night,15,1,3,35.0-40.0%,35.0,40.0,37.5,sad,5,13,0.38461538461538464,party,
+16,Game Night,15,1,3,40.0-45.0%,40.0,45.0,42.5,neutral,17,29,0.5862068965517241,party,
+16,Game Night,15,1,3,45.0-50.0%,45.0,50.0,47.5,sad,9,26,0.34615384615384615,party,
+16,Game Night,15,1,3,50.0-55.0%,50.0,55.0,52.5,happy,7,17,0.4117647058823529,party,
+16,Game Night,15,1,3,55.0-60.0%,55.0,60.0,57.5,sad,7,18,0.3888888888888889,party,
+16,Game Night,15,1,3,60.0-65.0%,60.0,65.0,62.5,sad,6,15,0.4,party,
+16,Game Night,15,1,3,65.0-70.0%,65.0,70.0,67.5,sad,11,20,0.55,party,
+16,Game Night,15,1,3,70.0-75.0%,70.0,75.0,72.5,fear,4,14,0.2857142857142857,party,
+16,Game Night,15,1,3,75.0-80.0%,75.0,80.0,77.5,surprise,5,14,0.35714285714285715,party,
+16,Game Night,15,1,3,80.0-85.0%,80.0,85.0,82.5,fear,3,14,0.21428571428571427,party,
+16,Game Night,15,1,3,85.0-90.0%,85.0,90.0,87.5,sad,5,15,0.3333333333333333,party,
+16,Game Night,15,1,3,90.0-95.0%,90.0,95.0,92.5,anger,10,23,0.43478260869565216,party,
+16,Game Night,15,1,3,95.0-100.0%,95.0,100.0,97.5,neutral,12,22,0.5454545454545454,party,
+17,Lifetime Achievement,16,1,4,0.0-5.0%,0.0,5.0,2.5,neutral,12,15,0.8,party,
+17,Lifetime Achievement,16,1,4,5.0-10.0%,5.0,10.0,7.5,happy,4,10,0.4,party,
+17,Lifetime Achievement,16,1,4,10.0-15.0%,10.0,15.0,12.5,happy,4,10,0.4,party,
+17,Lifetime Achievement,16,1,4,15.0-20.0%,15.0,20.0,17.5,sad,7,14,0.5,party,
+17,Lifetime Achievement,16,1,4,20.0-25.0%,20.0,25.0,22.5,sad,9,15,0.6,party,
+17,Lifetime Achievement,16,1,4,25.0-30.0%,25.0,30.0,27.5,sad,10,13,0.7692307692307693,party,
+17,Lifetime Achievement,16,1,4,30.0-35.0%,30.0,35.0,32.5,neutral,4,10,0.4,party,
+17,Lifetime Achievement,16,1,4,35.0-40.0%,35.0,40.0,37.5,neutral,11,21,0.5238095238095238,party,
+17,Lifetime Achievement,16,1,4,40.0-45.0%,40.0,45.0,42.5,neutral,13,25,0.52,party,
+17,Lifetime Achievement,16,1,4,45.0-50.0%,45.0,50.0,47.5,happy,7,15,0.4666666666666667,party,
+17,Lifetime Achievement,16,1,4,50.0-55.0%,50.0,55.0,52.5,neutral,16,28,0.5714285714285714,party,
+17,Lifetime Achievement,16,1,4,55.0-60.0%,55.0,60.0,57.5,neutral,16,25,0.64,party,
+17,Lifetime Achievement,16,1,4,60.0-65.0%,60.0,65.0,62.5,neutral,4,13,0.3076923076923077,party,
+17,Lifetime Achievement,16,1,4,65.0-70.0%,65.0,70.0,67.5,neutral,4,6,0.6666666666666666,party,
+17,Lifetime Achievement,16,1,4,70.0-75.0%,70.0,75.0,72.5,happy,5,9,0.5555555555555556,party,
+17,Lifetime Achievement,16,1,4,75.0-80.0%,75.0,80.0,77.5,disgust,2,6,0.3333333333333333,party,
+17,Lifetime Achievement,16,1,4,80.0-85.0%,80.0,85.0,82.5,neutral,11,16,0.6875,party,
+17,Lifetime Achievement,16,1,4,85.0-90.0%,85.0,90.0,87.5,happy,6,13,0.46153846153846156,party,
+17,Lifetime Achievement,16,1,4,90.0-95.0%,90.0,95.0,92.5,happy,6,19,0.3157894736842105,party,
+17,Lifetime Achievement,16,1,4,95.0-100.0%,95.0,100.0,97.5,happy,2,5,0.4,party,
+18,A Christmas Carol,17,1,4,0.0-5.0%,0.0,5.0,2.5,neutral,5,6,0.8333333333333334,sci-fi/fantasy,
+18,A Christmas Carol,17,1,4,5.0-10.0%,5.0,10.0,7.5,surprise,1,1,1.0,sci-fi/fantasy,
+18,A Christmas Carol,17,1,4,10.0-15.0%,10.0,15.0,12.5,fear,1,2,0.5,sci-fi/fantasy,
+18,A Christmas Carol,17,1,4,15.0-20.0%,15.0,20.0,17.5,neutral,5,7,0.7142857142857143,sci-fi/fantasy,
+18,A Christmas Carol,17,1,4,20.0-25.0%,20.0,25.0,22.5,sad,1,1,1.0,sci-fi/fantasy,
+18,A Christmas Carol,17,1,4,25.0-30.0%,25.0,30.0,27.5,neutral,3,7,0.42857142857142855,sci-fi/fantasy,
+18,A Christmas Carol,17,1,4,30.0-35.0%,30.0,35.0,32.5,anger,2,8,0.25,sci-fi/fantasy,
+18,A Christmas Carol,17,1,4,35.0-40.0%,35.0,40.0,37.5,happy,2,5,0.4,sci-fi/fantasy,
+18,A Christmas Carol,17,1,4,40.0-45.0%,40.0,45.0,42.5,neutral,2,6,0.3333333333333333,sci-fi/fantasy,
+18,A Christmas Carol,17,1,4,45.0-50.0%,45.0,50.0,47.5,neutral,3,6,0.5,sci-fi/fantasy,
+18,A Christmas Carol,17,1,4,50.0-55.0%,50.0,55.0,52.5,happy,4,7,0.5714285714285714,sci-fi/fantasy,
+18,A Christmas Carol,17,1,4,55.0-60.0%,55.0,60.0,57.5,neutral,1,2,0.5,sci-fi/fantasy,
+18,A Christmas Carol,17,1,4,60.0-65.0%,60.0,65.0,62.5,happy,1,3,0.3333333333333333,sci-fi/fantasy,
+18,A Christmas Carol,17,1,4,65.0-70.0%,65.0,70.0,67.5,neutral,2,2,1.0,sci-fi/fantasy,
+18,A Christmas Carol,17,1,4,70.0-75.0%,70.0,75.0,72.5,neutral,3,3,1.0,sci-fi/fantasy,
+18,A Christmas Carol,17,1,4,75.0-80.0%,75.0,80.0,77.5,neutral,3,5,0.6,sci-fi/fantasy,
+18,A Christmas Carol,17,1,4,80.0-85.0%,80.0,85.0,82.5,anger,1,2,0.5,sci-fi/fantasy,
+18,A Christmas Carol,17,1,4,85.0-90.0%,85.0,90.0,87.5,happy,1,4,0.25,sci-fi/fantasy,
+18,A Christmas Carol,17,1,4,90.0-95.0%,90.0,95.0,92.5,happy,3,5,0.6,sci-fi/fantasy,
+18,A Christmas Carol,17,1,4,95.0-100.0%,95.0,100.0,97.5,neutral,4,5,0.8,sci-fi/fantasy,
+19,Nachos,18,1,4,0.0-5.0%,0.0,5.0,2.5,neutral,7,10,0.7,restaurant,dating
+19,Nachos,18,1,4,5.0-10.0%,5.0,10.0,7.5,sad,2,3,0.6666666666666666,restaurant,dating
+19,Nachos,18,1,4,10.0-15.0%,10.0,15.0,12.5,neutral,3,8,0.375,restaurant,dating
+19,Nachos,18,1,4,15.0-20.0%,15.0,20.0,17.5,sad,4,13,0.3076923076923077,restaurant,dating
+19,Nachos,18,1,4,20.0-25.0%,20.0,25.0,22.5,sad,10,15,0.6666666666666666,restaurant,dating
+19,Nachos,18,1,4,25.0-30.0%,25.0,30.0,27.5,sad,4,12,0.3333333333333333,restaurant,dating
+19,Nachos,18,1,4,30.0-35.0%,30.0,35.0,32.5,disgust,5,14,0.35714285714285715,restaurant,dating
+19,Nachos,18,1,4,35.0-40.0%,35.0,40.0,37.5,happy,3,9,0.3333333333333333,restaurant,dating
+19,Nachos,18,1,4,40.0-45.0%,40.0,45.0,42.5,happy,4,5,0.8,restaurant,dating
+19,Nachos,18,1,4,45.0-50.0%,45.0,50.0,47.5,sad,6,7,0.8571428571428571,restaurant,dating
+19,Nachos,18,1,4,50.0-55.0%,50.0,55.0,52.5,sad,3,4,0.75,restaurant,dating
+19,Nachos,18,1,4,55.0-60.0%,55.0,60.0,57.5,sad,5,7,0.7142857142857143,restaurant,dating
+19,Nachos,18,1,4,60.0-65.0%,60.0,65.0,62.5,surprise,2,5,0.4,restaurant,dating
+19,Nachos,18,1,4,65.0-70.0%,65.0,70.0,67.5,sad,2,2,1.0,restaurant,dating
+19,Nachos,18,1,4,70.0-75.0%,70.0,75.0,72.5,sad,3,4,0.75,restaurant,dating
+19,Nachos,18,1,4,75.0-80.0%,75.0,80.0,77.5,sad,3,9,0.3333333333333333,restaurant,dating
+19,Nachos,18,1,4,80.0-85.0%,80.0,85.0,82.5,sad,2,6,0.3333333333333333,restaurant,dating
+19,Nachos,18,1,4,85.0-90.0%,85.0,90.0,87.5,neutral,4,12,0.3333333333333333,restaurant,dating
+19,Nachos,18,1,4,90.0-95.0%,90.0,95.0,92.5,neutral,5,13,0.38461538461538464,restaurant,dating
+19,Nachos,18,1,4,95.0-100.0%,95.0,100.0,97.5,neutral,6,14,0.42857142857142855,restaurant,dating
+20,Traffic,19,1,4,0.0-5.0%,0.0,5.0,2.5,sad,10,15,0.6666666666666666,driving,funeral
+20,Traffic,19,1,4,5.0-10.0%,5.0,10.0,7.5,happy,5,11,0.45454545454545453,driving,funeral
+20,Traffic,19,1,4,10.0-15.0%,10.0,15.0,12.5,happy,11,15,0.7333333333333333,driving,funeral
+20,Traffic,19,1,4,15.0-20.0%,15.0,20.0,17.5,sad,2,4,0.5,driving,funeral
+20,Traffic,19,1,4,25.0-30.0%,25.0,30.0,27.5,neutral,10,16,0.625,driving,funeral
+20,Traffic,19,1,4,30.0-35.0%,30.0,35.0,32.5,neutral,18,18,1.0,driving,funeral
+20,Traffic,19,1,4,35.0-40.0%,35.0,40.0,37.5,neutral,13,22,0.5909090909090909,driving,funeral
+20,Traffic,19,1,4,40.0-45.0%,40.0,45.0,42.5,neutral,11,18,0.6111111111111112,driving,funeral
+20,Traffic,19,1,4,45.0-50.0%,45.0,50.0,47.5,neutral,6,16,0.375,driving,funeral
+20,Traffic,19,1,4,50.0-55.0%,50.0,55.0,52.5,anger,4,18,0.2222222222222222,driving,funeral
+20,Traffic,19,1,4,55.0-60.0%,55.0,60.0,57.5,disgust,10,18,0.5555555555555556,driving,funeral
+20,Traffic,19,1,4,60.0-65.0%,60.0,65.0,62.5,sad,7,13,0.5384615384615384,driving,funeral
+20,Traffic,19,1,4,65.0-70.0%,65.0,70.0,67.5,happy,1,3,0.3333333333333333,driving,funeral
+20,Traffic,19,1,4,70.0-75.0%,70.0,75.0,72.5,neutral,4,11,0.36363636363636365,driving,funeral
+20,Traffic,19,1,4,75.0-80.0%,75.0,80.0,77.5,neutral,22,28,0.7857142857142857,driving,funeral
+20,Traffic,19,1,4,80.0-85.0%,80.0,85.0,82.5,neutral,13,30,0.43333333333333335,driving,funeral
+20,Traffic,19,1,4,85.0-90.0%,85.0,90.0,87.5,happy,5,12,0.4166666666666667,driving,funeral
+20,Traffic,19,1,4,90.0-95.0%,90.0,95.0,92.5,neutral,6,12,0.5,driving,funeral
+20,Traffic,19,1,4,95.0-100.0%,95.0,100.0,97.5,happy,10,23,0.43478260869565216,driving,funeral
+21,Brooks Brothers,20,1,5,0.0-5.0%,0.0,5.0,2.5,neutral,7,11,0.6363636363636364,driving,
+21,Brooks Brothers,20,1,5,5.0-10.0%,5.0,10.0,7.5,neutral,10,21,0.47619047619047616,driving,
+21,Brooks Brothers,20,1,5,10.0-15.0%,10.0,15.0,12.5,sad,8,20,0.4,driving,
+21,Brooks Brothers,20,1,5,15.0-20.0%,15.0,20.0,17.5,neutral,7,20,0.35,driving,
+21,Brooks Brothers,20,1,5,20.0-25.0%,20.0,25.0,22.5,sad,5,14,0.35714285714285715,driving,
+21,Brooks Brothers,20,1,5,25.0-30.0%,25.0,30.0,27.5,neutral,8,22,0.36363636363636365,driving,
+21,Brooks Brothers,20,1,5,30.0-35.0%,30.0,35.0,32.5,neutral,9,26,0.34615384615384615,driving,
+21,Brooks Brothers,20,1,5,35.0-40.0%,35.0,40.0,37.5,sad,9,13,0.6923076923076923,driving,
+21,Brooks Brothers,20,1,5,40.0-45.0%,40.0,45.0,42.5,neutral,11,26,0.4230769230769231,driving,
+21,Brooks Brothers,20,1,5,45.0-50.0%,45.0,50.0,47.5,neutral,12,22,0.5454545454545454,driving,
+21,Brooks Brothers,20,1,5,50.0-55.0%,50.0,55.0,52.5,neutral,18,34,0.5294117647058824,driving,
+21,Brooks Brothers,20,1,5,55.0-60.0%,55.0,60.0,57.5,neutral,21,40,0.525,driving,
+21,Brooks Brothers,20,1,5,60.0-65.0%,60.0,65.0,62.5,neutral,11,30,0.36666666666666664,driving,
+21,Brooks Brothers,20,1,5,65.0-70.0%,65.0,70.0,67.5,sad,8,21,0.38095238095238093,driving,
+21,Brooks Brothers,20,1,5,70.0-75.0%,70.0,75.0,72.5,neutral,9,15,0.6,driving,
+21,Brooks Brothers,20,1,5,75.0-80.0%,75.0,80.0,77.5,neutral,6,7,0.8571428571428571,driving,
+21,Brooks Brothers,20,1,5,80.0-85.0%,80.0,85.0,82.5,anger,4,11,0.36363636363636365,driving,
+21,Brooks Brothers,20,1,5,85.0-90.0%,85.0,90.0,87.5,sad,5,17,0.29411764705882354,driving,
+21,Brooks Brothers,20,1,5,90.0-95.0%,90.0,95.0,92.5,neutral,5,11,0.45454545454545453,driving,
+21,Brooks Brothers,20,1,5,95.0-100.0%,95.0,100.0,97.5,sad,6,13,0.46153846153846156,driving,
+22,Choking,21,1,5,0.0-5.0%,0.0,5.0,2.5,happy,17,38,0.4473684210526316,restaurant,
+22,Choking,21,1,5,5.0-10.0%,5.0,10.0,7.5,happy,12,19,0.631578947368421,restaurant,
+22,Choking,21,1,5,10.0-15.0%,10.0,15.0,12.5,surprise,2,4,0.5,restaurant,
+22,Choking,21,1,5,15.0-20.0%,15.0,20.0,17.5,happy,4,10,0.4,restaurant,
+22,Choking,21,1,5,20.0-25.0%,20.0,25.0,22.5,happy,4,7,0.5714285714285714,restaurant,
+22,Choking,21,1,5,25.0-30.0%,25.0,30.0,27.5,sad,5,7,0.7142857142857143,restaurant,
+22,Choking,21,1,5,30.0-35.0%,30.0,35.0,32.5,neutral,3,7,0.42857142857142855,restaurant,
+22,Choking,21,1,5,35.0-40.0%,35.0,40.0,37.5,sad,6,12,0.5,restaurant,
+22,Choking,21,1,5,40.0-45.0%,40.0,45.0,42.5,neutral,7,10,0.7,restaurant,
+22,Choking,21,1,5,45.0-50.0%,45.0,50.0,47.5,sad,6,12,0.5,restaurant,
+22,Choking,21,1,5,50.0-55.0%,50.0,55.0,52.5,neutral,7,14,0.5,restaurant,
+22,Choking,21,1,5,55.0-60.0%,55.0,60.0,57.5,happy,3,7,0.42857142857142855,restaurant,
+22,Choking,21,1,5,60.0-65.0%,60.0,65.0,62.5,neutral,2,4,0.5,restaurant,
+22,Choking,21,1,5,65.0-70.0%,65.0,70.0,67.5,sad,3,5,0.6,restaurant,
+22,Choking,21,1,5,70.0-75.0%,70.0,75.0,72.5,neutral,8,14,0.5714285714285714,restaurant,
+22,Choking,21,1,5,75.0-80.0%,75.0,80.0,77.5,neutral,14,21,0.6666666666666666,restaurant,
+22,Choking,21,1,5,80.0-85.0%,80.0,85.0,82.5,neutral,4,7,0.5714285714285714,restaurant,
+22,Choking,21,1,5,85.0-90.0%,85.0,90.0,87.5,neutral,33,48,0.6875,restaurant,
+22,Choking,21,1,5,90.0-95.0%,90.0,95.0,92.5,neutral,15,31,0.4838709677419355,restaurant,
+22,Choking,21,1,5,95.0-100.0%,95.0,100.0,97.5,happy,7,9,0.7777777777777778,restaurant,
+23,New Printer,22,1,5,0.0-5.0%,0.0,5.0,2.5,neutral,10,20,0.5,office,
+23,New Printer,22,1,5,5.0-10.0%,5.0,10.0,7.5,happy,9,13,0.6923076923076923,office,
+23,New Printer,22,1,5,10.0-15.0%,10.0,15.0,12.5,happy,4,9,0.4444444444444444,office,
+23,New Printer,22,1,5,15.0-20.0%,15.0,20.0,17.5,happy,5,11,0.45454545454545453,office,
+23,New Printer,22,1,5,20.0-25.0%,20.0,25.0,22.5,happy,6,19,0.3157894736842105,office,
+23,New Printer,22,1,5,25.0-30.0%,25.0,30.0,27.5,disgust,2,8,0.25,office,
+23,New Printer,22,1,5,30.0-35.0%,30.0,35.0,32.5,happy,12,16,0.75,office,
+23,New Printer,22,1,5,35.0-40.0%,35.0,40.0,37.5,disgust,3,8,0.375,office,
+23,New Printer,22,1,5,40.0-45.0%,40.0,45.0,42.5,sad,6,9,0.6666666666666666,office,
+23,New Printer,22,1,5,45.0-50.0%,45.0,50.0,47.5,anger,2,4,0.5,office,
+23,New Printer,22,1,5,50.0-55.0%,50.0,55.0,52.5,sad,4,13,0.3076923076923077,office,
+23,New Printer,22,1,5,55.0-60.0%,55.0,60.0,57.5,sad,5,9,0.5555555555555556,office,
+23,New Printer,22,1,5,60.0-65.0%,60.0,65.0,62.5,neutral,6,12,0.5,office,
+23,New Printer,22,1,5,65.0-70.0%,65.0,70.0,67.5,anger,1,3,0.3333333333333333,office,
+23,New Printer,22,1,5,70.0-75.0%,70.0,75.0,72.5,disgust,1,4,0.25,office,
+23,New Printer,22,1,5,75.0-80.0%,75.0,80.0,77.5,anger,1,4,0.25,office,
+23,New Printer,22,1,5,80.0-85.0%,80.0,85.0,82.5,disgust,3,6,0.5,office,
+23,New Printer,22,1,5,85.0-90.0%,85.0,90.0,87.5,disgust,2,6,0.3333333333333333,office,
+23,New Printer,22,1,5,90.0-95.0%,90.0,95.0,92.5,neutral,14,19,0.7368421052631579,office,
+23,New Printer,22,1,5,95.0-100.0%,95.0,100.0,97.5,happy,9,18,0.5,office,
+24,The Day Robert Palins Murdered Me,23,1,5,0.0-5.0%,0.0,5.0,2.5,neutral,18,31,0.5806451612903226,music,
+24,The Day Robert Palins Murdered Me,23,1,5,5.0-10.0%,5.0,10.0,7.5,happy,13,22,0.5909090909090909,music,
+24,The Day Robert Palins Murdered Me,23,1,5,10.0-15.0%,10.0,15.0,12.5,happy,6,19,0.3157894736842105,music,
+24,The Day Robert Palins Murdered Me,23,1,5,15.0-20.0%,15.0,20.0,17.5,sad,5,13,0.38461538461538464,music,
+24,The Day Robert Palins Murdered Me,23,1,5,20.0-25.0%,20.0,25.0,22.5,neutral,4,12,0.3333333333333333,music,
+24,The Day Robert Palins Murdered Me,23,1,5,25.0-30.0%,25.0,30.0,27.5,neutral,15,29,0.5172413793103449,music,
+24,The Day Robert Palins Murdered Me,23,1,5,30.0-35.0%,30.0,35.0,32.5,neutral,13,24,0.5416666666666666,music,
+24,The Day Robert Palins Murdered Me,23,1,5,35.0-40.0%,35.0,40.0,37.5,neutral,8,28,0.2857142857142857,music,
+24,The Day Robert Palins Murdered Me,23,1,5,40.0-45.0%,40.0,45.0,42.5,neutral,5,19,0.2631578947368421,music,
+24,The Day Robert Palins Murdered Me,23,1,5,45.0-50.0%,45.0,50.0,47.5,sad,4,14,0.2857142857142857,music,
+24,The Day Robert Palins Murdered Me,23,1,5,50.0-55.0%,50.0,55.0,52.5,neutral,7,23,0.30434782608695654,music,
+24,The Day Robert Palins Murdered Me,23,1,5,55.0-60.0%,55.0,60.0,57.5,neutral,5,15,0.3333333333333333,music,
+24,The Day Robert Palins Murdered Me,23,1,5,60.0-65.0%,60.0,65.0,62.5,neutral,6,17,0.35294117647058826,music,
+24,The Day Robert Palins Murdered Me,23,1,5,65.0-70.0%,65.0,70.0,67.5,sad,10,24,0.4166666666666667,music,
+24,The Day Robert Palins Murdered Me,23,1,5,70.0-75.0%,70.0,75.0,72.5,sad,17,26,0.6538461538461539,music,
+24,The Day Robert Palins Murdered Me,23,1,5,75.0-80.0%,75.0,80.0,77.5,happy,8,17,0.47058823529411764,music,
+24,The Day Robert Palins Murdered Me,23,1,5,80.0-85.0%,80.0,85.0,82.5,neutral,2,7,0.2857142857142857,music,
+24,The Day Robert Palins Murdered Me,23,1,5,85.0-90.0%,85.0,90.0,87.5,sad,7,14,0.5,music,
+24,The Day Robert Palins Murdered Me,23,1,5,90.0-95.0%,90.0,95.0,92.5,happy,10,21,0.47619047619047616,music,
+24,The Day Robert Palins Murdered Me,23,1,5,95.0-100.0%,95.0,100.0,97.5,neutral,9,24,0.375,music,
+25,Babysitter,24,1,5,0.0-5.0%,0.0,5.0,2.5,happy,11,17,0.6470588235294118,party,
+25,Babysitter,24,1,5,5.0-10.0%,5.0,10.0,7.5,happy,8,12,0.6666666666666666,party,
+25,Babysitter,24,1,5,10.0-15.0%,10.0,15.0,12.5,happy,13,20,0.65,party,
+25,Babysitter,24,1,5,15.0-20.0%,15.0,20.0,17.5,neutral,5,12,0.4166666666666667,party,
+25,Babysitter,24,1,5,20.0-25.0%,20.0,25.0,22.5,sad,11,20,0.55,party,
+25,Babysitter,24,1,5,25.0-30.0%,25.0,30.0,27.5,happy,3,11,0.2727272727272727,party,
+25,Babysitter,24,1,5,30.0-35.0%,30.0,35.0,32.5,surprise,4,9,0.4444444444444444,party,
+25,Babysitter,24,1,5,35.0-40.0%,35.0,40.0,37.5,surprise,6,17,0.35294117647058826,party,
+25,Babysitter,24,1,5,40.0-45.0%,40.0,45.0,42.5,sad,6,15,0.4,party,
+25,Babysitter,24,1,5,45.0-50.0%,45.0,50.0,47.5,anger,7,13,0.5384615384615384,party,
+25,Babysitter,24,1,5,50.0-55.0%,50.0,55.0,52.5,anger,2,9,0.2222222222222222,party,
+25,Babysitter,24,1,5,55.0-60.0%,55.0,60.0,57.5,fear,2,7,0.2857142857142857,party,
+25,Babysitter,24,1,5,60.0-65.0%,60.0,65.0,62.5,happy,4,10,0.4,party,
+25,Babysitter,24,1,5,65.0-70.0%,65.0,70.0,67.5,sad,12,18,0.6666666666666666,party,
+25,Babysitter,24,1,5,70.0-75.0%,70.0,75.0,72.5,happy,5,16,0.3125,party,
+25,Babysitter,24,1,5,75.0-80.0%,75.0,80.0,77.5,sad,4,9,0.4444444444444444,party,
+25,Babysitter,24,1,5,80.0-85.0%,80.0,85.0,82.5,happy,11,20,0.55,party,
+25,Babysitter,24,1,5,85.0-90.0%,85.0,90.0,87.5,neutral,6,12,0.5,party,
+25,Babysitter,24,1,5,90.0-95.0%,90.0,95.0,92.5,surprise,6,13,0.46153846153846156,party,
+25,Babysitter,24,1,5,95.0-100.0%,95.0,100.0,97.5,surprise,8,18,0.4444444444444444,party,
+26,Fenton's Stables and Horse Farm,25,1,6,0.0-5.0%,0.0,5.0,2.5,disgust,2,4,0.5,commercial,
+26,Fenton's Stables and Horse Farm,25,1,6,5.0-10.0%,5.0,10.0,7.5,disgust,2,2,1.0,commercial,
+26,Fenton's Stables and Horse Farm,25,1,6,10.0-15.0%,10.0,15.0,12.5,neutral,3,6,0.5,commercial,
+26,Fenton's Stables and Horse Farm,25,1,6,15.0-20.0%,15.0,20.0,17.5,happy,4,4,1.0,commercial,
+26,Fenton's Stables and Horse Farm,25,1,6,20.0-25.0%,20.0,25.0,22.5,happy,2,2,1.0,commercial,
+26,Fenton's Stables and Horse Farm,25,1,6,25.0-30.0%,25.0,30.0,27.5,happy,4,8,0.5,commercial,
+26,Fenton's Stables and Horse Farm,25,1,6,30.0-35.0%,30.0,35.0,32.5,fear,4,5,0.8,commercial,
+26,Fenton's Stables and Horse Farm,25,1,6,35.0-40.0%,35.0,40.0,37.5,disgust,2,2,1.0,commercial,
+26,Fenton's Stables and Horse Farm,25,1,6,50.0-55.0%,50.0,55.0,52.5,happy,3,3,1.0,commercial,
+26,Fenton's Stables and Horse Farm,25,1,6,55.0-60.0%,55.0,60.0,57.5,happy,4,8,0.5,commercial,
+26,Fenton's Stables and Horse Farm,25,1,6,60.0-65.0%,60.0,65.0,62.5,fear,2,3,0.6666666666666666,commercial,
+26,Fenton's Stables and Horse Farm,25,1,6,65.0-70.0%,65.0,70.0,67.5,neutral,3,4,0.75,commercial,
+26,Fenton's Stables and Horse Farm,25,1,6,70.0-75.0%,70.0,75.0,72.5,happy,2,4,0.5,commercial,
+26,Fenton's Stables and Horse Farm,25,1,6,75.0-80.0%,75.0,80.0,77.5,disgust,1,3,0.3333333333333333,commercial,
+26,Fenton's Stables and Horse Farm,25,1,6,80.0-85.0%,80.0,85.0,82.5,neutral,5,7,0.7142857142857143,commercial,
+26,Fenton's Stables and Horse Farm,25,1,6,85.0-90.0%,85.0,90.0,87.5,neutral,3,5,0.6,commercial,
+26,Fenton's Stables and Horse Farm,25,1,6,90.0-95.0%,90.0,95.0,92.5,disgust,2,4,0.5,commercial,
+26,Fenton's Stables and Horse Farm,25,1,6,95.0-100.0%,95.0,100.0,97.5,happy,3,4,0.75,commercial,
+27,Chunky,26,1,6,0.0-5.0%,0.0,5.0,2.5,happy,10,16,0.625,game show,
+27,Chunky,26,1,6,5.0-10.0%,5.0,10.0,7.5,happy,7,13,0.5384615384615384,game show,
+27,Chunky,26,1,6,10.0-15.0%,10.0,15.0,12.5,happy,8,14,0.5714285714285714,game show,
+27,Chunky,26,1,6,15.0-20.0%,15.0,20.0,17.5,happy,10,13,0.7692307692307693,game show,
+27,Chunky,26,1,6,20.0-25.0%,20.0,25.0,22.5,happy,10,14,0.7142857142857143,game show,
+27,Chunky,26,1,6,25.0-30.0%,25.0,30.0,27.5,happy,11,13,0.8461538461538461,game show,
+27,Chunky,26,1,6,30.0-35.0%,30.0,35.0,32.5,happy,8,12,0.6666666666666666,game show,
+27,Chunky,26,1,6,35.0-40.0%,35.0,40.0,37.5,neutral,5,13,0.38461538461538464,game show,
+27,Chunky,26,1,6,40.0-45.0%,40.0,45.0,42.5,happy,7,15,0.4666666666666667,game show,
+27,Chunky,26,1,6,45.0-50.0%,45.0,50.0,47.5,happy,7,15,0.4666666666666667,game show,
+27,Chunky,26,1,6,50.0-55.0%,50.0,55.0,52.5,happy,7,15,0.4666666666666667,game show,
+27,Chunky,26,1,6,55.0-60.0%,55.0,60.0,57.5,happy,7,13,0.5384615384615384,game show,
+27,Chunky,26,1,6,60.0-65.0%,60.0,65.0,62.5,neutral,7,14,0.5,game show,
+27,Chunky,26,1,6,65.0-70.0%,65.0,70.0,67.5,neutral,6,12,0.5,game show,
+27,Chunky,26,1,6,70.0-75.0%,70.0,75.0,72.5,happy,2,6,0.3333333333333333,game show,
+27,Chunky,26,1,6,75.0-80.0%,75.0,80.0,77.5,disgust,5,14,0.35714285714285715,game show,
+27,Chunky,26,1,6,80.0-85.0%,80.0,85.0,82.5,happy,3,11,0.2727272727272727,game show,
+27,Chunky,26,1,6,85.0-90.0%,85.0,90.0,87.5,neutral,6,12,0.5,game show,
+27,Chunky,26,1,6,90.0-95.0%,90.0,95.0,92.5,neutral,4,13,0.3076923076923077,game show,
+27,Chunky,26,1,6,95.0-100.0%,95.0,100.0,97.5,neutral,4,14,0.2857142857142857,game show,
+28,Bozo,27,1,6,0.0-5.0%,0.0,5.0,2.5,neutral,8,14,0.5714285714285714,office,
+28,Bozo,27,1,6,5.0-10.0%,5.0,10.0,7.5,happy,8,16,0.5,office,
+28,Bozo,27,1,6,10.0-15.0%,10.0,15.0,12.5,happy,5,8,0.625,office,
+28,Bozo,27,1,6,15.0-20.0%,15.0,20.0,17.5,happy,6,6,1.0,office,
+28,Bozo,27,1,6,20.0-25.0%,20.0,25.0,22.5,happy,7,8,0.875,office,
+28,Bozo,27,1,6,25.0-30.0%,25.0,30.0,27.5,happy,5,7,0.7142857142857143,office,
+28,Bozo,27,1,6,30.0-35.0%,30.0,35.0,32.5,happy,4,6,0.6666666666666666,office,
+28,Bozo,27,1,6,35.0-40.0%,35.0,40.0,37.5,happy,12,15,0.8,office,
+28,Bozo,27,1,6,40.0-45.0%,40.0,45.0,42.5,happy,5,6,0.8333333333333334,office,
+28,Bozo,27,1,6,45.0-50.0%,45.0,50.0,47.5,happy,3,7,0.42857142857142855,office,
+28,Bozo,27,1,6,50.0-55.0%,50.0,55.0,52.5,sad,3,6,0.5,office,
+28,Bozo,27,1,6,55.0-60.0%,55.0,60.0,57.5,neutral,9,15,0.6,office,
+28,Bozo,27,1,6,60.0-65.0%,60.0,65.0,62.5,disgust,3,10,0.3,office,
+28,Bozo,27,1,6,65.0-70.0%,65.0,70.0,67.5,neutral,10,18,0.5555555555555556,office,
+28,Bozo,27,1,6,70.0-75.0%,70.0,75.0,72.5,surprise,4,10,0.4,office,
+28,Bozo,27,1,6,75.0-80.0%,75.0,80.0,77.5,happy,2,6,0.3333333333333333,office,
+28,Bozo,27,1,6,80.0-85.0%,80.0,85.0,82.5,disgust,1,4,0.25,office,
+28,Bozo,27,1,6,85.0-90.0%,85.0,90.0,87.5,happy,6,8,0.75,office,
+28,Bozo,27,1,6,90.0-95.0%,90.0,95.0,92.5,happy,4,4,1.0,office,
+28,Bozo,27,1,6,95.0-100.0%,95.0,100.0,97.5,happy,9,9,1.0,office,
+29,Baby Shower,28,1,6,0.0-5.0%,0.0,5.0,2.5,happy,17,28,0.6071428571428571,party,
+29,Baby Shower,28,1,6,5.0-10.0%,5.0,10.0,7.5,happy,12,19,0.631578947368421,party,
+29,Baby Shower,28,1,6,10.0-15.0%,10.0,15.0,12.5,neutral,5,14,0.35714285714285715,party,
+29,Baby Shower,28,1,6,15.0-20.0%,15.0,20.0,17.5,happy,6,10,0.6,party,
+29,Baby Shower,28,1,6,20.0-25.0%,20.0,25.0,22.5,happy,9,25,0.36,party,
+29,Baby Shower,28,1,6,25.0-30.0%,25.0,30.0,27.5,happy,8,21,0.38095238095238093,party,
+29,Baby Shower,28,1,6,30.0-35.0%,30.0,35.0,32.5,happy,9,19,0.47368421052631576,party,
+29,Baby Shower,28,1,6,35.0-40.0%,35.0,40.0,37.5,disgust,11,28,0.39285714285714285,party,
+29,Baby Shower,28,1,6,40.0-45.0%,40.0,45.0,42.5,happy,3,11,0.2727272727272727,party,
+29,Baby Shower,28,1,6,45.0-50.0%,45.0,50.0,47.5,disgust,6,18,0.3333333333333333,party,
+29,Baby Shower,28,1,6,50.0-55.0%,50.0,55.0,52.5,disgust,5,17,0.29411764705882354,party,
+29,Baby Shower,28,1,6,55.0-60.0%,55.0,60.0,57.5,sad,8,25,0.32,party,
+29,Baby Shower,28,1,6,60.0-65.0%,60.0,65.0,62.5,neutral,7,16,0.4375,party,
+29,Baby Shower,28,1,6,65.0-70.0%,65.0,70.0,67.5,anger,1,3,0.3333333333333333,party,
+29,Baby Shower,28,1,6,70.0-75.0%,70.0,75.0,72.5,neutral,9,16,0.5625,party,
+29,Baby Shower,28,1,6,75.0-80.0%,75.0,80.0,77.5,sad,4,6,0.6666666666666666,party,
+29,Baby Shower,28,1,6,80.0-85.0%,80.0,85.0,82.5,neutral,2,6,0.3333333333333333,party,
+29,Baby Shower,28,1,6,85.0-90.0%,85.0,90.0,87.5,happy,11,24,0.4583333333333333,party,
+29,Baby Shower,28,1,6,90.0-95.0%,90.0,95.0,92.5,happy,12,28,0.42857142857142855,party,
+29,Baby Shower,28,1,6,95.0-100.0%,95.0,100.0,97.5,neutral,5,10,0.5,party,
+30,Bozo,29,1,6,0.0-5.0%,0.0,5.0,2.5,neutral,12,17,0.7058823529411765,office,
+30,Bozo,29,1,6,5.0-10.0%,5.0,10.0,7.5,happy,7,15,0.4666666666666667,office,
+30,Bozo,29,1,6,10.0-15.0%,10.0,15.0,12.5,neutral,5,12,0.4166666666666667,office,
+30,Bozo,29,1,6,15.0-20.0%,15.0,20.0,17.5,disgust,3,9,0.3333333333333333,office,
+30,Bozo,29,1,6,20.0-25.0%,20.0,25.0,22.5,neutral,3,8,0.375,office,
+30,Bozo,29,1,6,25.0-30.0%,25.0,30.0,27.5,neutral,4,5,0.8,office,
+30,Bozo,29,1,6,30.0-35.0%,30.0,35.0,32.5,disgust,8,10,0.8,office,
+30,Bozo,29,1,6,45.0-50.0%,45.0,50.0,47.5,disgust,5,10,0.5,office,
+30,Bozo,29,1,6,55.0-60.0%,55.0,60.0,57.5,disgust,1,2,0.5,office,
+30,Bozo,29,1,6,60.0-65.0%,60.0,65.0,62.5,disgust,1,1,1.0,office,
+30,Bozo,29,1,6,65.0-70.0%,65.0,70.0,67.5,anger,3,6,0.5,office,
+30,Bozo,29,1,6,70.0-75.0%,70.0,75.0,72.5,disgust,3,7,0.42857142857142855,office,
+30,Bozo,29,1,6,75.0-80.0%,75.0,80.0,77.5,happy,2,2,1.0,office,
+30,Bozo,29,1,6,80.0-85.0%,80.0,85.0,82.5,disgust,4,10,0.4,office,
+30,Bozo,29,1,6,85.0-90.0%,85.0,90.0,87.5,neutral,8,12,0.6666666666666666,office,
+30,Bozo,29,1,6,90.0-95.0%,90.0,95.0,92.5,neutral,5,12,0.4166666666666667,office,
+30,Bozo,29,1,6,95.0-100.0%,95.0,100.0,97.5,surprise,8,10,0.8,office,
+31,Party House,30,1,6,0.0-5.0%,0.0,5.0,2.5,disgust,9,18,0.5,party,
+31,Party House,30,1,6,5.0-10.0%,5.0,10.0,7.5,neutral,5,15,0.3333333333333333,party,
+31,Party House,30,1,6,10.0-15.0%,10.0,15.0,12.5,disgust,6,20,0.3,party,
+31,Party House,30,1,6,15.0-20.0%,15.0,20.0,17.5,disgust,5,13,0.38461538461538464,party,
+31,Party House,30,1,6,20.0-25.0%,20.0,25.0,22.5,sad,1,2,0.5,party,
+31,Party House,30,1,6,25.0-30.0%,25.0,30.0,27.5,sad,4,7,0.5714285714285714,party,
+31,Party House,30,1,6,30.0-35.0%,30.0,35.0,32.5,disgust,2,9,0.2222222222222222,party,
+31,Party House,30,1,6,35.0-40.0%,35.0,40.0,37.5,neutral,8,14,0.5714285714285714,party,
+31,Party House,30,1,6,40.0-45.0%,40.0,45.0,42.5,sad,6,14,0.42857142857142855,party,
+31,Party House,30,1,6,45.0-50.0%,45.0,50.0,47.5,sad,9,14,0.6428571428571429,party,
+31,Party House,30,1,6,50.0-55.0%,50.0,55.0,52.5,neutral,8,15,0.5333333333333333,party,
+31,Party House,30,1,6,55.0-60.0%,55.0,60.0,57.5,sad,5,10,0.5,party,
+31,Party House,30,1,6,60.0-65.0%,60.0,65.0,62.5,surprise,4,9,0.4444444444444444,party,
+31,Party House,30,1,6,65.0-70.0%,65.0,70.0,67.5,sad,5,17,0.29411764705882354,party,
+31,Party House,30,1,6,70.0-75.0%,70.0,75.0,72.5,sad,11,23,0.4782608695652174,party,
+31,Party House,30,1,6,75.0-80.0%,75.0,80.0,77.5,sad,6,13,0.46153846153846156,party,
+31,Party House,30,1,6,80.0-85.0%,80.0,85.0,82.5,fear,5,8,0.625,party,
+31,Party House,30,1,6,85.0-90.0%,85.0,90.0,87.5,sad,3,5,0.6,party,
+31,Party House,30,1,6,90.0-95.0%,90.0,95.0,92.5,surprise,3,12,0.25,party,
+31,Party House,30,1,6,95.0-100.0%,95.0,100.0,97.5,sad,6,15,0.4,party,
+32,H.D. Vac Part II,31,2,1,0.0-5.0%,0.0,5.0,2.5,sad,5,10,0.5,office,
+32,H.D. Vac Part II,31,2,1,5.0-10.0%,5.0,10.0,7.5,sad,5,9,0.5555555555555556,office,
+32,H.D. Vac Part II,31,2,1,10.0-15.0%,10.0,15.0,12.5,neutral,6,11,0.5454545454545454,office,
+32,H.D. Vac Part II,31,2,1,15.0-20.0%,15.0,20.0,17.5,neutral,3,6,0.5,office,
+32,H.D. Vac Part II,31,2,1,20.0-25.0%,20.0,25.0,22.5,neutral,3,9,0.3333333333333333,office,
+32,H.D. Vac Part II,31,2,1,25.0-30.0%,25.0,30.0,27.5,sad,15,21,0.7142857142857143,office,
+32,H.D. Vac Part II,31,2,1,30.0-35.0%,30.0,35.0,32.5,sad,6,9,0.6666666666666666,office,
+32,H.D. Vac Part II,31,2,1,35.0-40.0%,35.0,40.0,37.5,sad,6,9,0.6666666666666666,office,
+32,H.D. Vac Part II,31,2,1,40.0-45.0%,40.0,45.0,42.5,anger,8,11,0.7272727272727273,office,
+32,H.D. Vac Part II,31,2,1,45.0-50.0%,45.0,50.0,47.5,sad,9,15,0.6,office,
+32,H.D. Vac Part II,31,2,1,50.0-55.0%,50.0,55.0,52.5,neutral,6,12,0.5,office,
+32,H.D. Vac Part II,31,2,1,55.0-60.0%,55.0,60.0,57.5,sad,6,8,0.75,office,
+32,H.D. Vac Part II,31,2,1,60.0-65.0%,60.0,65.0,62.5,sad,2,3,0.6666666666666666,office,
+32,H.D. Vac Part II,31,2,1,65.0-70.0%,65.0,70.0,67.5,anger,2,4,0.5,office,
+32,H.D. Vac Part II,31,2,1,70.0-75.0%,70.0,75.0,72.5,anger,2,6,0.3333333333333333,office,
+32,H.D. Vac Part II,31,2,1,75.0-80.0%,75.0,80.0,77.5,fear,3,7,0.42857142857142855,office,
+32,H.D. Vac Part II,31,2,1,80.0-85.0%,80.0,85.0,82.5,disgust,1,1,1.0,office,
+32,H.D. Vac Part II,31,2,1,85.0-90.0%,85.0,90.0,87.5,neutral,5,20,0.25,office,
+32,H.D. Vac Part II,31,2,1,90.0-95.0%,90.0,95.0,92.5,happy,1,2,0.5,office,
+32,H.D. Vac Part II,31,2,1,95.0-100.0%,95.0,100.0,97.5,surprise,6,7,0.8571428571428571,office,
+33,Corncob TV,32,2,1,0.0-5.0%,0.0,5.0,2.5,surprise,5,6,0.8333333333333334,commercial,funeral
+33,Corncob TV,32,2,1,5.0-10.0%,5.0,10.0,7.5,disgust,3,5,0.6,commercial,funeral
+33,Corncob TV,32,2,1,10.0-15.0%,10.0,15.0,12.5,happy,3,6,0.5,commercial,funeral
+33,Corncob TV,32,2,1,15.0-20.0%,15.0,20.0,17.5,surprise,3,5,0.6,commercial,funeral
+33,Corncob TV,32,2,1,20.0-25.0%,20.0,25.0,22.5,disgust,4,7,0.5714285714285714,commercial,funeral
+33,Corncob TV,32,2,1,25.0-30.0%,25.0,30.0,27.5,sad,3,4,0.75,commercial,funeral
+33,Corncob TV,32,2,1,30.0-35.0%,30.0,35.0,32.5,disgust,2,6,0.3333333333333333,commercial,funeral
+33,Corncob TV,32,2,1,35.0-40.0%,35.0,40.0,37.5,neutral,1,1,1.0,commercial,funeral
+33,Corncob TV,32,2,1,40.0-45.0%,40.0,45.0,42.5,sad,3,6,0.5,commercial,funeral
+33,Corncob TV,32,2,1,45.0-50.0%,45.0,50.0,47.5,surprise,5,5,1.0,commercial,funeral
+33,Corncob TV,32,2,1,50.0-55.0%,50.0,55.0,52.5,surprise,3,4,0.75,commercial,funeral
+33,Corncob TV,32,2,1,55.0-60.0%,55.0,60.0,57.5,surprise,4,8,0.5,commercial,funeral
+33,Corncob TV,32,2,1,60.0-65.0%,60.0,65.0,62.5,surprise,4,6,0.6666666666666666,commercial,funeral
+33,Corncob TV,32,2,1,65.0-70.0%,65.0,70.0,67.5,happy,2,6,0.3333333333333333,commercial,funeral
+33,Corncob TV,32,2,1,70.0-75.0%,70.0,75.0,72.5,anger,2,6,0.3333333333333333,commercial,funeral
+33,Corncob TV,32,2,1,75.0-80.0%,75.0,80.0,77.5,happy,4,6,0.6666666666666666,commercial,funeral
+33,Corncob TV,32,2,1,80.0-85.0%,80.0,85.0,82.5,anger,4,5,0.8,commercial,funeral
+33,Corncob TV,32,2,1,85.0-90.0%,85.0,90.0,87.5,anger,3,8,0.375,commercial,funeral
+33,Corncob TV,32,2,1,90.0-95.0%,90.0,95.0,92.5,happy,5,7,0.7142857142857143,commercial,funeral
+33,Corncob TV,32,2,1,95.0-100.0%,95.0,100.0,97.5,sad,4,8,0.5,commercial,funeral
+34,Prank Show,33,2,1,0.0-5.0%,0.0,5.0,2.5,neutral,5,10,0.5,reality tv,
+34,Prank Show,33,2,1,5.0-10.0%,5.0,10.0,7.5,neutral,10,18,0.5555555555555556,reality tv,
+34,Prank Show,33,2,1,10.0-15.0%,10.0,15.0,12.5,happy,9,14,0.6428571428571429,reality tv,
+34,Prank Show,33,2,1,15.0-20.0%,15.0,20.0,17.5,happy,11,21,0.5238095238095238,reality tv,
+34,Prank Show,33,2,1,20.0-25.0%,20.0,25.0,22.5,happy,10,17,0.5882352941176471,reality tv,
+34,Prank Show,33,2,1,25.0-30.0%,25.0,30.0,27.5,neutral,4,9,0.4444444444444444,reality tv,
+34,Prank Show,33,2,1,30.0-35.0%,30.0,35.0,32.5,happy,4,6,0.6666666666666666,reality tv,
+34,Prank Show,33,2,1,35.0-40.0%,35.0,40.0,37.5,sad,6,10,0.6,reality tv,
+34,Prank Show,33,2,1,40.0-45.0%,40.0,45.0,42.5,sad,10,13,0.7692307692307693,reality tv,
+34,Prank Show,33,2,1,45.0-50.0%,45.0,50.0,47.5,neutral,8,20,0.4,reality tv,
+34,Prank Show,33,2,1,50.0-55.0%,50.0,55.0,52.5,sad,5,10,0.5,reality tv,
+34,Prank Show,33,2,1,55.0-60.0%,55.0,60.0,57.5,happy,2,3,0.6666666666666666,reality tv,
+34,Prank Show,33,2,1,60.0-65.0%,60.0,65.0,62.5,neutral,5,11,0.45454545454545453,reality tv,
+34,Prank Show,33,2,1,65.0-70.0%,65.0,70.0,67.5,happy,1,3,0.3333333333333333,reality tv,
+34,Prank Show,33,2,1,70.0-75.0%,70.0,75.0,72.5,sad,5,7,0.7142857142857143,reality tv,
+34,Prank Show,33,2,1,75.0-80.0%,75.0,80.0,77.5,sad,5,5,1.0,reality tv,
+34,Prank Show,33,2,1,80.0-85.0%,80.0,85.0,82.5,sad,6,6,1.0,reality tv,
+34,Prank Show,33,2,1,85.0-90.0%,85.0,90.0,87.5,sad,8,13,0.6153846153846154,reality tv,
+34,Prank Show,33,2,1,90.0-95.0%,90.0,95.0,92.5,sad,8,12,0.6666666666666666,reality tv,
+34,Prank Show,33,2,1,95.0-100.0%,95.0,100.0,97.5,sad,6,12,0.5,reality tv,
+35,Little Buff Boys,34,2,1,0.0-5.0%,0.0,5.0,2.5,neutral,8,17,0.47058823529411764,game show,
+35,Little Buff Boys,34,2,1,5.0-10.0%,5.0,10.0,7.5,happy,3,8,0.375,game show,
+35,Little Buff Boys,34,2,1,10.0-15.0%,10.0,15.0,12.5,disgust,1,2,0.5,game show,
+35,Little Buff Boys,34,2,1,15.0-20.0%,15.0,20.0,17.5,neutral,5,14,0.35714285714285715,game show,
+35,Little Buff Boys,34,2,1,20.0-25.0%,20.0,25.0,22.5,neutral,7,14,0.5,game show,
+35,Little Buff Boys,34,2,1,25.0-30.0%,25.0,30.0,27.5,sad,3,6,0.5,game show,
+35,Little Buff Boys,34,2,1,30.0-35.0%,30.0,35.0,32.5,neutral,2,4,0.5,game show,
+35,Little Buff Boys,34,2,1,35.0-40.0%,35.0,40.0,37.5,neutral,6,10,0.6,game show,
+35,Little Buff Boys,34,2,1,40.0-45.0%,40.0,45.0,42.5,happy,5,18,0.2777777777777778,game show,
+35,Little Buff Boys,34,2,1,45.0-50.0%,45.0,50.0,47.5,happy,7,8,0.875,game show,
+35,Little Buff Boys,34,2,1,50.0-55.0%,50.0,55.0,52.5,neutral,4,7,0.5714285714285714,game show,
+35,Little Buff Boys,34,2,1,55.0-60.0%,55.0,60.0,57.5,happy,5,12,0.4166666666666667,game show,
+35,Little Buff Boys,34,2,1,60.0-65.0%,60.0,65.0,62.5,neutral,6,7,0.8571428571428571,game show,
+35,Little Buff Boys,34,2,1,65.0-70.0%,65.0,70.0,67.5,neutral,11,13,0.8461538461538461,game show,
+35,Little Buff Boys,34,2,1,70.0-75.0%,70.0,75.0,72.5,neutral,6,9,0.6666666666666666,game show,
+35,Little Buff Boys,34,2,1,75.0-80.0%,75.0,80.0,77.5,neutral,5,10,0.5,game show,
+35,Little Buff Boys,34,2,1,80.0-85.0%,80.0,85.0,82.5,neutral,3,7,0.42857142857142855,game show,
+35,Little Buff Boys,34,2,1,85.0-90.0%,85.0,90.0,87.5,happy,10,20,0.5,game show,
+35,Little Buff Boys,34,2,1,90.0-95.0%,90.0,95.0,92.5,happy,4,8,0.5,game show,
+35,Little Buff Boys,34,2,1,95.0-100.0%,95.0,100.0,97.5,neutral,6,6,1.0,game show,
+36,Ghost Tour,35,2,1,0.0-5.0%,0.0,5.0,2.5,neutral,28,58,0.4827586206896552,tour,
+36,Ghost Tour,35,2,1,5.0-10.0%,5.0,10.0,7.5,happy,24,38,0.631578947368421,tour,
+36,Ghost Tour,35,2,1,10.0-15.0%,10.0,15.0,12.5,sad,17,38,0.4473684210526316,tour,
+36,Ghost Tour,35,2,1,15.0-20.0%,15.0,20.0,17.5,sad,11,23,0.4782608695652174,tour,
+36,Ghost Tour,35,2,1,20.0-25.0%,20.0,25.0,22.5,sad,10,28,0.35714285714285715,tour,
+36,Ghost Tour,35,2,1,25.0-30.0%,25.0,30.0,27.5,sad,12,21,0.5714285714285714,tour,
+36,Ghost Tour,35,2,1,30.0-35.0%,30.0,35.0,32.5,happy,5,16,0.3125,tour,
+36,Ghost Tour,35,2,1,35.0-40.0%,35.0,40.0,37.5,sad,6,16,0.375,tour,
+36,Ghost Tour,35,2,1,40.0-45.0%,40.0,45.0,42.5,sad,6,14,0.42857142857142855,tour,
+36,Ghost Tour,35,2,1,45.0-50.0%,45.0,50.0,47.5,neutral,9,24,0.375,tour,
+36,Ghost Tour,35,2,1,50.0-55.0%,50.0,55.0,52.5,neutral,7,15,0.4666666666666667,tour,
+36,Ghost Tour,35,2,1,55.0-60.0%,55.0,60.0,57.5,neutral,7,11,0.6363636363636364,tour,
+36,Ghost Tour,35,2,1,60.0-65.0%,60.0,65.0,62.5,sad,9,15,0.6,tour,
+36,Ghost Tour,35,2,1,65.0-70.0%,65.0,70.0,67.5,sad,14,17,0.8235294117647058,tour,
+36,Ghost Tour,35,2,1,70.0-75.0%,70.0,75.0,72.5,sad,12,13,0.9230769230769231,tour,
+36,Ghost Tour,35,2,1,75.0-80.0%,75.0,80.0,77.5,sad,16,17,0.9411764705882353,tour,
+36,Ghost Tour,35,2,1,80.0-85.0%,80.0,85.0,82.5,sad,13,21,0.6190476190476191,tour,
+36,Ghost Tour,35,2,1,85.0-90.0%,85.0,90.0,87.5,sad,12,16,0.75,tour,
+36,Ghost Tour,35,2,1,90.0-95.0%,90.0,95.0,92.5,sad,7,13,0.5384615384615384,tour,
+36,Ghost Tour,35,2,1,95.0-100.0%,95.0,100.0,97.5,sad,3,6,0.5,tour,
+37,The Capital Room,36,2,2,0.0-5.0%,0.0,5.0,2.5,happy,7,12,0.5833333333333334,reality tv,commercial
+37,The Capital Room,36,2,2,5.0-10.0%,5.0,10.0,7.5,neutral,13,22,0.5909090909090909,reality tv,commercial
+37,The Capital Room,36,2,2,10.0-15.0%,10.0,15.0,12.5,neutral,4,6,0.6666666666666666,reality tv,commercial
+37,The Capital Room,36,2,2,15.0-20.0%,15.0,20.0,17.5,neutral,2,3,0.6666666666666666,reality tv,commercial
+37,The Capital Room,36,2,2,20.0-25.0%,20.0,25.0,22.5,anger,3,5,0.6,reality tv,commercial
+37,The Capital Room,36,2,2,25.0-30.0%,25.0,30.0,27.5,anger,2,4,0.5,reality tv,commercial
+37,The Capital Room,36,2,2,30.0-35.0%,30.0,35.0,32.5,neutral,2,5,0.4,reality tv,commercial
+37,The Capital Room,36,2,2,35.0-40.0%,35.0,40.0,37.5,disgust,3,4,0.75,reality tv,commercial
+37,The Capital Room,36,2,2,40.0-45.0%,40.0,45.0,42.5,disgust,3,7,0.42857142857142855,reality tv,commercial
+37,The Capital Room,36,2,2,45.0-50.0%,45.0,50.0,47.5,anger,2,5,0.4,reality tv,commercial
+37,The Capital Room,36,2,2,50.0-55.0%,50.0,55.0,52.5,disgust,2,6,0.3333333333333333,reality tv,commercial
+37,The Capital Room,36,2,2,55.0-60.0%,55.0,60.0,57.5,disgust,2,5,0.4,reality tv,commercial
+37,The Capital Room,36,2,2,60.0-65.0%,60.0,65.0,62.5,neutral,3,4,0.75,reality tv,commercial
+37,The Capital Room,36,2,2,65.0-70.0%,65.0,70.0,67.5,anger,2,8,0.25,reality tv,commercial
+37,The Capital Room,36,2,2,70.0-75.0%,70.0,75.0,72.5,anger,2,4,0.5,reality tv,commercial
+37,The Capital Room,36,2,2,75.0-80.0%,75.0,80.0,77.5,anger,3,3,1.0,reality tv,commercial
+37,The Capital Room,36,2,2,80.0-85.0%,80.0,85.0,82.5,disgust,4,5,0.8,reality tv,commercial
+37,The Capital Room,36,2,2,85.0-90.0%,85.0,90.0,87.5,disgust,2,5,0.4,reality tv,commercial
+37,The Capital Room,36,2,2,90.0-95.0%,90.0,95.0,92.5,surprise,4,7,0.5714285714285714,reality tv,commercial
+37,The Capital Room,36,2,2,95.0-100.0%,95.0,100.0,97.5,disgust,3,6,0.5,reality tv,commercial
+38,Dan Flashes,37,2,2,0.0-5.0%,0.0,5.0,2.5,happy,7,14,0.5,office,
+38,Dan Flashes,37,2,2,5.0-10.0%,5.0,10.0,7.5,neutral,6,20,0.3,office,
+38,Dan Flashes,37,2,2,10.0-15.0%,10.0,15.0,12.5,neutral,14,23,0.6086956521739131,office,
+38,Dan Flashes,37,2,2,15.0-20.0%,15.0,20.0,17.5,neutral,4,7,0.5714285714285714,office,
+38,Dan Flashes,37,2,2,20.0-25.0%,20.0,25.0,22.5,anger,6,14,0.42857142857142855,office,
+38,Dan Flashes,37,2,2,25.0-30.0%,25.0,30.0,27.5,disgust,4,14,0.2857142857142857,office,
+38,Dan Flashes,37,2,2,30.0-35.0%,30.0,35.0,32.5,anger,4,17,0.23529411764705882,office,
+38,Dan Flashes,37,2,2,35.0-40.0%,35.0,40.0,37.5,surprise,4,10,0.4,office,
+38,Dan Flashes,37,2,2,40.0-45.0%,40.0,45.0,42.5,neutral,3,12,0.25,office,
+38,Dan Flashes,37,2,2,45.0-50.0%,45.0,50.0,47.5,disgust,4,12,0.3333333333333333,office,
+38,Dan Flashes,37,2,2,50.0-55.0%,50.0,55.0,52.5,sad,5,14,0.35714285714285715,office,
+38,Dan Flashes,37,2,2,55.0-60.0%,55.0,60.0,57.5,happy,7,14,0.5,office,
+38,Dan Flashes,37,2,2,60.0-65.0%,60.0,65.0,62.5,sad,3,8,0.375,office,
+38,Dan Flashes,37,2,2,65.0-70.0%,65.0,70.0,67.5,neutral,8,16,0.5,office,
+38,Dan Flashes,37,2,2,70.0-75.0%,70.0,75.0,72.5,anger,5,10,0.5,office,
+38,Dan Flashes,37,2,2,75.0-80.0%,75.0,80.0,77.5,sad,4,13,0.3076923076923077,office,
+38,Dan Flashes,37,2,2,80.0-85.0%,80.0,85.0,82.5,anger,7,15,0.4666666666666667,office,
+38,Dan Flashes,37,2,2,85.0-90.0%,85.0,90.0,87.5,anger,5,13,0.38461538461538464,office,
+38,Dan Flashes,37,2,2,90.0-95.0%,90.0,95.0,92.5,fear,5,11,0.45454545454545453,office,
+38,Dan Flashes,37,2,2,95.0-100.0%,95.0,100.0,97.5,neutral,8,18,0.4444444444444444,office,
+39,Diner Wink,38,2,2,0.0-5.0%,0.0,5.0,2.5,neutral,7,11,0.6363636363636364,family,restaurant
+39,Diner Wink,38,2,2,5.0-10.0%,5.0,10.0,7.5,surprise,5,10,0.5,family,restaurant
+39,Diner Wink,38,2,2,10.0-15.0%,10.0,15.0,12.5,happy,5,8,0.625,family,restaurant
+39,Diner Wink,38,2,2,15.0-20.0%,15.0,20.0,17.5,disgust,8,14,0.5714285714285714,family,restaurant
+39,Diner Wink,38,2,2,20.0-25.0%,20.0,25.0,22.5,happy,6,10,0.6,family,restaurant
+39,Diner Wink,38,2,2,25.0-30.0%,25.0,30.0,27.5,happy,3,11,0.2727272727272727,family,restaurant
+39,Diner Wink,38,2,2,30.0-35.0%,30.0,35.0,32.5,disgust,6,10,0.6,family,restaurant
+39,Diner Wink,38,2,2,35.0-40.0%,35.0,40.0,37.5,disgust,8,13,0.6153846153846154,family,restaurant
+39,Diner Wink,38,2,2,40.0-45.0%,40.0,45.0,42.5,neutral,2,7,0.2857142857142857,family,restaurant
+39,Diner Wink,38,2,2,45.0-50.0%,45.0,50.0,47.5,happy,2,5,0.4,family,restaurant
+39,Diner Wink,38,2,2,50.0-55.0%,50.0,55.0,52.5,disgust,3,8,0.375,family,restaurant
+39,Diner Wink,38,2,2,55.0-60.0%,55.0,60.0,57.5,disgust,2,8,0.25,family,restaurant
+39,Diner Wink,38,2,2,60.0-65.0%,60.0,65.0,62.5,disgust,3,7,0.42857142857142855,family,restaurant
+39,Diner Wink,38,2,2,65.0-70.0%,65.0,70.0,67.5,sad,4,7,0.5714285714285714,family,restaurant
+39,Diner Wink,38,2,2,70.0-75.0%,70.0,75.0,72.5,disgust,4,14,0.2857142857142857,family,restaurant
+39,Diner Wink,38,2,2,75.0-80.0%,75.0,80.0,77.5,surprise,4,10,0.4,family,restaurant
+39,Diner Wink,38,2,2,80.0-85.0%,80.0,85.0,82.5,neutral,3,8,0.375,family,restaurant
+39,Diner Wink,38,2,2,85.0-90.0%,85.0,90.0,87.5,anger,3,8,0.375,family,restaurant
+39,Diner Wink,38,2,2,90.0-95.0%,90.0,95.0,92.5,disgust,6,9,0.6666666666666666,family,restaurant
+39,Diner Wink,38,2,2,95.0-100.0%,95.0,100.0,97.5,disgust,6,14,0.42857142857142855,family,restaurant
+40,The Shops at the Creeks,39,2,2,0.0-5.0%,0.0,5.0,2.5,happy,3,3,1.0,commercial,
+40,The Shops at the Creeks,39,2,2,35.0-40.0%,35.0,40.0,37.5,neutral,3,3,1.0,commercial,
+40,The Shops at the Creeks,39,2,2,50.0-55.0%,50.0,55.0,52.5,happy,1,3,0.3333333333333333,commercial,
+40,The Shops at the Creeks,39,2,2,55.0-60.0%,55.0,60.0,57.5,neutral,2,2,1.0,commercial,
+40,The Shops at the Creeks,39,2,2,75.0-80.0%,75.0,80.0,77.5,neutral,1,1,1.0,commercial,
+40,The Shops at the Creeks,39,2,2,95.0-100.0%,95.0,100.0,97.5,happy,1,1,1.0,commercial,
+41,Baby Cries,40,2,2,0.0-5.0%,0.0,5.0,2.5,happy,17,24,0.7083333333333334,party,restaurant
+41,Baby Cries,40,2,2,5.0-10.0%,5.0,10.0,7.5,happy,14,20,0.7,party,restaurant
+41,Baby Cries,40,2,2,10.0-15.0%,10.0,15.0,12.5,happy,12,21,0.5714285714285714,party,restaurant
+41,Baby Cries,40,2,2,15.0-20.0%,15.0,20.0,17.5,happy,9,19,0.47368421052631576,party,restaurant
+41,Baby Cries,40,2,2,20.0-25.0%,20.0,25.0,22.5,surprise,7,14,0.5,party,restaurant
+41,Baby Cries,40,2,2,25.0-30.0%,25.0,30.0,27.5,anger,5,15,0.3333333333333333,party,restaurant
+41,Baby Cries,40,2,2,30.0-35.0%,30.0,35.0,32.5,neutral,5,19,0.2631578947368421,party,restaurant
+41,Baby Cries,40,2,2,35.0-40.0%,35.0,40.0,37.5,neutral,10,24,0.4166666666666667,party,restaurant
+41,Baby Cries,40,2,2,40.0-45.0%,40.0,45.0,42.5,neutral,39,58,0.6724137931034483,party,restaurant
+41,Baby Cries,40,2,2,45.0-50.0%,45.0,50.0,47.5,neutral,22,46,0.4782608695652174,party,restaurant
+41,Baby Cries,40,2,2,50.0-55.0%,50.0,55.0,52.5,neutral,36,53,0.6792452830188679,party,restaurant
+41,Baby Cries,40,2,2,55.0-60.0%,55.0,60.0,57.5,neutral,25,50,0.5,party,restaurant
+41,Baby Cries,40,2,2,60.0-65.0%,60.0,65.0,62.5,happy,10,33,0.30303030303030304,party,restaurant
+41,Baby Cries,40,2,2,65.0-70.0%,65.0,70.0,67.5,neutral,39,60,0.65,party,restaurant
+41,Baby Cries,40,2,2,70.0-75.0%,70.0,75.0,72.5,happy,9,18,0.5,party,restaurant
+41,Baby Cries,40,2,2,75.0-80.0%,75.0,80.0,77.5,happy,12,25,0.48,party,restaurant
+41,Baby Cries,40,2,2,80.0-85.0%,80.0,85.0,82.5,happy,11,19,0.5789473684210527,party,restaurant
+41,Baby Cries,40,2,2,85.0-90.0%,85.0,90.0,87.5,neutral,12,19,0.631578947368421,party,restaurant
+41,Baby Cries,40,2,2,90.0-95.0%,90.0,95.0,92.5,neutral,10,12,0.8333333333333334,party,restaurant
+41,Baby Cries,40,2,2,95.0-100.0%,95.0,100.0,97.5,happy,5,11,0.45454545454545453,party,restaurant
+42,Grambles Lorelei Lounge,41,2,3,0.0-5.0%,0.0,5.0,2.5,happy,11,22,0.5,restaurant,
+42,Grambles Lorelei Lounge,41,2,3,5.0-10.0%,5.0,10.0,7.5,sad,4,7,0.5714285714285714,restaurant,
+42,Grambles Lorelei Lounge,41,2,3,10.0-15.0%,10.0,15.0,12.5,sad,6,11,0.5454545454545454,restaurant,
+42,Grambles Lorelei Lounge,41,2,3,15.0-20.0%,15.0,20.0,17.5,sad,6,12,0.5,restaurant,
+42,Grambles Lorelei Lounge,41,2,3,20.0-25.0%,20.0,25.0,22.5,sad,6,10,0.6,restaurant,
+42,Grambles Lorelei Lounge,41,2,3,25.0-30.0%,25.0,30.0,27.5,sad,5,12,0.4166666666666667,restaurant,
+42,Grambles Lorelei Lounge,41,2,3,30.0-35.0%,30.0,35.0,32.5,disgust,3,10,0.3,restaurant,
+42,Grambles Lorelei Lounge,41,2,3,35.0-40.0%,35.0,40.0,37.5,sad,3,10,0.3,restaurant,
+42,Grambles Lorelei Lounge,41,2,3,40.0-45.0%,40.0,45.0,42.5,happy,4,14,0.2857142857142857,restaurant,
+42,Grambles Lorelei Lounge,41,2,3,45.0-50.0%,45.0,50.0,47.5,sad,7,15,0.4666666666666667,restaurant,
+42,Grambles Lorelei Lounge,41,2,3,50.0-55.0%,50.0,55.0,52.5,sad,6,10,0.6,restaurant,
+42,Grambles Lorelei Lounge,41,2,3,55.0-60.0%,55.0,60.0,57.5,surprise,4,7,0.5714285714285714,restaurant,
+42,Grambles Lorelei Lounge,41,2,3,60.0-65.0%,60.0,65.0,62.5,sad,3,4,0.75,restaurant,
+42,Grambles Lorelei Lounge,41,2,3,65.0-70.0%,65.0,70.0,67.5,sad,4,7,0.5714285714285714,restaurant,
+42,Grambles Lorelei Lounge,41,2,3,70.0-75.0%,70.0,75.0,72.5,fear,5,13,0.38461538461538464,restaurant,
+42,Grambles Lorelei Lounge,41,2,3,75.0-80.0%,75.0,80.0,77.5,sad,8,15,0.5333333333333333,restaurant,
+42,Grambles Lorelei Lounge,41,2,3,80.0-85.0%,80.0,85.0,82.5,sad,5,10,0.5,restaurant,
+42,Grambles Lorelei Lounge,41,2,3,85.0-90.0%,85.0,90.0,87.5,sad,5,13,0.38461538461538464,restaurant,
+42,Grambles Lorelei Lounge,41,2,3,90.0-95.0%,90.0,95.0,92.5,sad,8,12,0.6666666666666666,restaurant,
+42,Grambles Lorelei Lounge,41,2,3,95.0-100.0%,95.0,100.0,97.5,sad,11,13,0.8461538461538461,restaurant,
+43,Crashmore Trailer,42,2,3,0.0-5.0%,0.0,5.0,2.5,happy,4,6,0.6666666666666666,movie trailer,
+43,Crashmore Trailer,42,2,3,5.0-10.0%,5.0,10.0,7.5,happy,2,2,1.0,movie trailer,
+43,Crashmore Trailer,42,2,3,10.0-15.0%,10.0,15.0,12.5,happy,1,3,0.3333333333333333,movie trailer,
+43,Crashmore Trailer,42,2,3,15.0-20.0%,15.0,20.0,17.5,neutral,3,7,0.42857142857142855,movie trailer,
+43,Crashmore Trailer,42,2,3,25.0-30.0%,25.0,30.0,27.5,anger,1,2,0.5,movie trailer,
+43,Crashmore Trailer,42,2,3,45.0-50.0%,45.0,50.0,47.5,sad,1,1,1.0,movie trailer,
+43,Crashmore Trailer,42,2,3,55.0-60.0%,55.0,60.0,57.5,neutral,1,2,0.5,movie trailer,
+43,Crashmore Trailer,42,2,3,60.0-65.0%,60.0,65.0,62.5,anger,1,2,0.5,movie trailer,
+43,Crashmore Trailer,42,2,3,65.0-70.0%,65.0,70.0,67.5,anger,1,2,0.5,movie trailer,
+43,Crashmore Trailer,42,2,3,70.0-75.0%,70.0,75.0,72.5,happy,4,5,0.8,movie trailer,
+43,Crashmore Trailer,42,2,3,75.0-80.0%,75.0,80.0,77.5,sad,4,4,1.0,movie trailer,
+43,Crashmore Trailer,42,2,3,80.0-85.0%,80.0,85.0,82.5,fear,2,8,0.25,movie trailer,
+43,Crashmore Trailer,42,2,3,85.0-90.0%,85.0,90.0,87.5,fear,3,10,0.3,movie trailer,
+43,Crashmore Trailer,42,2,3,95.0-100.0%,95.0,100.0,97.5,neutral,2,3,0.6666666666666666,movie trailer,
+44,H.D. Vac Commercial,43,2,3,0.0-5.0%,0.0,5.0,2.5,sad,2,4,0.5,commercial,
+44,H.D. Vac Commercial,43,2,3,5.0-10.0%,5.0,10.0,7.5,neutral,2,2,1.0,commercial,
+44,H.D. Vac Commercial,43,2,3,10.0-15.0%,10.0,15.0,12.5,happy,2,5,0.4,commercial,
+44,H.D. Vac Commercial,43,2,3,15.0-20.0%,15.0,20.0,17.5,neutral,4,6,0.6666666666666666,commercial,
+44,H.D. Vac Commercial,43,2,3,20.0-25.0%,20.0,25.0,22.5,happy,2,5,0.4,commercial,
+44,H.D. Vac Commercial,43,2,3,25.0-30.0%,25.0,30.0,27.5,surprise,1,1,1.0,commercial,
+44,H.D. Vac Commercial,43,2,3,30.0-35.0%,30.0,35.0,32.5,happy,3,5,0.6,commercial,
+44,H.D. Vac Commercial,43,2,3,35.0-40.0%,35.0,40.0,37.5,disgust,4,6,0.6666666666666666,commercial,
+44,H.D. Vac Commercial,43,2,3,40.0-45.0%,40.0,45.0,42.5,disgust,4,6,0.6666666666666666,commercial,
+44,H.D. Vac Commercial,43,2,3,45.0-50.0%,45.0,50.0,47.5,anger,1,2,0.5,commercial,
+44,H.D. Vac Commercial,43,2,3,50.0-55.0%,50.0,55.0,52.5,neutral,2,4,0.5,commercial,
+44,H.D. Vac Commercial,43,2,3,55.0-60.0%,55.0,60.0,57.5,surprise,3,5,0.6,commercial,
+44,H.D. Vac Commercial,43,2,3,60.0-65.0%,60.0,65.0,62.5,surprise,4,4,1.0,commercial,
+44,H.D. Vac Commercial,43,2,3,65.0-70.0%,65.0,70.0,67.5,surprise,3,5,0.6,commercial,
+44,H.D. Vac Commercial,43,2,3,70.0-75.0%,70.0,75.0,72.5,surprise,4,5,0.8,commercial,
+44,H.D. Vac Commercial,43,2,3,75.0-80.0%,75.0,80.0,77.5,surprise,1,1,1.0,commercial,
+44,H.D. Vac Commercial,43,2,3,80.0-85.0%,80.0,85.0,82.5,happy,3,5,0.6,commercial,
+44,H.D. Vac Commercial,43,2,3,85.0-90.0%,85.0,90.0,87.5,happy,1,1,1.0,commercial,
+44,H.D. Vac Commercial,43,2,3,95.0-100.0%,95.0,100.0,97.5,happy,3,6,0.5,commercial,
+45,Crashmore Junket,44,2,3,0.0-5.0%,0.0,5.0,2.5,happy,15,29,0.5172413793103449,movie press junket,
+45,Crashmore Junket,44,2,3,5.0-10.0%,5.0,10.0,7.5,happy,15,26,0.5769230769230769,movie press junket,
+45,Crashmore Junket,44,2,3,10.0-15.0%,10.0,15.0,12.5,happy,3,10,0.3,movie press junket,
+45,Crashmore Junket,44,2,3,15.0-20.0%,15.0,20.0,17.5,neutral,7,19,0.3684210526315789,movie press junket,
+45,Crashmore Junket,44,2,3,20.0-25.0%,20.0,25.0,22.5,happy,2,6,0.3333333333333333,movie press junket,
+45,Crashmore Junket,44,2,3,25.0-30.0%,25.0,30.0,27.5,sad,3,8,0.375,movie press junket,
+45,Crashmore Junket,44,2,3,30.0-35.0%,30.0,35.0,32.5,sad,7,12,0.5833333333333334,movie press junket,
+45,Crashmore Junket,44,2,3,35.0-40.0%,35.0,40.0,37.5,sad,10,20,0.5,movie press junket,
+45,Crashmore Junket,44,2,3,40.0-45.0%,40.0,45.0,42.5,neutral,6,10,0.6,movie press junket,
+45,Crashmore Junket,44,2,3,45.0-50.0%,45.0,50.0,47.5,anger,2,4,0.5,movie press junket,
+45,Crashmore Junket,44,2,3,50.0-55.0%,50.0,55.0,52.5,neutral,10,11,0.9090909090909091,movie press junket,
+45,Crashmore Junket,44,2,3,55.0-60.0%,55.0,60.0,57.5,neutral,7,19,0.3684210526315789,movie press junket,
+45,Crashmore Junket,44,2,3,60.0-65.0%,60.0,65.0,62.5,neutral,5,11,0.45454545454545453,movie press junket,
+45,Crashmore Junket,44,2,3,65.0-70.0%,65.0,70.0,67.5,neutral,5,10,0.5,movie press junket,
+45,Crashmore Junket,44,2,3,70.0-75.0%,70.0,75.0,72.5,anger,5,14,0.35714285714285715,movie press junket,
+45,Crashmore Junket,44,2,3,75.0-80.0%,75.0,80.0,77.5,sad,19,29,0.6551724137931034,movie press junket,
+45,Crashmore Junket,44,2,3,80.0-85.0%,80.0,85.0,82.5,sad,10,17,0.5882352941176471,movie press junket,
+45,Crashmore Junket,44,2,3,85.0-90.0%,85.0,90.0,87.5,anger,6,9,0.6666666666666666,movie press junket,
+45,Crashmore Junket,44,2,3,90.0-95.0%,90.0,95.0,92.5,anger,5,12,0.4166666666666667,movie press junket,
+45,Crashmore Junket,44,2,3,95.0-100.0%,95.0,100.0,97.5,disgust,1,4,0.25,movie press junket,
+46,Qualstarr Trial,45,2,3,0.0-5.0%,0.0,5.0,2.5,neutral,11,25,0.44,office,legal trial
+46,Qualstarr Trial,45,2,3,5.0-10.0%,5.0,10.0,7.5,sad,6,12,0.5,office,legal trial
+46,Qualstarr Trial,45,2,3,10.0-15.0%,10.0,15.0,12.5,sad,8,16,0.5,office,legal trial
+46,Qualstarr Trial,45,2,3,15.0-20.0%,15.0,20.0,17.5,neutral,8,11,0.7272727272727273,office,legal trial
+46,Qualstarr Trial,45,2,3,20.0-25.0%,20.0,25.0,22.5,sad,6,16,0.375,office,legal trial
+46,Qualstarr Trial,45,2,3,25.0-30.0%,25.0,30.0,27.5,happy,8,11,0.7272727272727273,office,legal trial
+46,Qualstarr Trial,45,2,3,30.0-35.0%,30.0,35.0,32.5,sad,10,23,0.43478260869565216,office,legal trial
+46,Qualstarr Trial,45,2,3,35.0-40.0%,35.0,40.0,37.5,neutral,3,4,0.75,office,legal trial
+46,Qualstarr Trial,45,2,3,40.0-45.0%,40.0,45.0,42.5,sad,3,5,0.6,office,legal trial
+46,Qualstarr Trial,45,2,3,45.0-50.0%,45.0,50.0,47.5,anger,3,10,0.3,office,legal trial
+46,Qualstarr Trial,45,2,3,50.0-55.0%,50.0,55.0,52.5,sad,5,8,0.625,office,legal trial
+46,Qualstarr Trial,45,2,3,55.0-60.0%,55.0,60.0,57.5,neutral,6,11,0.5454545454545454,office,legal trial
+46,Qualstarr Trial,45,2,3,60.0-65.0%,60.0,65.0,62.5,sad,8,9,0.8888888888888888,office,legal trial
+46,Qualstarr Trial,45,2,3,65.0-70.0%,65.0,70.0,67.5,neutral,20,25,0.8,office,legal trial
+46,Qualstarr Trial,45,2,3,70.0-75.0%,70.0,75.0,72.5,anger,6,15,0.4,office,legal trial
+46,Qualstarr Trial,45,2,3,75.0-80.0%,75.0,80.0,77.5,neutral,5,12,0.4166666666666667,office,legal trial
+46,Qualstarr Trial,45,2,3,80.0-85.0%,80.0,85.0,82.5,sad,7,16,0.4375,office,legal trial
+46,Qualstarr Trial,45,2,3,85.0-90.0%,85.0,90.0,87.5,neutral,5,15,0.3333333333333333,office,legal trial
+46,Qualstarr Trial,45,2,3,90.0-95.0%,90.0,95.0,92.5,happy,4,10,0.4,office,legal trial
+46,Qualstarr Trial,45,2,3,95.0-100.0%,95.0,100.0,97.5,sad,7,20,0.35,office,legal trial
+47,Wife Joke,46,2,4,0.0-5.0%,0.0,5.0,2.5,happy,8,14,0.5714285714285714,party,
+47,Wife Joke,46,2,4,5.0-10.0%,5.0,10.0,7.5,happy,9,23,0.391304347826087,party,
+47,Wife Joke,46,2,4,10.0-15.0%,10.0,15.0,12.5,sad,13,19,0.6842105263157895,party,
+47,Wife Joke,46,2,4,15.0-20.0%,15.0,20.0,17.5,sad,7,12,0.5833333333333334,party,
+47,Wife Joke,46,2,4,20.0-25.0%,20.0,25.0,22.5,sad,7,12,0.5833333333333334,party,
+47,Wife Joke,46,2,4,25.0-30.0%,25.0,30.0,27.5,happy,12,23,0.5217391304347826,party,
+47,Wife Joke,46,2,4,30.0-35.0%,30.0,35.0,32.5,sad,9,17,0.5294117647058824,party,
+47,Wife Joke,46,2,4,35.0-40.0%,35.0,40.0,37.5,surprise,3,8,0.375,party,
+47,Wife Joke,46,2,4,40.0-45.0%,40.0,45.0,42.5,disgust,5,15,0.3333333333333333,party,
+47,Wife Joke,46,2,4,45.0-50.0%,45.0,50.0,47.5,happy,6,14,0.42857142857142855,party,
+47,Wife Joke,46,2,4,50.0-55.0%,50.0,55.0,52.5,anger,4,13,0.3076923076923077,party,
+47,Wife Joke,46,2,4,55.0-60.0%,55.0,60.0,57.5,surprise,7,14,0.5,party,
+47,Wife Joke,46,2,4,60.0-65.0%,60.0,65.0,62.5,anger,6,19,0.3157894736842105,party,
+47,Wife Joke,46,2,4,65.0-70.0%,65.0,70.0,67.5,sad,7,18,0.3888888888888889,party,
+47,Wife Joke,46,2,4,70.0-75.0%,70.0,75.0,72.5,happy,10,25,0.4,party,
+47,Wife Joke,46,2,4,75.0-80.0%,75.0,80.0,77.5,happy,9,19,0.47368421052631576,party,
+47,Wife Joke,46,2,4,80.0-85.0%,80.0,85.0,82.5,sad,4,8,0.5,party,
+47,Wife Joke,46,2,4,85.0-90.0%,85.0,90.0,87.5,sad,15,32,0.46875,party,
+47,Wife Joke,46,2,4,90.0-95.0%,90.0,95.0,92.5,sad,9,21,0.42857142857142855,party,
+47,Wife Joke,46,2,4,95.0-100.0%,95.0,100.0,97.5,sad,6,12,0.5,party,
+48,Friend's Weekend,47,2,4,0.0-5.0%,0.0,5.0,2.5,neutral,10,14,0.7142857142857143,party,
+48,Friend's Weekend,47,2,4,5.0-10.0%,5.0,10.0,7.5,sad,4,9,0.4444444444444444,party,
+48,Friend's Weekend,47,2,4,10.0-15.0%,10.0,15.0,12.5,neutral,7,16,0.4375,party,
+48,Friend's Weekend,47,2,4,15.0-20.0%,15.0,20.0,17.5,neutral,6,13,0.46153846153846156,party,
+48,Friend's Weekend,47,2,4,20.0-25.0%,20.0,25.0,22.5,sad,7,12,0.5833333333333334,party,
+48,Friend's Weekend,47,2,4,25.0-30.0%,25.0,30.0,27.5,happy,4,10,0.4,party,
+48,Friend's Weekend,47,2,4,30.0-35.0%,30.0,35.0,32.5,neutral,4,9,0.4444444444444444,party,
+48,Friend's Weekend,47,2,4,35.0-40.0%,35.0,40.0,37.5,neutral,7,13,0.5384615384615384,party,
+48,Friend's Weekend,47,2,4,40.0-45.0%,40.0,45.0,42.5,neutral,9,19,0.47368421052631576,party,
+48,Friend's Weekend,47,2,4,45.0-50.0%,45.0,50.0,47.5,neutral,5,19,0.2631578947368421,party,
+48,Friend's Weekend,47,2,4,50.0-55.0%,50.0,55.0,52.5,surprise,3,10,0.3,party,
+48,Friend's Weekend,47,2,4,55.0-60.0%,55.0,60.0,57.5,sad,4,9,0.4444444444444444,party,
+48,Friend's Weekend,47,2,4,60.0-65.0%,60.0,65.0,62.5,sad,4,10,0.4,party,
+48,Friend's Weekend,47,2,4,65.0-70.0%,65.0,70.0,67.5,happy,2,8,0.25,party,
+48,Friend's Weekend,47,2,4,70.0-75.0%,70.0,75.0,72.5,neutral,4,10,0.4,party,
+48,Friend's Weekend,47,2,4,75.0-80.0%,75.0,80.0,77.5,sad,5,8,0.625,party,
+48,Friend's Weekend,47,2,4,80.0-85.0%,80.0,85.0,82.5,surprise,2,6,0.3333333333333333,party,
+48,Friend's Weekend,47,2,4,85.0-90.0%,85.0,90.0,87.5,happy,2,3,0.6666666666666666,party,
+48,Friend's Weekend,47,2,4,90.0-95.0%,90.0,95.0,92.5,sad,3,4,0.75,party,
+48,Friend's Weekend,47,2,4,95.0-100.0%,95.0,100.0,97.5,anger,3,10,0.3,party,
+49,Calico Cut Pants,48,2,4,0.0-5.0%,0.0,5.0,2.5,neutral,21,35,0.6,office,commercial
+49,Calico Cut Pants,48,2,4,5.0-10.0%,5.0,10.0,7.5,sad,8,34,0.23529411764705882,office,commercial
+49,Calico Cut Pants,48,2,4,10.0-15.0%,10.0,15.0,12.5,neutral,18,38,0.47368421052631576,office,commercial
+49,Calico Cut Pants,48,2,4,15.0-20.0%,15.0,20.0,17.5,fear,13,35,0.37142857142857144,office,commercial
+49,Calico Cut Pants,48,2,4,20.0-25.0%,20.0,25.0,22.5,surprise,10,34,0.29411764705882354,office,commercial
+49,Calico Cut Pants,48,2,4,25.0-30.0%,25.0,30.0,27.5,surprise,6,20,0.3,office,commercial
+49,Calico Cut Pants,48,2,4,30.0-35.0%,30.0,35.0,32.5,happy,6,27,0.2222222222222222,office,commercial
+49,Calico Cut Pants,48,2,4,35.0-40.0%,35.0,40.0,37.5,surprise,13,33,0.3939393939393939,office,commercial
+49,Calico Cut Pants,48,2,4,40.0-45.0%,40.0,45.0,42.5,sad,18,34,0.5294117647058824,office,commercial
+49,Calico Cut Pants,48,2,4,45.0-50.0%,45.0,50.0,47.5,neutral,11,21,0.5238095238095238,office,commercial
+49,Calico Cut Pants,48,2,4,50.0-55.0%,50.0,55.0,52.5,neutral,13,23,0.5652173913043478,office,commercial
+49,Calico Cut Pants,48,2,4,55.0-60.0%,55.0,60.0,57.5,surprise,8,27,0.2962962962962963,office,commercial
+49,Calico Cut Pants,48,2,4,60.0-65.0%,60.0,65.0,62.5,surprise,8,18,0.4444444444444444,office,commercial
+49,Calico Cut Pants,48,2,4,65.0-70.0%,65.0,70.0,67.5,neutral,14,23,0.6086956521739131,office,commercial
+49,Calico Cut Pants,48,2,4,70.0-75.0%,70.0,75.0,72.5,neutral,11,23,0.4782608695652174,office,commercial
+49,Calico Cut Pants,48,2,4,75.0-80.0%,75.0,80.0,77.5,neutral,9,15,0.6,office,commercial
+49,Calico Cut Pants,48,2,4,80.0-85.0%,80.0,85.0,82.5,disgust,6,29,0.20689655172413793,office,commercial
+49,Calico Cut Pants,48,2,4,85.0-90.0%,85.0,90.0,87.5,sad,8,26,0.3076923076923077,office,commercial
+49,Calico Cut Pants,48,2,4,90.0-95.0%,90.0,95.0,92.5,disgust,9,31,0.2903225806451613,office,commercial
+49,Calico Cut Pants,48,2,4,95.0-100.0%,95.0,100.0,97.5,happy,14,28,0.5,office,commercial
+50,Parking Lot,49,2,5,0.0-5.0%,0.0,5.0,2.5,sad,5,7,0.7142857142857143,driving,
+50,Parking Lot,49,2,5,5.0-10.0%,5.0,10.0,7.5,neutral,2,2,1.0,driving,
+50,Parking Lot,49,2,5,10.0-15.0%,10.0,15.0,12.5,neutral,1,1,1.0,driving,
+50,Parking Lot,49,2,5,15.0-20.0%,15.0,20.0,17.5,neutral,1,1,1.0,driving,
+50,Parking Lot,49,2,5,20.0-25.0%,20.0,25.0,22.5,anger,2,2,1.0,driving,
+50,Parking Lot,49,2,5,30.0-35.0%,30.0,35.0,32.5,neutral,2,5,0.4,driving,
+50,Parking Lot,49,2,5,35.0-40.0%,35.0,40.0,37.5,sad,4,5,0.8,driving,
+50,Parking Lot,49,2,5,40.0-45.0%,40.0,45.0,42.5,sad,5,7,0.7142857142857143,driving,
+50,Parking Lot,49,2,5,45.0-50.0%,45.0,50.0,47.5,anger,4,7,0.5714285714285714,driving,
+50,Parking Lot,49,2,5,50.0-55.0%,50.0,55.0,52.5,neutral,3,4,0.75,driving,
+50,Parking Lot,49,2,5,55.0-60.0%,55.0,60.0,57.5,sad,3,5,0.6,driving,
+50,Parking Lot,49,2,5,60.0-65.0%,60.0,65.0,62.5,sad,4,4,1.0,driving,
+50,Parking Lot,49,2,5,65.0-70.0%,65.0,70.0,67.5,sad,5,6,0.8333333333333334,driving,
+50,Parking Lot,49,2,5,70.0-75.0%,70.0,75.0,72.5,sad,5,7,0.7142857142857143,driving,
+50,Parking Lot,49,2,5,75.0-80.0%,75.0,80.0,77.5,sad,4,6,0.6666666666666666,driving,
+50,Parking Lot,49,2,5,80.0-85.0%,80.0,85.0,82.5,happy,1,1,1.0,driving,
+50,Parking Lot,49,2,5,85.0-90.0%,85.0,90.0,87.5,anger,3,6,0.5,driving,
+50,Parking Lot,49,2,5,90.0-95.0%,90.0,95.0,92.5,sad,5,6,0.8333333333333334,driving,
+50,Parking Lot,49,2,5,95.0-100.0%,95.0,100.0,97.5,happy,2,4,0.5,driving,
+51,Del Frisco's Double Eagle,50,2,5,0.0-5.0%,0.0,5.0,2.5,happy,11,20,0.55,restaurant,office
+51,Del Frisco's Double Eagle,50,2,5,5.0-10.0%,5.0,10.0,7.5,happy,9,13,0.6923076923076923,restaurant,office
+51,Del Frisco's Double Eagle,50,2,5,10.0-15.0%,10.0,15.0,12.5,happy,10,17,0.5882352941176471,restaurant,office
+51,Del Frisco's Double Eagle,50,2,5,15.0-20.0%,15.0,20.0,17.5,happy,9,11,0.8181818181818182,restaurant,office
+51,Del Frisco's Double Eagle,50,2,5,20.0-25.0%,20.0,25.0,22.5,happy,12,16,0.75,restaurant,office
+51,Del Frisco's Double Eagle,50,2,5,25.0-30.0%,25.0,30.0,27.5,happy,6,11,0.5454545454545454,restaurant,office
+51,Del Frisco's Double Eagle,50,2,5,30.0-35.0%,30.0,35.0,32.5,happy,12,22,0.5454545454545454,restaurant,office
+51,Del Frisco's Double Eagle,50,2,5,35.0-40.0%,35.0,40.0,37.5,happy,7,18,0.3888888888888889,restaurant,office
+51,Del Frisco's Double Eagle,50,2,5,40.0-45.0%,40.0,45.0,42.5,sad,9,15,0.6,restaurant,office
+51,Del Frisco's Double Eagle,50,2,5,45.0-50.0%,45.0,50.0,47.5,sad,8,12,0.6666666666666666,restaurant,office
+51,Del Frisco's Double Eagle,50,2,5,50.0-55.0%,50.0,55.0,52.5,sad,8,16,0.5,restaurant,office
+51,Del Frisco's Double Eagle,50,2,5,55.0-60.0%,55.0,60.0,57.5,neutral,5,17,0.29411764705882354,restaurant,office
+51,Del Frisco's Double Eagle,50,2,5,60.0-65.0%,60.0,65.0,62.5,sad,5,9,0.5555555555555556,restaurant,office
+51,Del Frisco's Double Eagle,50,2,5,65.0-70.0%,65.0,70.0,67.5,disgust,3,7,0.42857142857142855,restaurant,office
+51,Del Frisco's Double Eagle,50,2,5,70.0-75.0%,70.0,75.0,72.5,anger,2,6,0.3333333333333333,restaurant,office
+51,Del Frisco's Double Eagle,50,2,5,75.0-80.0%,75.0,80.0,77.5,fear,4,9,0.4444444444444444,restaurant,office
+51,Del Frisco's Double Eagle,50,2,5,80.0-85.0%,80.0,85.0,82.5,fear,9,14,0.6428571428571429,restaurant,office
+51,Del Frisco's Double Eagle,50,2,5,85.0-90.0%,85.0,90.0,87.5,neutral,9,18,0.5,restaurant,office
+51,Del Frisco's Double Eagle,50,2,5,90.0-95.0%,90.0,95.0,92.5,neutral,24,35,0.6857142857142857,restaurant,office
+51,Del Frisco's Double Eagle,50,2,5,95.0-100.0%,95.0,100.0,97.5,neutral,22,29,0.7586206896551724,restaurant,office
+52,Joanie's Birthday,51,2,5,0.0-5.0%,0.0,5.0,2.5,sad,7,13,0.5384615384615384,party,
+52,Joanie's Birthday,51,2,5,5.0-10.0%,5.0,10.0,7.5,happy,12,21,0.5714285714285714,party,
+52,Joanie's Birthday,51,2,5,10.0-15.0%,10.0,15.0,12.5,happy,17,30,0.5666666666666667,party,
+52,Joanie's Birthday,51,2,5,15.0-20.0%,15.0,20.0,17.5,happy,10,17,0.5882352941176471,party,
+52,Joanie's Birthday,51,2,5,20.0-25.0%,20.0,25.0,22.5,neutral,5,16,0.3125,party,
+52,Joanie's Birthday,51,2,5,25.0-30.0%,25.0,30.0,27.5,happy,6,26,0.23076923076923078,party,
+52,Joanie's Birthday,51,2,5,30.0-35.0%,30.0,35.0,32.5,happy,5,14,0.35714285714285715,party,
+52,Joanie's Birthday,51,2,5,35.0-40.0%,35.0,40.0,37.5,surprise,6,15,0.4,party,
+52,Joanie's Birthday,51,2,5,40.0-45.0%,40.0,45.0,42.5,surprise,5,13,0.38461538461538464,party,
+52,Joanie's Birthday,51,2,5,45.0-50.0%,45.0,50.0,47.5,disgust,2,7,0.2857142857142857,party,
+52,Joanie's Birthday,51,2,5,50.0-55.0%,50.0,55.0,52.5,sad,5,17,0.29411764705882354,party,
+52,Joanie's Birthday,51,2,5,55.0-60.0%,55.0,60.0,57.5,sad,3,6,0.5,party,
+52,Joanie's Birthday,51,2,5,60.0-65.0%,60.0,65.0,62.5,sad,4,10,0.4,party,
+52,Joanie's Birthday,51,2,5,65.0-70.0%,65.0,70.0,67.5,sad,6,14,0.42857142857142855,party,
+52,Joanie's Birthday,51,2,5,70.0-75.0%,70.0,75.0,72.5,happy,3,10,0.3,party,
+52,Joanie's Birthday,51,2,5,75.0-80.0%,75.0,80.0,77.5,sad,9,21,0.42857142857142855,party,
+52,Joanie's Birthday,51,2,5,80.0-85.0%,80.0,85.0,82.5,anger,4,14,0.2857142857142857,party,
+52,Joanie's Birthday,51,2,5,85.0-90.0%,85.0,90.0,87.5,surprise,4,11,0.36363636363636365,party,
+52,Joanie's Birthday,51,2,5,90.0-95.0%,90.0,95.0,92.5,anger,6,12,0.5,party,
+52,Joanie's Birthday,51,2,5,95.0-100.0%,95.0,100.0,97.5,anger,3,11,0.2727272727272727,party,
+53,Little Buff Boys Competition,52,2,5,0.0-5.0%,0.0,5.0,2.5,anger,3,3,1.0,commercial,
+53,Little Buff Boys Competition,52,2,5,5.0-10.0%,5.0,10.0,7.5,anger,2,3,0.6666666666666666,commercial,
+53,Little Buff Boys Competition,52,2,5,10.0-15.0%,10.0,15.0,12.5,anger,4,4,1.0,commercial,
+53,Little Buff Boys Competition,52,2,5,20.0-25.0%,20.0,25.0,22.5,happy,1,1,1.0,commercial,
+53,Little Buff Boys Competition,52,2,5,30.0-35.0%,30.0,35.0,32.5,anger,1,3,0.3333333333333333,commercial,
+53,Little Buff Boys Competition,52,2,5,35.0-40.0%,35.0,40.0,37.5,disgust,2,4,0.5,commercial,
+53,Little Buff Boys Competition,52,2,5,40.0-45.0%,40.0,45.0,42.5,happy,2,3,0.6666666666666666,commercial,
+53,Little Buff Boys Competition,52,2,5,45.0-50.0%,45.0,50.0,47.5,disgust,1,2,0.5,commercial,
+53,Little Buff Boys Competition,52,2,5,50.0-55.0%,50.0,55.0,52.5,anger,1,2,0.5,commercial,
+53,Little Buff Boys Competition,52,2,5,55.0-60.0%,55.0,60.0,57.5,disgust,1,3,0.3333333333333333,commercial,
+53,Little Buff Boys Competition,52,2,5,60.0-65.0%,60.0,65.0,62.5,disgust,1,2,0.5,commercial,
+53,Little Buff Boys Competition,52,2,5,65.0-70.0%,65.0,70.0,67.5,happy,2,2,1.0,commercial,
+53,Little Buff Boys Competition,52,2,5,70.0-75.0%,70.0,75.0,72.5,disgust,1,3,0.3333333333333333,commercial,
+53,Little Buff Boys Competition,52,2,5,75.0-80.0%,75.0,80.0,77.5,anger,2,2,1.0,commercial,
+53,Little Buff Boys Competition,52,2,5,80.0-85.0%,80.0,85.0,82.5,anger,1,3,0.3333333333333333,commercial,
+53,Little Buff Boys Competition,52,2,5,85.0-90.0%,85.0,90.0,87.5,anger,3,4,0.75,commercial,
+53,Little Buff Boys Competition,52,2,5,90.0-95.0%,90.0,95.0,92.5,happy,2,3,0.6666666666666666,commercial,
+53,Little Buff Boys Competition,52,2,5,95.0-100.0%,95.0,100.0,97.5,anger,2,2,1.0,commercial,
+54,Mars Restaurant,53,2,5,0.0-5.0%,0.0,5.0,2.5,happy,11,15,0.7333333333333333,dating,restaurant
+54,Mars Restaurant,53,2,5,5.0-10.0%,5.0,10.0,7.5,happy,8,11,0.7272727272727273,dating,restaurant
+54,Mars Restaurant,53,2,5,10.0-15.0%,10.0,15.0,12.5,happy,9,16,0.5625,dating,restaurant
+54,Mars Restaurant,53,2,5,15.0-20.0%,15.0,20.0,17.5,happy,3,3,1.0,dating,restaurant
+54,Mars Restaurant,53,2,5,20.0-25.0%,20.0,25.0,22.5,happy,4,4,1.0,dating,restaurant
+54,Mars Restaurant,53,2,5,25.0-30.0%,25.0,30.0,27.5,happy,10,12,0.8333333333333334,dating,restaurant
+54,Mars Restaurant,53,2,5,30.0-35.0%,30.0,35.0,32.5,happy,8,17,0.47058823529411764,dating,restaurant
+54,Mars Restaurant,53,2,5,35.0-40.0%,35.0,40.0,37.5,happy,6,10,0.6,dating,restaurant
+54,Mars Restaurant,53,2,5,40.0-45.0%,40.0,45.0,42.5,happy,5,15,0.3333333333333333,dating,restaurant
+54,Mars Restaurant,53,2,5,45.0-50.0%,45.0,50.0,47.5,happy,5,18,0.2777777777777778,dating,restaurant
+54,Mars Restaurant,53,2,5,50.0-55.0%,50.0,55.0,52.5,fear,5,17,0.29411764705882354,dating,restaurant
+54,Mars Restaurant,53,2,5,55.0-60.0%,55.0,60.0,57.5,neutral,8,19,0.42105263157894735,dating,restaurant
+54,Mars Restaurant,53,2,5,60.0-65.0%,60.0,65.0,62.5,happy,7,18,0.3888888888888889,dating,restaurant
+54,Mars Restaurant,53,2,5,65.0-70.0%,65.0,70.0,67.5,happy,3,11,0.2727272727272727,dating,restaurant
+54,Mars Restaurant,53,2,5,70.0-75.0%,70.0,75.0,72.5,disgust,6,16,0.375,dating,restaurant
+54,Mars Restaurant,53,2,5,75.0-80.0%,75.0,80.0,77.5,neutral,7,20,0.35,dating,restaurant
+54,Mars Restaurant,53,2,5,80.0-85.0%,80.0,85.0,82.5,happy,4,10,0.4,dating,restaurant
+54,Mars Restaurant,53,2,5,85.0-90.0%,85.0,90.0,87.5,neutral,11,21,0.5238095238095238,dating,restaurant
+54,Mars Restaurant,53,2,5,90.0-95.0%,90.0,95.0,92.5,happy,8,16,0.5,dating,restaurant
+54,Mars Restaurant,53,2,5,95.0-100.0%,95.0,100.0,97.5,happy,9,16,0.5625,dating,restaurant
+55,Dave Suit,54,2,6,0.0-5.0%,0.0,5.0,2.5,sad,5,7,0.7142857142857143,office,
+55,Dave Suit,54,2,6,5.0-10.0%,5.0,10.0,7.5,neutral,16,23,0.6956521739130435,office,
+55,Dave Suit,54,2,6,10.0-15.0%,10.0,15.0,12.5,neutral,8,14,0.5714285714285714,office,
+55,Dave Suit,54,2,6,15.0-20.0%,15.0,20.0,17.5,neutral,8,13,0.6153846153846154,office,
+55,Dave Suit,54,2,6,20.0-25.0%,20.0,25.0,22.5,surprise,7,7,1.0,office,
+55,Dave Suit,54,2,6,25.0-30.0%,25.0,30.0,27.5,surprise,6,11,0.5454545454545454,office,
+55,Dave Suit,54,2,6,30.0-35.0%,30.0,35.0,32.5,sad,3,7,0.42857142857142855,office,
+55,Dave Suit,54,2,6,35.0-40.0%,35.0,40.0,37.5,surprise,4,8,0.5,office,
+55,Dave Suit,54,2,6,40.0-45.0%,40.0,45.0,42.5,surprise,6,12,0.5,office,
+55,Dave Suit,54,2,6,45.0-50.0%,45.0,50.0,47.5,neutral,5,13,0.38461538461538464,office,
+55,Dave Suit,54,2,6,50.0-55.0%,50.0,55.0,52.5,neutral,3,7,0.42857142857142855,office,
+55,Dave Suit,54,2,6,55.0-60.0%,55.0,60.0,57.5,sad,12,15,0.8,office,
+55,Dave Suit,54,2,6,60.0-65.0%,60.0,65.0,62.5,sad,8,10,0.8,office,
+55,Dave Suit,54,2,6,65.0-70.0%,65.0,70.0,67.5,sad,11,18,0.6111111111111112,office,
+55,Dave Suit,54,2,6,70.0-75.0%,70.0,75.0,72.5,neutral,10,19,0.5263157894736842,office,
+55,Dave Suit,54,2,6,75.0-80.0%,75.0,80.0,77.5,neutral,11,21,0.5238095238095238,office,
+55,Dave Suit,54,2,6,80.0-85.0%,80.0,85.0,82.5,anger,5,10,0.5,office,
+55,Dave Suit,54,2,6,85.0-90.0%,85.0,90.0,87.5,neutral,5,14,0.35714285714285715,office,
+55,Dave Suit,54,2,6,90.0-95.0%,90.0,95.0,92.5,neutral,10,20,0.5,office,
+55,Dave Suit,54,2,6,95.0-100.0%,95.0,100.0,97.5,happy,4,6,0.6666666666666666,office,
+56,Driver's Ed,55,2,6,0.0-5.0%,0.0,5.0,2.5,neutral,20,35,0.5714285714285714,class,
+56,Driver's Ed,55,2,6,5.0-10.0%,5.0,10.0,7.5,neutral,27,40,0.675,class,
+56,Driver's Ed,55,2,6,10.0-15.0%,10.0,15.0,12.5,happy,12,26,0.46153846153846156,class,
+56,Driver's Ed,55,2,6,15.0-20.0%,15.0,20.0,17.5,happy,3,8,0.375,class,
+56,Driver's Ed,55,2,6,20.0-25.0%,20.0,25.0,22.5,neutral,6,15,0.4,class,
+56,Driver's Ed,55,2,6,25.0-30.0%,25.0,30.0,27.5,sad,12,24,0.5,class,
+56,Driver's Ed,55,2,6,30.0-35.0%,30.0,35.0,32.5,fear,7,18,0.3888888888888889,class,
+56,Driver's Ed,55,2,6,35.0-40.0%,35.0,40.0,37.5,sad,8,20,0.4,class,
+56,Driver's Ed,55,2,6,40.0-45.0%,40.0,45.0,42.5,sad,9,27,0.3333333333333333,class,
+56,Driver's Ed,55,2,6,45.0-50.0%,45.0,50.0,47.5,sad,8,17,0.47058823529411764,class,
+56,Driver's Ed,55,2,6,50.0-55.0%,50.0,55.0,52.5,sad,8,23,0.34782608695652173,class,
+56,Driver's Ed,55,2,6,55.0-60.0%,55.0,60.0,57.5,neutral,12,19,0.631578947368421,class,
+56,Driver's Ed,55,2,6,60.0-65.0%,60.0,65.0,62.5,sad,13,25,0.52,class,
+56,Driver's Ed,55,2,6,65.0-70.0%,65.0,70.0,67.5,sad,9,23,0.391304347826087,class,
+56,Driver's Ed,55,2,6,70.0-75.0%,70.0,75.0,72.5,sad,11,34,0.3235294117647059,class,
+56,Driver's Ed,55,2,6,75.0-80.0%,75.0,80.0,77.5,sad,12,29,0.41379310344827586,class,
+56,Driver's Ed,55,2,6,80.0-85.0%,80.0,85.0,82.5,sad,8,15,0.5333333333333333,class,
+56,Driver's Ed,55,2,6,85.0-90.0%,85.0,90.0,87.5,happy,7,15,0.4666666666666667,class,
+56,Driver's Ed,55,2,6,90.0-95.0%,90.0,95.0,92.5,surprise,4,9,0.4444444444444444,class,
+56,Driver's Ed,55,2,6,95.0-100.0%,95.0,100.0,97.5,happy,9,20,0.45,class,
+57,Tammy Craps,56,2,6,0.0-5.0%,0.0,5.0,2.5,happy,4,7,0.5714285714285714,commercial,
+57,Tammy Craps,56,2,6,5.0-10.0%,5.0,10.0,7.5,happy,6,11,0.5454545454545454,commercial,
+57,Tammy Craps,56,2,6,10.0-15.0%,10.0,15.0,12.5,happy,6,9,0.6666666666666666,commercial,
+57,Tammy Craps,56,2,6,15.0-20.0%,15.0,20.0,17.5,happy,2,2,1.0,commercial,
+57,Tammy Craps,56,2,6,20.0-25.0%,20.0,25.0,22.5,happy,5,10,0.5,commercial,
+57,Tammy Craps,56,2,6,25.0-30.0%,25.0,30.0,27.5,sad,5,8,0.625,commercial,
+57,Tammy Craps,56,2,6,30.0-35.0%,30.0,35.0,32.5,disgust,3,6,0.5,commercial,
+57,Tammy Craps,56,2,6,35.0-40.0%,35.0,40.0,37.5,disgust,2,3,0.6666666666666666,commercial,
+57,Tammy Craps,56,2,6,40.0-45.0%,40.0,45.0,42.5,sad,1,2,0.5,commercial,
+57,Tammy Craps,56,2,6,45.0-50.0%,45.0,50.0,47.5,happy,2,6,0.3333333333333333,commercial,
+57,Tammy Craps,56,2,6,50.0-55.0%,50.0,55.0,52.5,sad,13,21,0.6190476190476191,commercial,
+57,Tammy Craps,56,2,6,55.0-60.0%,55.0,60.0,57.5,sad,4,8,0.5,commercial,
+57,Tammy Craps,56,2,6,60.0-65.0%,60.0,65.0,62.5,sad,6,9,0.6666666666666666,commercial,
+57,Tammy Craps,56,2,6,65.0-70.0%,65.0,70.0,67.5,sad,5,5,1.0,commercial,
+57,Tammy Craps,56,2,6,70.0-75.0%,70.0,75.0,72.5,happy,1,2,0.5,commercial,
+57,Tammy Craps,56,2,6,75.0-80.0%,75.0,80.0,77.5,happy,3,4,0.75,commercial,
+57,Tammy Craps,56,2,6,90.0-95.0%,90.0,95.0,92.5,sad,6,6,1.0,commercial,
+57,Tammy Craps,56,2,6,95.0-100.0%,95.0,100.0,97.5,sad,3,7,0.42857142857142855,commercial,
+58,Big Wave,57,2,6,0.0-5.0%,0.0,5.0,2.5,neutral,9,20,0.45,office,
+58,Big Wave,57,2,6,5.0-10.0%,5.0,10.0,7.5,neutral,20,28,0.7142857142857143,office,
+58,Big Wave,57,2,6,10.0-15.0%,10.0,15.0,12.5,neutral,14,18,0.7777777777777778,office,
+58,Big Wave,57,2,6,15.0-20.0%,15.0,20.0,17.5,happy,11,19,0.5789473684210527,office,
+58,Big Wave,57,2,6,20.0-25.0%,20.0,25.0,22.5,happy,15,19,0.7894736842105263,office,
+58,Big Wave,57,2,6,25.0-30.0%,25.0,30.0,27.5,happy,4,13,0.3076923076923077,office,
+58,Big Wave,57,2,6,30.0-35.0%,30.0,35.0,32.5,happy,4,13,0.3076923076923077,office,
+58,Big Wave,57,2,6,35.0-40.0%,35.0,40.0,37.5,happy,5,8,0.625,office,
+58,Big Wave,57,2,6,40.0-45.0%,40.0,45.0,42.5,happy,10,21,0.47619047619047616,office,
+58,Big Wave,57,2,6,45.0-50.0%,45.0,50.0,47.5,happy,3,6,0.5,office,
+58,Big Wave,57,2,6,50.0-55.0%,50.0,55.0,52.5,neutral,7,12,0.5833333333333334,office,
+58,Big Wave,57,2,6,55.0-60.0%,55.0,60.0,57.5,sad,7,13,0.5384615384615384,office,
+58,Big Wave,57,2,6,60.0-65.0%,60.0,65.0,62.5,neutral,13,22,0.5909090909090909,office,
+58,Big Wave,57,2,6,65.0-70.0%,65.0,70.0,67.5,disgust,6,13,0.46153846153846156,office,
+58,Big Wave,57,2,6,70.0-75.0%,70.0,75.0,72.5,disgust,6,11,0.5454545454545454,office,
+58,Big Wave,57,2,6,75.0-80.0%,75.0,80.0,77.5,sad,7,10,0.7,office,
+58,Big Wave,57,2,6,80.0-85.0%,80.0,85.0,82.5,surprise,4,8,0.5,office,
+58,Big Wave,57,2,6,85.0-90.0%,85.0,90.0,87.5,neutral,10,23,0.43478260869565216,office,
+58,Big Wave,57,2,6,90.0-95.0%,90.0,95.0,92.5,sad,4,6,0.6666666666666666,office,
+58,Big Wave,57,2,6,95.0-100.0%,95.0,100.0,97.5,happy,5,10,0.5,office,
+59,Claire's,58,2,6,0.0-5.0%,0.0,5.0,2.5,neutral,4,11,0.36363636363636365,kids,
+59,Claire's,58,2,6,5.0-10.0%,5.0,10.0,7.5,happy,1,2,0.5,kids,
+59,Claire's,58,2,6,10.0-15.0%,10.0,15.0,12.5,fear,3,7,0.42857142857142855,kids,
+59,Claire's,58,2,6,15.0-20.0%,15.0,20.0,17.5,neutral,2,7,0.2857142857142857,kids,
+59,Claire's,58,2,6,20.0-25.0%,20.0,25.0,22.5,happy,5,10,0.5,kids,
+59,Claire's,58,2,6,25.0-30.0%,25.0,30.0,27.5,happy,3,9,0.3333333333333333,kids,
+59,Claire's,58,2,6,30.0-35.0%,30.0,35.0,32.5,neutral,4,6,0.6666666666666666,kids,
+59,Claire's,58,2,6,35.0-40.0%,35.0,40.0,37.5,surprise,5,15,0.3333333333333333,kids,
+59,Claire's,58,2,6,40.0-45.0%,40.0,45.0,42.5,neutral,3,9,0.3333333333333333,kids,
+59,Claire's,58,2,6,45.0-50.0%,45.0,50.0,47.5,fear,1,3,0.3333333333333333,kids,
+59,Claire's,58,2,6,50.0-55.0%,50.0,55.0,52.5,surprise,4,9,0.4444444444444444,kids,
+59,Claire's,58,2,6,55.0-60.0%,55.0,60.0,57.5,disgust,3,12,0.25,kids,
+59,Claire's,58,2,6,60.0-65.0%,60.0,65.0,62.5,surprise,6,9,0.6666666666666666,kids,
+59,Claire's,58,2,6,65.0-70.0%,65.0,70.0,67.5,surprise,5,7,0.7142857142857143,kids,
+59,Claire's,58,2,6,70.0-75.0%,70.0,75.0,72.5,surprise,6,7,0.8571428571428571,kids,
+59,Claire's,58,2,6,75.0-80.0%,75.0,80.0,77.5,anger,4,12,0.3333333333333333,kids,
+59,Claire's,58,2,6,80.0-85.0%,80.0,85.0,82.5,surprise,4,8,0.5,kids,
+59,Claire's,58,2,6,85.0-90.0%,85.0,90.0,87.5,happy,3,8,0.375,kids,
+59,Claire's,58,2,6,90.0-95.0%,90.0,95.0,92.5,fear,1,3,0.3333333333333333,kids,
+59,Claire's,58,2,6,95.0-100.0%,95.0,100.0,97.5,neutral,4,10,0.4,kids,
+60,Barley Tonight,59,3,1,0.0-5.0%,0.0,5.0,2.5,neutral,6,16,0.375,reality tv,
+60,Barley Tonight,59,3,1,5.0-10.0%,5.0,10.0,7.5,anger,5,9,0.5555555555555556,reality tv,
+60,Barley Tonight,59,3,1,10.0-15.0%,10.0,15.0,12.5,anger,6,11,0.5454545454545454,reality tv,
+60,Barley Tonight,59,3,1,15.0-20.0%,15.0,20.0,17.5,anger,5,11,0.45454545454545453,reality tv,
+60,Barley Tonight,59,3,1,20.0-25.0%,20.0,25.0,22.5,sad,6,11,0.5454545454545454,reality tv,
+60,Barley Tonight,59,3,1,25.0-30.0%,25.0,30.0,27.5,anger,8,10,0.8,reality tv,
+60,Barley Tonight,59,3,1,30.0-35.0%,30.0,35.0,32.5,sad,4,10,0.4,reality tv,
+60,Barley Tonight,59,3,1,35.0-40.0%,35.0,40.0,37.5,sad,5,10,0.5,reality tv,
+60,Barley Tonight,59,3,1,40.0-45.0%,40.0,45.0,42.5,disgust,7,11,0.6363636363636364,reality tv,
+60,Barley Tonight,59,3,1,45.0-50.0%,45.0,50.0,47.5,sad,5,10,0.5,reality tv,
+60,Barley Tonight,59,3,1,50.0-55.0%,50.0,55.0,52.5,disgust,5,11,0.45454545454545453,reality tv,
+60,Barley Tonight,59,3,1,55.0-60.0%,55.0,60.0,57.5,anger,4,9,0.4444444444444444,reality tv,
+60,Barley Tonight,59,3,1,60.0-65.0%,60.0,65.0,62.5,neutral,5,13,0.38461538461538464,reality tv,
+60,Barley Tonight,59,3,1,65.0-70.0%,65.0,70.0,67.5,anger,3,6,0.5,reality tv,
+60,Barley Tonight,59,3,1,70.0-75.0%,70.0,75.0,72.5,anger,3,4,0.75,reality tv,
+60,Barley Tonight,59,3,1,75.0-80.0%,75.0,80.0,77.5,anger,2,3,0.6666666666666666,reality tv,
+60,Barley Tonight,59,3,1,80.0-85.0%,80.0,85.0,82.5,anger,6,8,0.75,reality tv,
+60,Barley Tonight,59,3,1,85.0-90.0%,85.0,90.0,87.5,anger,6,10,0.6,reality tv,
+60,Barley Tonight,59,3,1,90.0-95.0%,90.0,95.0,92.5,sad,4,11,0.36363636363636365,reality tv,
+60,Barley Tonight,59,3,1,95.0-100.0%,95.0,100.0,97.5,sad,5,10,0.5,reality tv,
+61,Mortal Enemies,60,3,1,0.0-5.0%,0.0,5.0,2.5,happy,23,32,0.71875,office,
+61,Mortal Enemies,60,3,1,5.0-10.0%,5.0,10.0,7.5,happy,12,24,0.5,office,
+61,Mortal Enemies,60,3,1,10.0-15.0%,10.0,15.0,12.5,happy,27,36,0.75,office,
+61,Mortal Enemies,60,3,1,15.0-20.0%,15.0,20.0,17.5,happy,14,23,0.6086956521739131,office,
+61,Mortal Enemies,60,3,1,20.0-25.0%,20.0,25.0,22.5,happy,18,34,0.5294117647058824,office,
+61,Mortal Enemies,60,3,1,25.0-30.0%,25.0,30.0,27.5,neutral,16,30,0.5333333333333333,office,
+61,Mortal Enemies,60,3,1,30.0-35.0%,30.0,35.0,32.5,neutral,9,32,0.28125,office,
+61,Mortal Enemies,60,3,1,35.0-40.0%,35.0,40.0,37.5,neutral,7,19,0.3684210526315789,office,
+61,Mortal Enemies,60,3,1,40.0-45.0%,40.0,45.0,42.5,happy,5,17,0.29411764705882354,office,
+61,Mortal Enemies,60,3,1,45.0-50.0%,45.0,50.0,47.5,neutral,8,24,0.3333333333333333,office,
+61,Mortal Enemies,60,3,1,50.0-55.0%,50.0,55.0,52.5,neutral,10,23,0.43478260869565216,office,
+61,Mortal Enemies,60,3,1,55.0-60.0%,55.0,60.0,57.5,neutral,42,64,0.65625,office,
+61,Mortal Enemies,60,3,1,60.0-65.0%,60.0,65.0,62.5,neutral,12,27,0.4444444444444444,office,
+61,Mortal Enemies,60,3,1,65.0-70.0%,65.0,70.0,67.5,neutral,13,27,0.48148148148148145,office,
+61,Mortal Enemies,60,3,1,70.0-75.0%,70.0,75.0,72.5,happy,3,14,0.21428571428571427,office,
+61,Mortal Enemies,60,3,1,75.0-80.0%,75.0,80.0,77.5,sad,12,20,0.6,office,
+61,Mortal Enemies,60,3,1,80.0-85.0%,80.0,85.0,82.5,sad,7,14,0.5,office,
+61,Mortal Enemies,60,3,1,85.0-90.0%,85.0,90.0,87.5,neutral,11,18,0.6111111111111112,office,
+61,Mortal Enemies,60,3,1,90.0-95.0%,90.0,95.0,92.5,neutral,15,21,0.7142857142857143,office,
+61,Mortal Enemies,60,3,1,95.0-100.0%,95.0,100.0,97.5,neutral,21,33,0.6363636363636364,office,
+62,Summer Loving,61,3,1,0.0-5.0%,0.0,5.0,2.5,neutral,8,14,0.5714285714285714,reality tv,dating
+62,Summer Loving,61,3,1,5.0-10.0%,5.0,10.0,7.5,neutral,2,5,0.4,reality tv,dating
+62,Summer Loving,61,3,1,10.0-15.0%,10.0,15.0,12.5,neutral,4,10,0.4,reality tv,dating
+62,Summer Loving,61,3,1,15.0-20.0%,15.0,20.0,17.5,happy,5,10,0.5,reality tv,dating
+62,Summer Loving,61,3,1,20.0-25.0%,20.0,25.0,22.5,sad,11,14,0.7857142857142857,reality tv,dating
+62,Summer Loving,61,3,1,25.0-30.0%,25.0,30.0,27.5,sad,4,5,0.8,reality tv,dating
+62,Summer Loving,61,3,1,30.0-35.0%,30.0,35.0,32.5,sad,5,9,0.5555555555555556,reality tv,dating
+62,Summer Loving,61,3,1,35.0-40.0%,35.0,40.0,37.5,sad,7,8,0.875,reality tv,dating
+62,Summer Loving,61,3,1,40.0-45.0%,40.0,45.0,42.5,sad,6,9,0.6666666666666666,reality tv,dating
+62,Summer Loving,61,3,1,45.0-50.0%,45.0,50.0,47.5,neutral,5,10,0.5,reality tv,dating
+62,Summer Loving,61,3,1,50.0-55.0%,50.0,55.0,52.5,sad,7,9,0.7777777777777778,reality tv,dating
+62,Summer Loving,61,3,1,55.0-60.0%,55.0,60.0,57.5,sad,8,8,1.0,reality tv,dating
+62,Summer Loving,61,3,1,60.0-65.0%,60.0,65.0,62.5,sad,9,9,1.0,reality tv,dating
+62,Summer Loving,61,3,1,65.0-70.0%,65.0,70.0,67.5,sad,10,11,0.9090909090909091,reality tv,dating
+62,Summer Loving,61,3,1,70.0-75.0%,70.0,75.0,72.5,sad,5,10,0.5,reality tv,dating
+62,Summer Loving,61,3,1,75.0-80.0%,75.0,80.0,77.5,sad,7,10,0.7,reality tv,dating
+62,Summer Loving,61,3,1,80.0-85.0%,80.0,85.0,82.5,sad,7,11,0.6363636363636364,reality tv,dating
+62,Summer Loving,61,3,1,85.0-90.0%,85.0,90.0,87.5,sad,6,9,0.6666666666666666,reality tv,dating
+62,Summer Loving,61,3,1,90.0-95.0%,90.0,95.0,92.5,sad,7,11,0.6363636363636364,reality tv,dating
+62,Summer Loving,61,3,1,95.0-100.0%,95.0,100.0,97.5,neutral,7,16,0.4375,reality tv,dating
+63,Dad Video,62,3,1,0.0-5.0%,0.0,5.0,2.5,happy,3,7,0.42857142857142855,family,
+63,Dad Video,62,3,1,5.0-10.0%,5.0,10.0,7.5,neutral,7,10,0.7,family,
+63,Dad Video,62,3,1,10.0-15.0%,10.0,15.0,12.5,neutral,6,7,0.8571428571428571,family,
+63,Dad Video,62,3,1,15.0-20.0%,15.0,20.0,17.5,neutral,4,7,0.5714285714285714,family,
+63,Dad Video,62,3,1,20.0-25.0%,20.0,25.0,22.5,neutral,2,3,0.6666666666666666,family,
+63,Dad Video,62,3,1,25.0-30.0%,25.0,30.0,27.5,sad,4,9,0.4444444444444444,family,
+63,Dad Video,62,3,1,30.0-35.0%,30.0,35.0,32.5,anger,3,7,0.42857142857142855,family,
+63,Dad Video,62,3,1,35.0-40.0%,35.0,40.0,37.5,neutral,5,10,0.5,family,
+63,Dad Video,62,3,1,40.0-45.0%,40.0,45.0,42.5,neutral,8,14,0.5714285714285714,family,
+63,Dad Video,62,3,1,45.0-50.0%,45.0,50.0,47.5,neutral,2,6,0.3333333333333333,family,
+63,Dad Video,62,3,1,50.0-55.0%,50.0,55.0,52.5,neutral,5,12,0.4166666666666667,family,
+63,Dad Video,62,3,1,55.0-60.0%,55.0,60.0,57.5,happy,5,7,0.7142857142857143,family,
+63,Dad Video,62,3,1,60.0-65.0%,60.0,65.0,62.5,happy,5,11,0.45454545454545453,family,
+63,Dad Video,62,3,1,65.0-70.0%,65.0,70.0,67.5,disgust,2,7,0.2857142857142857,family,
+63,Dad Video,62,3,1,70.0-75.0%,70.0,75.0,72.5,neutral,7,13,0.5384615384615384,family,
+63,Dad Video,62,3,1,75.0-80.0%,75.0,80.0,77.5,anger,2,6,0.3333333333333333,family,
+63,Dad Video,62,3,1,80.0-85.0%,80.0,85.0,82.5,anger,2,5,0.4,family,
+63,Dad Video,62,3,1,85.0-90.0%,85.0,90.0,87.5,sad,2,2,1.0,family,
+63,Dad Video,62,3,1,90.0-95.0%,90.0,95.0,92.5,neutral,2,4,0.5,family,
+63,Dad Video,62,3,1,95.0-100.0%,95.0,100.0,97.5,neutral,9,11,0.8181818181818182,family,
+64,Designated Driver,63,3,1,0.0-5.0%,0.0,5.0,2.5,neutral,10,18,0.5555555555555556,office,driving
+64,Designated Driver,63,3,1,5.0-10.0%,5.0,10.0,7.5,neutral,8,18,0.4444444444444444,office,driving
+64,Designated Driver,63,3,1,10.0-15.0%,10.0,15.0,12.5,neutral,7,17,0.4117647058823529,office,driving
+64,Designated Driver,63,3,1,15.0-20.0%,15.0,20.0,17.5,neutral,5,9,0.5555555555555556,office,driving
+64,Designated Driver,63,3,1,20.0-25.0%,20.0,25.0,22.5,neutral,3,8,0.375,office,driving
+64,Designated Driver,63,3,1,25.0-30.0%,25.0,30.0,27.5,surprise,6,18,0.3333333333333333,office,driving
+64,Designated Driver,63,3,1,30.0-35.0%,30.0,35.0,32.5,sad,3,10,0.3,office,driving
+64,Designated Driver,63,3,1,35.0-40.0%,35.0,40.0,37.5,neutral,7,19,0.3684210526315789,office,driving
+64,Designated Driver,63,3,1,40.0-45.0%,40.0,45.0,42.5,sad,4,11,0.36363636363636365,office,driving
+64,Designated Driver,63,3,1,45.0-50.0%,45.0,50.0,47.5,sad,3,10,0.3,office,driving
+64,Designated Driver,63,3,1,50.0-55.0%,50.0,55.0,52.5,anger,4,11,0.36363636363636365,office,driving
+64,Designated Driver,63,3,1,55.0-60.0%,55.0,60.0,57.5,anger,3,11,0.2727272727272727,office,driving
+64,Designated Driver,63,3,1,60.0-65.0%,60.0,65.0,62.5,sad,5,13,0.38461538461538464,office,driving
+64,Designated Driver,63,3,1,65.0-70.0%,65.0,70.0,67.5,sad,8,19,0.42105263157894735,office,driving
+64,Designated Driver,63,3,1,70.0-75.0%,70.0,75.0,72.5,neutral,6,12,0.5,office,driving
+64,Designated Driver,63,3,1,75.0-80.0%,75.0,80.0,77.5,neutral,11,26,0.4230769230769231,office,driving
+64,Designated Driver,63,3,1,80.0-85.0%,80.0,85.0,82.5,anger,7,14,0.5,office,driving
+64,Designated Driver,63,3,1,85.0-90.0%,85.0,90.0,87.5,sad,10,17,0.5882352941176471,office,driving
+64,Designated Driver,63,3,1,90.0-95.0%,90.0,95.0,92.5,sad,5,8,0.625,office,driving
+64,Designated Driver,63,3,1,95.0-100.0%,95.0,100.0,97.5,sad,10,20,0.5,office,driving
+65,Supermarket Swap,64,3,2,0.0-5.0%,0.0,5.0,2.5,happy,7,13,0.5384615384615384,game show,
+65,Supermarket Swap,64,3,2,5.0-10.0%,5.0,10.0,7.5,happy,4,10,0.4,game show,
+65,Supermarket Swap,64,3,2,10.0-15.0%,10.0,15.0,12.5,neutral,5,13,0.38461538461538464,game show,
+65,Supermarket Swap,64,3,2,15.0-20.0%,15.0,20.0,17.5,happy,7,16,0.4375,game show,
+65,Supermarket Swap,64,3,2,20.0-25.0%,20.0,25.0,22.5,happy,10,15,0.6666666666666666,game show,
+65,Supermarket Swap,64,3,2,25.0-30.0%,25.0,30.0,27.5,happy,7,11,0.6363636363636364,game show,
+65,Supermarket Swap,64,3,2,30.0-35.0%,30.0,35.0,32.5,happy,10,11,0.9090909090909091,game show,
+65,Supermarket Swap,64,3,2,35.0-40.0%,35.0,40.0,37.5,neutral,3,9,0.3333333333333333,game show,
+65,Supermarket Swap,64,3,2,40.0-45.0%,40.0,45.0,42.5,happy,3,9,0.3333333333333333,game show,
+65,Supermarket Swap,64,3,2,45.0-50.0%,45.0,50.0,47.5,surprise,4,5,0.8,game show,
+65,Supermarket Swap,64,3,2,50.0-55.0%,50.0,55.0,52.5,sad,4,11,0.36363636363636365,game show,
+65,Supermarket Swap,64,3,2,55.0-60.0%,55.0,60.0,57.5,sad,9,15,0.6,game show,
+65,Supermarket Swap,64,3,2,60.0-65.0%,60.0,65.0,62.5,sad,3,5,0.6,game show,
+65,Supermarket Swap,64,3,2,65.0-70.0%,65.0,70.0,67.5,disgust,4,10,0.4,game show,
+65,Supermarket Swap,64,3,2,70.0-75.0%,70.0,75.0,72.5,disgust,3,4,0.75,game show,
+65,Supermarket Swap,64,3,2,75.0-80.0%,75.0,80.0,77.5,sad,7,8,0.875,game show,
+65,Supermarket Swap,64,3,2,80.0-85.0%,80.0,85.0,82.5,sad,5,11,0.45454545454545453,game show,
+65,Supermarket Swap,64,3,2,85.0-90.0%,85.0,90.0,87.5,disgust,4,11,0.36363636363636365,game show,
+65,Supermarket Swap,64,3,2,90.0-95.0%,90.0,95.0,92.5,disgust,4,8,0.5,game show,
+65,Supermarket Swap,64,3,2,95.0-100.0%,95.0,100.0,97.5,happy,6,10,0.6,game show,
+66,Darmine Doggy Door,65,3,2,0.0-5.0%,0.0,5.0,2.5,happy,3,7,0.42857142857142855,commercial,
+66,Darmine Doggy Door,65,3,2,5.0-10.0%,5.0,10.0,7.5,disgust,2,2,1.0,commercial,
+66,Darmine Doggy Door,65,3,2,10.0-15.0%,10.0,15.0,12.5,fear,1,1,1.0,commercial,
+66,Darmine Doggy Door,65,3,2,15.0-20.0%,15.0,20.0,17.5,happy,3,4,0.75,commercial,
+66,Darmine Doggy Door,65,3,2,20.0-25.0%,20.0,25.0,22.5,happy,6,8,0.75,commercial,
+66,Darmine Doggy Door,65,3,2,25.0-30.0%,25.0,30.0,27.5,sad,3,4,0.75,commercial,
+66,Darmine Doggy Door,65,3,2,30.0-35.0%,30.0,35.0,32.5,neutral,2,4,0.5,commercial,
+66,Darmine Doggy Door,65,3,2,35.0-40.0%,35.0,40.0,37.5,anger,3,4,0.75,commercial,
+66,Darmine Doggy Door,65,3,2,40.0-45.0%,40.0,45.0,42.5,anger,2,7,0.2857142857142857,commercial,
+66,Darmine Doggy Door,65,3,2,45.0-50.0%,45.0,50.0,47.5,happy,3,6,0.5,commercial,
+66,Darmine Doggy Door,65,3,2,50.0-55.0%,50.0,55.0,52.5,anger,3,8,0.375,commercial,
+66,Darmine Doggy Door,65,3,2,55.0-60.0%,55.0,60.0,57.5,anger,3,6,0.5,commercial,
+66,Darmine Doggy Door,65,3,2,60.0-65.0%,60.0,65.0,62.5,anger,4,7,0.5714285714285714,commercial,
+66,Darmine Doggy Door,65,3,2,65.0-70.0%,65.0,70.0,67.5,sad,3,8,0.375,commercial,
+66,Darmine Doggy Door,65,3,2,70.0-75.0%,70.0,75.0,72.5,happy,3,8,0.375,commercial,
+66,Darmine Doggy Door,65,3,2,75.0-80.0%,75.0,80.0,77.5,surprise,4,8,0.5,commercial,
+66,Darmine Doggy Door,65,3,2,80.0-85.0%,80.0,85.0,82.5,sad,3,7,0.42857142857142855,commercial,
+66,Darmine Doggy Door,65,3,2,85.0-90.0%,85.0,90.0,87.5,sad,4,7,0.5714285714285714,commercial,
+66,Darmine Doggy Door,65,3,2,90.0-95.0%,90.0,95.0,92.5,anger,12,13,0.9230769230769231,commercial,
+66,Darmine Doggy Door,65,3,2,95.0-100.0%,95.0,100.0,97.5,neutral,7,9,0.7777777777777778,commercial,
+67,Ponytail,66,3,2,0.0-5.0%,0.0,5.0,2.5,neutral,2,2,1.0,driving,
+67,Ponytail,66,3,2,5.0-10.0%,5.0,10.0,7.5,happy,4,8,0.5,driving,
+67,Ponytail,66,3,2,10.0-15.0%,10.0,15.0,12.5,fear,2,3,0.6666666666666666,driving,
+67,Ponytail,66,3,2,15.0-20.0%,15.0,20.0,17.5,sad,5,9,0.5555555555555556,driving,
+67,Ponytail,66,3,2,20.0-25.0%,20.0,25.0,22.5,sad,4,9,0.4444444444444444,driving,
+67,Ponytail,66,3,2,25.0-30.0%,25.0,30.0,27.5,anger,3,11,0.2727272727272727,driving,
+67,Ponytail,66,3,2,30.0-35.0%,30.0,35.0,32.5,anger,4,13,0.3076923076923077,driving,
+67,Ponytail,66,3,2,35.0-40.0%,35.0,40.0,37.5,sad,5,9,0.5555555555555556,driving,
+67,Ponytail,66,3,2,40.0-45.0%,40.0,45.0,42.5,sad,4,4,1.0,driving,
+67,Ponytail,66,3,2,45.0-50.0%,45.0,50.0,47.5,sad,6,8,0.75,driving,
+67,Ponytail,66,3,2,50.0-55.0%,50.0,55.0,52.5,sad,5,6,0.8333333333333334,driving,
+67,Ponytail,66,3,2,55.0-60.0%,55.0,60.0,57.5,happy,3,4,0.75,driving,
+67,Ponytail,66,3,2,60.0-65.0%,60.0,65.0,62.5,happy,5,13,0.38461538461538464,driving,
+67,Ponytail,66,3,2,65.0-70.0%,65.0,70.0,67.5,anger,2,10,0.2,driving,
+67,Ponytail,66,3,2,70.0-75.0%,70.0,75.0,72.5,sad,8,10,0.8,driving,
+67,Ponytail,66,3,2,75.0-80.0%,75.0,80.0,77.5,sad,6,11,0.5454545454545454,driving,
+67,Ponytail,66,3,2,80.0-85.0%,80.0,85.0,82.5,sad,7,12,0.5833333333333334,driving,
+67,Ponytail,66,3,2,85.0-90.0%,85.0,90.0,87.5,happy,3,6,0.5,driving,
+67,Ponytail,66,3,2,90.0-95.0%,90.0,95.0,92.5,fear,3,9,0.3333333333333333,driving,
+67,Ponytail,66,3,2,95.0-100.0%,95.0,100.0,97.5,neutral,9,21,0.42857142857142855,driving,
+68,Eggman Game,67,3,2,0.0-5.0%,0.0,5.0,2.5,neutral,7,8,0.875,office,
+68,Eggman Game,67,3,2,10.0-15.0%,10.0,15.0,12.5,sad,3,3,1.0,office,
+68,Eggman Game,67,3,2,15.0-20.0%,15.0,20.0,17.5,neutral,3,7,0.42857142857142855,office,
+68,Eggman Game,67,3,2,20.0-25.0%,20.0,25.0,22.5,disgust,3,10,0.3,office,
+68,Eggman Game,67,3,2,25.0-30.0%,25.0,30.0,27.5,anger,1,3,0.3333333333333333,office,
+68,Eggman Game,67,3,2,30.0-35.0%,30.0,35.0,32.5,neutral,3,5,0.6,office,
+68,Eggman Game,67,3,2,35.0-40.0%,35.0,40.0,37.5,neutral,4,6,0.6666666666666666,office,
+68,Eggman Game,67,3,2,40.0-45.0%,40.0,45.0,42.5,neutral,4,8,0.5,office,
+68,Eggman Game,67,3,2,45.0-50.0%,45.0,50.0,47.5,neutral,4,5,0.8,office,
+68,Eggman Game,67,3,2,50.0-55.0%,50.0,55.0,52.5,anger,1,3,0.3333333333333333,office,
+68,Eggman Game,67,3,2,55.0-60.0%,55.0,60.0,57.5,sad,2,2,1.0,office,
+68,Eggman Game,67,3,2,60.0-65.0%,60.0,65.0,62.5,disgust,2,4,0.5,office,
+68,Eggman Game,67,3,2,65.0-70.0%,65.0,70.0,67.5,sad,6,10,0.6,office,
+68,Eggman Game,67,3,2,70.0-75.0%,70.0,75.0,72.5,neutral,2,5,0.4,office,
+68,Eggman Game,67,3,2,75.0-80.0%,75.0,80.0,77.5,disgust,2,6,0.3333333333333333,office,
+68,Eggman Game,67,3,2,80.0-85.0%,80.0,85.0,82.5,disgust,1,2,0.5,office,
+68,Eggman Game,67,3,2,85.0-90.0%,85.0,90.0,87.5,anger,1,3,0.3333333333333333,office,
+68,Eggman Game,67,3,2,90.0-95.0%,90.0,95.0,92.5,sad,3,5,0.6,office,
+68,Eggman Game,67,3,2,95.0-100.0%,95.0,100.0,97.5,disgust,5,10,0.5,office,
+69,Sitcom Taping,68,3,2,0.0-5.0%,0.0,5.0,2.5,happy,12,20,0.6,live sitcom taping,
+69,Sitcom Taping,68,3,2,5.0-10.0%,5.0,10.0,7.5,sad,6,16,0.375,live sitcom taping,
+69,Sitcom Taping,68,3,2,10.0-15.0%,10.0,15.0,12.5,happy,11,15,0.7333333333333333,live sitcom taping,
+69,Sitcom Taping,68,3,2,15.0-20.0%,15.0,20.0,17.5,happy,11,15,0.7333333333333333,live sitcom taping,
+69,Sitcom Taping,68,3,2,20.0-25.0%,20.0,25.0,22.5,sad,5,12,0.4166666666666667,live sitcom taping,
+69,Sitcom Taping,68,3,2,25.0-30.0%,25.0,30.0,27.5,anger,4,17,0.23529411764705882,live sitcom taping,
+69,Sitcom Taping,68,3,2,30.0-35.0%,30.0,35.0,32.5,neutral,9,22,0.4090909090909091,live sitcom taping,
+69,Sitcom Taping,68,3,2,35.0-40.0%,35.0,40.0,37.5,neutral,17,48,0.3541666666666667,live sitcom taping,
+69,Sitcom Taping,68,3,2,40.0-45.0%,40.0,45.0,42.5,neutral,21,47,0.44680851063829785,live sitcom taping,
+69,Sitcom Taping,68,3,2,45.0-50.0%,45.0,50.0,47.5,sad,20,40,0.5,live sitcom taping,
+69,Sitcom Taping,68,3,2,50.0-55.0%,50.0,55.0,52.5,sad,9,24,0.375,live sitcom taping,
+69,Sitcom Taping,68,3,2,55.0-60.0%,55.0,60.0,57.5,sad,10,31,0.3225806451612903,live sitcom taping,
+69,Sitcom Taping,68,3,2,60.0-65.0%,60.0,65.0,62.5,sad,12,30,0.4,live sitcom taping,
+69,Sitcom Taping,68,3,2,65.0-70.0%,65.0,70.0,67.5,neutral,8,17,0.47058823529411764,live sitcom taping,
+69,Sitcom Taping,68,3,2,70.0-75.0%,70.0,75.0,72.5,happy,8,20,0.4,live sitcom taping,
+69,Sitcom Taping,68,3,2,75.0-80.0%,75.0,80.0,77.5,happy,7,9,0.7777777777777778,live sitcom taping,
+69,Sitcom Taping,68,3,2,80.0-85.0%,80.0,85.0,82.5,happy,10,14,0.7142857142857143,live sitcom taping,
+69,Sitcom Taping,68,3,2,85.0-90.0%,85.0,90.0,87.5,happy,3,9,0.3333333333333333,live sitcom taping,
+69,Sitcom Taping,68,3,2,90.0-95.0%,90.0,95.0,92.5,fear,4,10,0.4,live sitcom taping,
+69,Sitcom Taping,68,3,2,95.0-100.0%,95.0,100.0,97.5,sad,10,20,0.5,live sitcom taping,
+70,Silent Show,69,3,3,0.0-5.0%,0.0,5.0,2.5,fear,2,7,0.2857142857142857,theatre,
+70,Silent Show,69,3,3,5.0-10.0%,5.0,10.0,7.5,surprise,3,9,0.3333333333333333,theatre,
+70,Silent Show,69,3,3,10.0-15.0%,10.0,15.0,12.5,anger,4,9,0.4444444444444444,theatre,
+70,Silent Show,69,3,3,15.0-20.0%,15.0,20.0,17.5,surprise,4,10,0.4,theatre,
+70,Silent Show,69,3,3,20.0-25.0%,20.0,25.0,22.5,happy,4,8,0.5,theatre,
+70,Silent Show,69,3,3,25.0-30.0%,25.0,30.0,27.5,happy,3,7,0.42857142857142855,theatre,
+70,Silent Show,69,3,3,30.0-35.0%,30.0,35.0,32.5,sad,6,11,0.5454545454545454,theatre,
+70,Silent Show,69,3,3,35.0-40.0%,35.0,40.0,37.5,neutral,5,11,0.45454545454545453,theatre,
+70,Silent Show,69,3,3,40.0-45.0%,40.0,45.0,42.5,anger,1,2,0.5,theatre,
+70,Silent Show,69,3,3,45.0-50.0%,45.0,50.0,47.5,neutral,4,11,0.36363636363636365,theatre,
+70,Silent Show,69,3,3,50.0-55.0%,50.0,55.0,52.5,neutral,4,8,0.5,theatre,
+70,Silent Show,69,3,3,55.0-60.0%,55.0,60.0,57.5,surprise,4,9,0.4444444444444444,theatre,
+70,Silent Show,69,3,3,60.0-65.0%,60.0,65.0,62.5,neutral,4,10,0.4,theatre,
+70,Silent Show,69,3,3,65.0-70.0%,65.0,70.0,67.5,happy,4,11,0.36363636363636365,theatre,
+70,Silent Show,69,3,3,70.0-75.0%,70.0,75.0,72.5,surprise,3,5,0.6,theatre,
+70,Silent Show,69,3,3,75.0-80.0%,75.0,80.0,77.5,happy,13,25,0.52,theatre,
+70,Silent Show,69,3,3,80.0-85.0%,80.0,85.0,82.5,happy,2,6,0.3333333333333333,theatre,
+70,Silent Show,69,3,3,85.0-90.0%,85.0,90.0,87.5,fear,2,5,0.4,theatre,
+70,Silent Show,69,3,3,90.0-95.0%,90.0,95.0,92.5,neutral,4,10,0.4,theatre,
+70,Silent Show,69,3,3,95.0-100.0%,95.0,100.0,97.5,neutral,7,12,0.5833333333333334,theatre,
+71,First Date,70,3,3,0.0-5.0%,0.0,5.0,2.5,happy,5,14,0.35714285714285715,dating,
+71,First Date,70,3,3,5.0-10.0%,5.0,10.0,7.5,happy,4,12,0.3333333333333333,dating,
+71,First Date,70,3,3,10.0-15.0%,10.0,15.0,12.5,disgust,6,12,0.5,dating,
+71,First Date,70,3,3,15.0-20.0%,15.0,20.0,17.5,sad,5,13,0.38461538461538464,dating,
+71,First Date,70,3,3,20.0-25.0%,20.0,25.0,22.5,happy,5,11,0.45454545454545453,dating,
+71,First Date,70,3,3,25.0-30.0%,25.0,30.0,27.5,anger,8,16,0.5,dating,
+71,First Date,70,3,3,30.0-35.0%,30.0,35.0,32.5,happy,8,17,0.47058823529411764,dating,
+71,First Date,70,3,3,35.0-40.0%,35.0,40.0,37.5,anger,6,15,0.4,dating,
+71,First Date,70,3,3,40.0-45.0%,40.0,45.0,42.5,neutral,5,16,0.3125,dating,
+71,First Date,70,3,3,45.0-50.0%,45.0,50.0,47.5,happy,7,18,0.3888888888888889,dating,
+71,First Date,70,3,3,50.0-55.0%,50.0,55.0,52.5,happy,10,26,0.38461538461538464,dating,
+71,First Date,70,3,3,55.0-60.0%,55.0,60.0,57.5,happy,2,5,0.4,dating,
+71,First Date,70,3,3,60.0-65.0%,60.0,65.0,62.5,neutral,11,20,0.55,dating,
+71,First Date,70,3,3,65.0-70.0%,65.0,70.0,67.5,happy,3,8,0.375,dating,
+71,First Date,70,3,3,70.0-75.0%,70.0,75.0,72.5,happy,3,6,0.5,dating,
+71,First Date,70,3,3,75.0-80.0%,75.0,80.0,77.5,happy,3,9,0.3333333333333333,dating,
+71,First Date,70,3,3,80.0-85.0%,80.0,85.0,82.5,sad,7,14,0.5,dating,
+71,First Date,70,3,3,85.0-90.0%,85.0,90.0,87.5,sad,8,13,0.6153846153846154,dating,
+71,First Date,70,3,3,90.0-95.0%,90.0,95.0,92.5,disgust,5,10,0.5,dating,
+71,First Date,70,3,3,95.0-100.0%,95.0,100.0,97.5,sad,4,8,0.5,dating,
+72,ABX Heart Monitor,71,3,3,0.0-5.0%,0.0,5.0,2.5,sad,3,8,0.375,commercial,party
+72,ABX Heart Monitor,71,3,3,5.0-10.0%,5.0,10.0,7.5,neutral,3,5,0.6,commercial,party
+72,ABX Heart Monitor,71,3,3,10.0-15.0%,10.0,15.0,12.5,happy,3,9,0.3333333333333333,commercial,party
+72,ABX Heart Monitor,71,3,3,15.0-20.0%,15.0,20.0,17.5,anger,3,8,0.375,commercial,party
+72,ABX Heart Monitor,71,3,3,20.0-25.0%,20.0,25.0,22.5,sad,3,7,0.42857142857142855,commercial,party
+72,ABX Heart Monitor,71,3,3,25.0-30.0%,25.0,30.0,27.5,sad,4,9,0.4444444444444444,commercial,party
+72,ABX Heart Monitor,71,3,3,30.0-35.0%,30.0,35.0,32.5,disgust,6,10,0.6,commercial,party
+72,ABX Heart Monitor,71,3,3,35.0-40.0%,35.0,40.0,37.5,surprise,2,5,0.4,commercial,party
+72,ABX Heart Monitor,71,3,3,40.0-45.0%,40.0,45.0,42.5,disgust,3,11,0.2727272727272727,commercial,party
+72,ABX Heart Monitor,71,3,3,45.0-50.0%,45.0,50.0,47.5,disgust,3,11,0.2727272727272727,commercial,party
+72,ABX Heart Monitor,71,3,3,50.0-55.0%,50.0,55.0,52.5,neutral,4,11,0.36363636363636365,commercial,party
+72,ABX Heart Monitor,71,3,3,55.0-60.0%,55.0,60.0,57.5,sad,5,9,0.5555555555555556,commercial,party
+72,ABX Heart Monitor,71,3,3,60.0-65.0%,60.0,65.0,62.5,sad,3,3,1.0,commercial,party
+72,ABX Heart Monitor,71,3,3,70.0-75.0%,70.0,75.0,72.5,neutral,8,15,0.5333333333333333,commercial,party
+72,ABX Heart Monitor,71,3,3,75.0-80.0%,75.0,80.0,77.5,neutral,5,8,0.625,commercial,party
+72,ABX Heart Monitor,71,3,3,80.0-85.0%,80.0,85.0,82.5,neutral,10,13,0.7692307692307693,commercial,party
+72,ABX Heart Monitor,71,3,3,85.0-90.0%,85.0,90.0,87.5,neutral,2,2,1.0,commercial,party
+72,ABX Heart Monitor,71,3,3,90.0-95.0%,90.0,95.0,92.5,neutral,4,10,0.4,commercial,party
+72,ABX Heart Monitor,71,3,3,95.0-100.0%,95.0,100.0,97.5,neutral,19,31,0.6129032258064516,commercial,party
+73,Drive Thru,72,3,3,0.0-5.0%,0.0,5.0,2.5,happy,2,6,0.3333333333333333,driving,restaurant
+73,Drive Thru,72,3,3,5.0-10.0%,5.0,10.0,7.5,anger,3,8,0.375,driving,restaurant
+73,Drive Thru,72,3,3,10.0-15.0%,10.0,15.0,12.5,happy,7,8,0.875,driving,restaurant
+73,Drive Thru,72,3,3,20.0-25.0%,20.0,25.0,22.5,anger,2,4,0.5,driving,restaurant
+73,Drive Thru,72,3,3,25.0-30.0%,25.0,30.0,27.5,surprise,2,3,0.6666666666666666,driving,restaurant
+73,Drive Thru,72,3,3,30.0-35.0%,30.0,35.0,32.5,disgust,1,3,0.3333333333333333,driving,restaurant
+73,Drive Thru,72,3,3,40.0-45.0%,40.0,45.0,42.5,neutral,1,1,1.0,driving,restaurant
+73,Drive Thru,72,3,3,45.0-50.0%,45.0,50.0,47.5,neutral,2,3,0.6666666666666666,driving,restaurant
+73,Drive Thru,72,3,3,50.0-55.0%,50.0,55.0,52.5,neutral,3,6,0.5,driving,restaurant
+73,Drive Thru,72,3,3,55.0-60.0%,55.0,60.0,57.5,sad,3,5,0.6,driving,restaurant
+73,Drive Thru,72,3,3,60.0-65.0%,60.0,65.0,62.5,sad,2,5,0.4,driving,restaurant
+73,Drive Thru,72,3,3,65.0-70.0%,65.0,70.0,67.5,disgust,1,2,0.5,driving,restaurant
+73,Drive Thru,72,3,3,70.0-75.0%,70.0,75.0,72.5,disgust,1,1,1.0,driving,restaurant
+73,Drive Thru,72,3,3,75.0-80.0%,75.0,80.0,77.5,anger,1,2,0.5,driving,restaurant
+73,Drive Thru,72,3,3,80.0-85.0%,80.0,85.0,82.5,sad,3,8,0.375,driving,restaurant
+73,Drive Thru,72,3,3,85.0-90.0%,85.0,90.0,87.5,disgust,4,9,0.4444444444444444,driving,restaurant
+73,Drive Thru,72,3,3,90.0-95.0%,90.0,95.0,92.5,anger,2,4,0.5,driving,restaurant
+73,Drive Thru,72,3,3,95.0-100.0%,95.0,100.0,97.5,sad,6,9,0.6666666666666666,driving,restaurant
+74,Robert's Christmas Birthday,73,3,3,0.0-5.0%,0.0,5.0,2.5,happy,23,29,0.7931034482758621,office,party
+74,Robert's Christmas Birthday,73,3,3,5.0-10.0%,5.0,10.0,7.5,happy,17,26,0.6538461538461539,office,party
+74,Robert's Christmas Birthday,73,3,3,10.0-15.0%,10.0,15.0,12.5,happy,25,29,0.8620689655172413,office,party
+74,Robert's Christmas Birthday,73,3,3,15.0-20.0%,15.0,20.0,17.5,happy,9,18,0.5,office,party
+74,Robert's Christmas Birthday,73,3,3,20.0-25.0%,20.0,25.0,22.5,happy,4,13,0.3076923076923077,office,party
+74,Robert's Christmas Birthday,73,3,3,25.0-30.0%,25.0,30.0,27.5,disgust,4,13,0.3076923076923077,office,party
+74,Robert's Christmas Birthday,73,3,3,30.0-35.0%,30.0,35.0,32.5,happy,4,5,0.8,office,party
+74,Robert's Christmas Birthday,73,3,3,35.0-40.0%,35.0,40.0,37.5,happy,5,9,0.5555555555555556,office,party
+74,Robert's Christmas Birthday,73,3,3,40.0-45.0%,40.0,45.0,42.5,happy,9,21,0.42857142857142855,office,party
+74,Robert's Christmas Birthday,73,3,3,45.0-50.0%,45.0,50.0,47.5,happy,19,19,1.0,office,party
+74,Robert's Christmas Birthday,73,3,3,50.0-55.0%,50.0,55.0,52.5,happy,6,11,0.5454545454545454,office,party
+74,Robert's Christmas Birthday,73,3,3,55.0-60.0%,55.0,60.0,57.5,happy,10,18,0.5555555555555556,office,party
+74,Robert's Christmas Birthday,73,3,3,60.0-65.0%,60.0,65.0,62.5,happy,12,22,0.5454545454545454,office,party
+74,Robert's Christmas Birthday,73,3,3,65.0-70.0%,65.0,70.0,67.5,sad,11,27,0.4074074074074074,office,party
+74,Robert's Christmas Birthday,73,3,3,70.0-75.0%,70.0,75.0,72.5,neutral,7,22,0.3181818181818182,office,party
+74,Robert's Christmas Birthday,73,3,3,75.0-80.0%,75.0,80.0,77.5,happy,8,26,0.3076923076923077,office,party
+74,Robert's Christmas Birthday,73,3,3,80.0-85.0%,80.0,85.0,82.5,sad,9,19,0.47368421052631576,office,party
+74,Robert's Christmas Birthday,73,3,3,85.0-90.0%,85.0,90.0,87.5,sad,5,10,0.5,office,party
+74,Robert's Christmas Birthday,73,3,3,90.0-95.0%,90.0,95.0,92.5,happy,9,12,0.75,office,party
+74,Robert's Christmas Birthday,73,3,3,95.0-100.0%,95.0,100.0,97.5,sad,14,15,0.9333333333333333,office,party
+75,Jenna's Bad Day,74,3,4,0.0-5.0%,0.0,5.0,2.5,happy,10,18,0.5555555555555556,office,
+75,Jenna's Bad Day,74,3,4,5.0-10.0%,5.0,10.0,7.5,sad,9,22,0.4090909090909091,office,
+75,Jenna's Bad Day,74,3,4,10.0-15.0%,10.0,15.0,12.5,sad,9,16,0.5625,office,
+75,Jenna's Bad Day,74,3,4,15.0-20.0%,15.0,20.0,17.5,surprise,4,9,0.4444444444444444,office,
+75,Jenna's Bad Day,74,3,4,20.0-25.0%,20.0,25.0,22.5,neutral,7,18,0.3888888888888889,office,
+75,Jenna's Bad Day,74,3,4,25.0-30.0%,25.0,30.0,27.5,sad,5,17,0.29411764705882354,office,
+75,Jenna's Bad Day,74,3,4,30.0-35.0%,30.0,35.0,32.5,sad,9,25,0.36,office,
+75,Jenna's Bad Day,74,3,4,35.0-40.0%,35.0,40.0,37.5,anger,8,18,0.4444444444444444,office,
+75,Jenna's Bad Day,74,3,4,40.0-45.0%,40.0,45.0,42.5,surprise,5,15,0.3333333333333333,office,
+75,Jenna's Bad Day,74,3,4,45.0-50.0%,45.0,50.0,47.5,sad,5,15,0.3333333333333333,office,
+75,Jenna's Bad Day,74,3,4,50.0-55.0%,50.0,55.0,52.5,neutral,6,10,0.6,office,
+75,Jenna's Bad Day,74,3,4,55.0-60.0%,55.0,60.0,57.5,sad,8,12,0.6666666666666666,office,
+75,Jenna's Bad Day,74,3,4,60.0-65.0%,60.0,65.0,62.5,neutral,12,18,0.6666666666666666,office,
+75,Jenna's Bad Day,74,3,4,65.0-70.0%,65.0,70.0,67.5,neutral,7,18,0.3888888888888889,office,
+75,Jenna's Bad Day,74,3,4,70.0-75.0%,70.0,75.0,72.5,sad,8,11,0.7272727272727273,office,
+75,Jenna's Bad Day,74,3,4,75.0-80.0%,75.0,80.0,77.5,disgust,2,6,0.3333333333333333,office,
+75,Jenna's Bad Day,74,3,4,80.0-85.0%,80.0,85.0,82.5,disgust,7,14,0.5,office,
+75,Jenna's Bad Day,74,3,4,85.0-90.0%,85.0,90.0,87.5,neutral,9,18,0.5,office,
+75,Jenna's Bad Day,74,3,4,90.0-95.0%,90.0,95.0,92.5,sad,7,12,0.5833333333333334,office,
+75,Jenna's Bad Day,74,3,4,95.0-100.0%,95.0,100.0,97.5,sad,4,12,0.3333333333333333,office,
+76,Pacific Proposal Park,75,3,4,0.0-5.0%,0.0,5.0,2.5,happy,6,6,1.0,commercial,
+76,Pacific Proposal Park,75,3,4,5.0-10.0%,5.0,10.0,7.5,neutral,1,2,0.5,commercial,
+76,Pacific Proposal Park,75,3,4,15.0-20.0%,15.0,20.0,17.5,anger,1,3,0.3333333333333333,commercial,
+76,Pacific Proposal Park,75,3,4,20.0-25.0%,20.0,25.0,22.5,happy,2,5,0.4,commercial,
+76,Pacific Proposal Park,75,3,4,25.0-30.0%,25.0,30.0,27.5,happy,4,6,0.6666666666666666,commercial,
+76,Pacific Proposal Park,75,3,4,30.0-35.0%,30.0,35.0,32.5,neutral,2,5,0.4,commercial,
+76,Pacific Proposal Park,75,3,4,35.0-40.0%,35.0,40.0,37.5,happy,3,7,0.42857142857142855,commercial,
+76,Pacific Proposal Park,75,3,4,40.0-45.0%,40.0,45.0,42.5,neutral,2,3,0.6666666666666666,commercial,
+76,Pacific Proposal Park,75,3,4,45.0-50.0%,45.0,50.0,47.5,happy,5,10,0.5,commercial,
+76,Pacific Proposal Park,75,3,4,50.0-55.0%,50.0,55.0,52.5,neutral,6,11,0.5454545454545454,commercial,
+76,Pacific Proposal Park,75,3,4,55.0-60.0%,55.0,60.0,57.5,neutral,12,12,1.0,commercial,
+76,Pacific Proposal Park,75,3,4,60.0-65.0%,60.0,65.0,62.5,neutral,3,6,0.5,commercial,
+76,Pacific Proposal Park,75,3,4,65.0-70.0%,65.0,70.0,67.5,anger,2,6,0.3333333333333333,commercial,
+76,Pacific Proposal Park,75,3,4,70.0-75.0%,70.0,75.0,72.5,happy,4,9,0.4444444444444444,commercial,
+76,Pacific Proposal Park,75,3,4,75.0-80.0%,75.0,80.0,77.5,disgust,3,8,0.375,commercial,
+76,Pacific Proposal Park,75,3,4,80.0-85.0%,80.0,85.0,82.5,disgust,3,6,0.5,commercial,
+76,Pacific Proposal Park,75,3,4,85.0-90.0%,85.0,90.0,87.5,disgust,2,6,0.3333333333333333,commercial,
+76,Pacific Proposal Park,75,3,4,90.0-95.0%,90.0,95.0,92.5,neutral,5,9,0.5555555555555556,commercial,
+76,Pacific Proposal Park,75,3,4,95.0-100.0%,95.0,100.0,97.5,sad,3,6,0.5,commercial,
+77,Gelutol,76,3,4,0.0-5.0%,0.0,5.0,2.5,happy,6,13,0.46153846153846156,commercial,party
+77,Gelutol,76,3,4,5.0-10.0%,5.0,10.0,7.5,happy,4,15,0.26666666666666666,commercial,party
+77,Gelutol,76,3,4,10.0-15.0%,10.0,15.0,12.5,disgust,1,3,0.3333333333333333,commercial,party
+77,Gelutol,76,3,4,15.0-20.0%,15.0,20.0,17.5,neutral,2,4,0.5,commercial,party
+77,Gelutol,76,3,4,20.0-25.0%,20.0,25.0,22.5,surprise,3,6,0.5,commercial,party
+77,Gelutol,76,3,4,25.0-30.0%,25.0,30.0,27.5,neutral,4,10,0.4,commercial,party
+77,Gelutol,76,3,4,30.0-35.0%,30.0,35.0,32.5,happy,6,7,0.8571428571428571,commercial,party
+77,Gelutol,76,3,4,35.0-40.0%,35.0,40.0,37.5,neutral,3,7,0.42857142857142855,commercial,party
+77,Gelutol,76,3,4,40.0-45.0%,40.0,45.0,42.5,neutral,8,12,0.6666666666666666,commercial,party
+77,Gelutol,76,3,4,45.0-50.0%,45.0,50.0,47.5,neutral,5,12,0.4166666666666667,commercial,party
+77,Gelutol,76,3,4,50.0-55.0%,50.0,55.0,52.5,happy,3,9,0.3333333333333333,commercial,party
+77,Gelutol,76,3,4,55.0-60.0%,55.0,60.0,57.5,anger,3,8,0.375,commercial,party
+77,Gelutol,76,3,4,60.0-65.0%,60.0,65.0,62.5,anger,2,3,0.6666666666666666,commercial,party
+77,Gelutol,76,3,4,65.0-70.0%,65.0,70.0,67.5,neutral,4,8,0.5,commercial,party
+77,Gelutol,76,3,4,70.0-75.0%,70.0,75.0,72.5,neutral,3,8,0.375,commercial,party
+77,Gelutol,76,3,4,75.0-80.0%,75.0,80.0,77.5,fear,2,6,0.3333333333333333,commercial,party
+77,Gelutol,76,3,4,80.0-85.0%,80.0,85.0,82.5,anger,2,7,0.2857142857142857,commercial,party
+77,Gelutol,76,3,4,85.0-90.0%,85.0,90.0,87.5,happy,7,16,0.4375,commercial,party
+77,Gelutol,76,3,4,90.0-95.0%,90.0,95.0,92.5,neutral,7,15,0.4666666666666667,commercial,party
+77,Gelutol,76,3,4,95.0-100.0%,95.0,100.0,97.5,happy,12,25,0.48,commercial,party
+78,Summer Loving Farewell Package,77,3,4,0.0-5.0%,0.0,5.0,2.5,neutral,19,23,0.8260869565217391,dating,
+78,Summer Loving Farewell Package,77,3,4,5.0-10.0%,5.0,10.0,7.5,neutral,2,2,1.0,dating,
+78,Summer Loving Farewell Package,77,3,4,20.0-25.0%,20.0,25.0,22.5,neutral,1,1,1.0,dating,
+78,Summer Loving Farewell Package,77,3,4,25.0-30.0%,25.0,30.0,27.5,neutral,1,1,1.0,dating,
+78,Summer Loving Farewell Package,77,3,4,30.0-35.0%,30.0,35.0,32.5,neutral,1,2,0.5,dating,
+78,Summer Loving Farewell Package,77,3,4,35.0-40.0%,35.0,40.0,37.5,neutral,1,1,1.0,dating,
+78,Summer Loving Farewell Package,77,3,4,55.0-60.0%,55.0,60.0,57.5,neutral,1,1,1.0,dating,
+78,Summer Loving Farewell Package,77,3,4,60.0-65.0%,60.0,65.0,62.5,neutral,1,1,1.0,dating,
+78,Summer Loving Farewell Package,77,3,4,65.0-70.0%,65.0,70.0,67.5,happy,1,1,1.0,dating,
+78,Summer Loving Farewell Package,77,3,4,95.0-100.0%,95.0,100.0,97.5,happy,3,3,1.0,dating,
+79,Children's Choir,78,3,4,0.0-5.0%,0.0,5.0,2.5,happy,24,40,0.6,family,
+79,Children's Choir,78,3,4,5.0-10.0%,5.0,10.0,7.5,happy,32,35,0.9142857142857143,family,
+79,Children's Choir,78,3,4,10.0-15.0%,10.0,15.0,12.5,happy,8,8,1.0,family,
+79,Children's Choir,78,3,4,15.0-20.0%,15.0,20.0,17.5,happy,9,18,0.5,family,
+79,Children's Choir,78,3,4,20.0-25.0%,20.0,25.0,22.5,anger,8,17,0.47058823529411764,family,
+79,Children's Choir,78,3,4,25.0-30.0%,25.0,30.0,27.5,neutral,16,25,0.64,family,
+79,Children's Choir,78,3,4,30.0-35.0%,30.0,35.0,32.5,happy,6,12,0.5,family,
+79,Children's Choir,78,3,4,35.0-40.0%,35.0,40.0,37.5,surprise,9,14,0.6428571428571429,family,
+79,Children's Choir,78,3,4,40.0-45.0%,40.0,45.0,42.5,neutral,9,21,0.42857142857142855,family,
+79,Children's Choir,78,3,4,45.0-50.0%,45.0,50.0,47.5,fear,9,18,0.5,family,
+79,Children's Choir,78,3,4,50.0-55.0%,50.0,55.0,52.5,fear,9,18,0.5,family,
+79,Children's Choir,78,3,4,55.0-60.0%,55.0,60.0,57.5,anger,5,16,0.3125,family,
+79,Children's Choir,78,3,4,60.0-65.0%,60.0,65.0,62.5,neutral,12,22,0.5454545454545454,family,
+79,Children's Choir,78,3,4,65.0-70.0%,65.0,70.0,67.5,neutral,6,19,0.3157894736842105,family,
+79,Children's Choir,78,3,4,70.0-75.0%,70.0,75.0,72.5,happy,6,16,0.375,family,
+79,Children's Choir,78,3,4,75.0-80.0%,75.0,80.0,77.5,surprise,7,18,0.3888888888888889,family,
+79,Children's Choir,78,3,4,80.0-85.0%,80.0,85.0,82.5,neutral,9,12,0.75,family,
+79,Children's Choir,78,3,4,85.0-90.0%,85.0,90.0,87.5,neutral,7,10,0.7,family,
+79,Children's Choir,78,3,4,90.0-95.0%,90.0,95.0,92.5,happy,2,4,0.5,family,
+79,Children's Choir,78,3,4,95.0-100.0%,95.0,100.0,97.5,happy,3,8,0.375,family,
+80,Bloody Eyeball,79,3,5,0.0-5.0%,0.0,5.0,2.5,happy,15,35,0.42857142857142855,office,
+80,Bloody Eyeball,79,3,5,5.0-10.0%,5.0,10.0,7.5,neutral,14,24,0.5833333333333334,office,
+80,Bloody Eyeball,79,3,5,10.0-15.0%,10.0,15.0,12.5,neutral,6,21,0.2857142857142857,office,
+80,Bloody Eyeball,79,3,5,15.0-20.0%,15.0,20.0,17.5,happy,4,11,0.36363636363636365,office,
+80,Bloody Eyeball,79,3,5,20.0-25.0%,20.0,25.0,22.5,anger,4,15,0.26666666666666666,office,
+80,Bloody Eyeball,79,3,5,25.0-30.0%,25.0,30.0,27.5,neutral,7,13,0.5384615384615384,office,
+80,Bloody Eyeball,79,3,5,30.0-35.0%,30.0,35.0,32.5,anger,5,13,0.38461538461538464,office,
+80,Bloody Eyeball,79,3,5,35.0-40.0%,35.0,40.0,37.5,disgust,4,7,0.5714285714285714,office,
+80,Bloody Eyeball,79,3,5,40.0-45.0%,40.0,45.0,42.5,sad,7,9,0.7777777777777778,office,
+80,Bloody Eyeball,79,3,5,45.0-50.0%,45.0,50.0,47.5,disgust,4,16,0.25,office,
+80,Bloody Eyeball,79,3,5,50.0-55.0%,50.0,55.0,52.5,neutral,7,19,0.3684210526315789,office,
+80,Bloody Eyeball,79,3,5,55.0-60.0%,55.0,60.0,57.5,anger,4,11,0.36363636363636365,office,
+80,Bloody Eyeball,79,3,5,60.0-65.0%,60.0,65.0,62.5,surprise,5,17,0.29411764705882354,office,
+80,Bloody Eyeball,79,3,5,65.0-70.0%,65.0,70.0,67.5,disgust,7,18,0.3888888888888889,office,
+80,Bloody Eyeball,79,3,5,70.0-75.0%,70.0,75.0,72.5,neutral,4,16,0.25,office,
+80,Bloody Eyeball,79,3,5,75.0-80.0%,75.0,80.0,77.5,anger,8,16,0.5,office,
+80,Bloody Eyeball,79,3,5,80.0-85.0%,80.0,85.0,82.5,neutral,7,8,0.875,office,
+80,Bloody Eyeball,79,3,5,85.0-90.0%,85.0,90.0,87.5,anger,1,3,0.3333333333333333,office,
+80,Bloody Eyeball,79,3,5,90.0-95.0%,90.0,95.0,92.5,neutral,5,8,0.625,office,
+80,Bloody Eyeball,79,3,5,95.0-100.0%,95.0,100.0,97.5,surprise,4,5,0.8,office,
+81,Photo Booth,80,3,5,0.0-5.0%,0.0,5.0,2.5,happy,11,11,1.0,party,
+81,Photo Booth,80,3,5,5.0-10.0%,5.0,10.0,7.5,happy,9,14,0.6428571428571429,party,
+81,Photo Booth,80,3,5,10.0-15.0%,10.0,15.0,12.5,happy,12,19,0.631578947368421,party,
+81,Photo Booth,80,3,5,15.0-20.0%,15.0,20.0,17.5,happy,11,18,0.6111111111111112,party,
+81,Photo Booth,80,3,5,20.0-25.0%,20.0,25.0,22.5,happy,12,15,0.8,party,
+81,Photo Booth,80,3,5,25.0-30.0%,25.0,30.0,27.5,happy,14,16,0.875,party,
+81,Photo Booth,80,3,5,30.0-35.0%,30.0,35.0,32.5,happy,1,2,0.5,party,
+81,Photo Booth,80,3,5,35.0-40.0%,35.0,40.0,37.5,sad,4,7,0.5714285714285714,party,
+81,Photo Booth,80,3,5,40.0-45.0%,40.0,45.0,42.5,sad,3,10,0.3,party,
+81,Photo Booth,80,3,5,45.0-50.0%,45.0,50.0,47.5,sad,4,6,0.6666666666666666,party,
+81,Photo Booth,80,3,5,50.0-55.0%,50.0,55.0,52.5,neutral,3,10,0.3,party,
+81,Photo Booth,80,3,5,55.0-60.0%,55.0,60.0,57.5,happy,5,15,0.3333333333333333,party,
+81,Photo Booth,80,3,5,60.0-65.0%,60.0,65.0,62.5,neutral,6,18,0.3333333333333333,party,
+81,Photo Booth,80,3,5,65.0-70.0%,65.0,70.0,67.5,neutral,5,9,0.5555555555555556,party,
+81,Photo Booth,80,3,5,70.0-75.0%,70.0,75.0,72.5,neutral,4,8,0.5,party,
+81,Photo Booth,80,3,5,75.0-80.0%,75.0,80.0,77.5,neutral,3,10,0.3,party,
+81,Photo Booth,80,3,5,80.0-85.0%,80.0,85.0,82.5,anger,2,4,0.5,party,
+81,Photo Booth,80,3,5,85.0-90.0%,85.0,90.0,87.5,anger,2,6,0.3333333333333333,party,
+81,Photo Booth,80,3,5,90.0-95.0%,90.0,95.0,92.5,anger,3,8,0.375,party,
+81,Photo Booth,80,3,5,95.0-100.0%,95.0,100.0,97.5,anger,3,9,0.3333333333333333,party,
+82,Talk About My Kids,81,3,5,0.0-5.0%,0.0,5.0,2.5,happy,15,36,0.4166666666666667,party,
+82,Talk About My Kids,81,3,5,5.0-10.0%,5.0,10.0,7.5,happy,21,40,0.525,party,
+82,Talk About My Kids,81,3,5,10.0-15.0%,10.0,15.0,12.5,neutral,6,19,0.3157894736842105,party,
+82,Talk About My Kids,81,3,5,15.0-20.0%,15.0,20.0,17.5,happy,16,42,0.38095238095238093,party,
+82,Talk About My Kids,81,3,5,20.0-25.0%,20.0,25.0,22.5,happy,11,31,0.3548387096774194,party,
+82,Talk About My Kids,81,3,5,25.0-30.0%,25.0,30.0,27.5,happy,15,40,0.375,party,
+82,Talk About My Kids,81,3,5,30.0-35.0%,30.0,35.0,32.5,neutral,15,39,0.38461538461538464,party,
+82,Talk About My Kids,81,3,5,35.0-40.0%,35.0,40.0,37.5,sad,11,26,0.4230769230769231,party,
+82,Talk About My Kids,81,3,5,40.0-45.0%,40.0,45.0,42.5,happy,21,31,0.6774193548387096,party,
+82,Talk About My Kids,81,3,5,45.0-50.0%,45.0,50.0,47.5,happy,16,38,0.42105263157894735,party,
+82,Talk About My Kids,81,3,5,50.0-55.0%,50.0,55.0,52.5,neutral,12,35,0.34285714285714286,party,
+82,Talk About My Kids,81,3,5,55.0-60.0%,55.0,60.0,57.5,happy,40,53,0.7547169811320755,party,
+82,Talk About My Kids,81,3,5,60.0-65.0%,60.0,65.0,62.5,neutral,50,74,0.6756756756756757,party,
+82,Talk About My Kids,81,3,5,65.0-70.0%,65.0,70.0,67.5,neutral,11,26,0.4230769230769231,party,
+82,Talk About My Kids,81,3,5,70.0-75.0%,70.0,75.0,72.5,happy,7,20,0.35,party,
+82,Talk About My Kids,81,3,5,75.0-80.0%,75.0,80.0,77.5,neutral,22,36,0.6111111111111112,party,
+82,Talk About My Kids,81,3,5,80.0-85.0%,80.0,85.0,82.5,neutral,21,34,0.6176470588235294,party,
+82,Talk About My Kids,81,3,5,85.0-90.0%,85.0,90.0,87.5,fear,5,17,0.29411764705882354,party,
+82,Talk About My Kids,81,3,5,90.0-95.0%,90.0,95.0,92.5,sad,6,19,0.3157894736842105,party,
+82,Talk About My Kids,81,3,5,95.0-100.0%,95.0,100.0,97.5,neutral,13,21,0.6190476190476191,party,
+83,Banana Breath,82,3,6,0.0-5.0%,0.0,5.0,2.5,neutral,10,20,0.5,office,
+83,Banana Breath,82,3,6,5.0-10.0%,5.0,10.0,7.5,sad,4,4,1.0,office,
+83,Banana Breath,82,3,6,10.0-15.0%,10.0,15.0,12.5,neutral,15,28,0.5357142857142857,office,
+83,Banana Breath,82,3,6,15.0-20.0%,15.0,20.0,17.5,neutral,15,28,0.5357142857142857,office,
+83,Banana Breath,82,3,6,20.0-25.0%,20.0,25.0,22.5,happy,15,23,0.6521739130434783,office,
+83,Banana Breath,82,3,6,25.0-30.0%,25.0,30.0,27.5,happy,8,24,0.3333333333333333,office,
+83,Banana Breath,82,3,6,30.0-35.0%,30.0,35.0,32.5,neutral,7,15,0.4666666666666667,office,
+83,Banana Breath,82,3,6,35.0-40.0%,35.0,40.0,37.5,happy,10,23,0.43478260869565216,office,
+83,Banana Breath,82,3,6,40.0-45.0%,40.0,45.0,42.5,happy,6,12,0.5,office,
+83,Banana Breath,82,3,6,45.0-50.0%,45.0,50.0,47.5,happy,15,17,0.8823529411764706,office,
+83,Banana Breath,82,3,6,50.0-55.0%,50.0,55.0,52.5,neutral,9,22,0.4090909090909091,office,
+83,Banana Breath,82,3,6,55.0-60.0%,55.0,60.0,57.5,neutral,14,26,0.5384615384615384,office,
+83,Banana Breath,82,3,6,60.0-65.0%,60.0,65.0,62.5,neutral,13,24,0.5416666666666666,office,
+83,Banana Breath,82,3,6,65.0-70.0%,65.0,70.0,67.5,surprise,5,13,0.38461538461538464,office,
+83,Banana Breath,82,3,6,70.0-75.0%,70.0,75.0,72.5,neutral,10,24,0.4166666666666667,office,
+83,Banana Breath,82,3,6,75.0-80.0%,75.0,80.0,77.5,neutral,5,14,0.35714285714285715,office,
+83,Banana Breath,82,3,6,80.0-85.0%,80.0,85.0,82.5,surprise,3,9,0.3333333333333333,office,
+83,Banana Breath,82,3,6,85.0-90.0%,85.0,90.0,87.5,neutral,7,17,0.4117647058823529,office,
+83,Banana Breath,82,3,6,90.0-95.0%,90.0,95.0,92.5,neutral,9,20,0.45,office,
+83,Banana Breath,82,3,6,95.0-100.0%,95.0,100.0,97.5,sad,8,9,0.8888888888888888,office,
+84,Metal Motto Search,83,3,6,0.0-5.0%,0.0,5.0,2.5,happy,7,12,0.5833333333333334,game show,
+84,Metal Motto Search,83,3,6,5.0-10.0%,5.0,10.0,7.5,disgust,1,3,0.3333333333333333,game show,
+84,Metal Motto Search,83,3,6,10.0-15.0%,10.0,15.0,12.5,anger,1,3,0.3333333333333333,game show,
+84,Metal Motto Search,83,3,6,15.0-20.0%,15.0,20.0,17.5,happy,7,12,0.5833333333333334,game show,
+84,Metal Motto Search,83,3,6,20.0-25.0%,20.0,25.0,22.5,surprise,3,7,0.42857142857142855,game show,
+84,Metal Motto Search,83,3,6,35.0-40.0%,35.0,40.0,37.5,happy,3,7,0.42857142857142855,game show,
+84,Metal Motto Search,83,3,6,40.0-45.0%,40.0,45.0,42.5,happy,4,9,0.4444444444444444,game show,
+84,Metal Motto Search,83,3,6,45.0-50.0%,45.0,50.0,47.5,disgust,6,13,0.46153846153846156,game show,
+84,Metal Motto Search,83,3,6,50.0-55.0%,50.0,55.0,52.5,disgust,2,5,0.4,game show,
+84,Metal Motto Search,83,3,6,55.0-60.0%,55.0,60.0,57.5,anger,5,18,0.2777777777777778,game show,
+84,Metal Motto Search,83,3,6,60.0-65.0%,60.0,65.0,62.5,disgust,7,17,0.4117647058823529,game show,
+84,Metal Motto Search,83,3,6,65.0-70.0%,65.0,70.0,67.5,neutral,4,9,0.4444444444444444,game show,
+84,Metal Motto Search,83,3,6,70.0-75.0%,70.0,75.0,72.5,happy,10,34,0.29411764705882354,game show,
+84,Metal Motto Search,83,3,6,75.0-80.0%,75.0,80.0,77.5,happy,4,10,0.4,game show,
+84,Metal Motto Search,83,3,6,80.0-85.0%,80.0,85.0,82.5,sad,5,7,0.7142857142857143,game show,
+84,Metal Motto Search,83,3,6,85.0-90.0%,85.0,90.0,87.5,neutral,4,12,0.3333333333333333,game show,
+84,Metal Motto Search,83,3,6,90.0-95.0%,90.0,95.0,92.5,neutral,2,7,0.2857142857142857,game show,
+84,Metal Motto Search,83,3,6,95.0-100.0%,95.0,100.0,97.5,happy,2,3,0.6666666666666666,game show,
+85,Don Bondarley,84,3,6,0.0-5.0%,0.0,5.0,2.5,happy,16,22,0.7272727272727273,party,
+85,Don Bondarley,84,3,6,5.0-10.0%,5.0,10.0,7.5,happy,18,26,0.6923076923076923,party,
+85,Don Bondarley,84,3,6,10.0-15.0%,10.0,15.0,12.5,happy,6,11,0.5454545454545454,party,
+85,Don Bondarley,84,3,6,15.0-20.0%,15.0,20.0,17.5,neutral,10,17,0.5882352941176471,party,
+85,Don Bondarley,84,3,6,20.0-25.0%,20.0,25.0,22.5,neutral,27,35,0.7714285714285715,party,
+85,Don Bondarley,84,3,6,25.0-30.0%,25.0,30.0,27.5,neutral,6,9,0.6666666666666666,party,
+85,Don Bondarley,84,3,6,30.0-35.0%,30.0,35.0,32.5,neutral,10,23,0.43478260869565216,party,
+85,Don Bondarley,84,3,6,35.0-40.0%,35.0,40.0,37.5,happy,3,6,0.5,party,
+85,Don Bondarley,84,3,6,40.0-45.0%,40.0,45.0,42.5,neutral,22,30,0.7333333333333333,party,
+85,Don Bondarley,84,3,6,45.0-50.0%,45.0,50.0,47.5,neutral,8,19,0.42105263157894735,party,
+85,Don Bondarley,84,3,6,50.0-55.0%,50.0,55.0,52.5,neutral,2,6,0.3333333333333333,party,
+85,Don Bondarley,84,3,6,55.0-60.0%,55.0,60.0,57.5,neutral,14,23,0.6086956521739131,party,
+85,Don Bondarley,84,3,6,60.0-65.0%,60.0,65.0,62.5,happy,5,16,0.3125,party,
+85,Don Bondarley,84,3,6,65.0-70.0%,65.0,70.0,67.5,neutral,6,15,0.4,party,
+85,Don Bondarley,84,3,6,70.0-75.0%,70.0,75.0,72.5,sad,5,7,0.7142857142857143,party,
+85,Don Bondarley,84,3,6,75.0-80.0%,75.0,80.0,77.5,neutral,9,17,0.5294117647058824,party,
+85,Don Bondarley,84,3,6,80.0-85.0%,80.0,85.0,82.5,sad,7,21,0.3333333333333333,party,
+85,Don Bondarley,84,3,6,85.0-90.0%,85.0,90.0,87.5,neutral,6,9,0.6666666666666666,party,
+85,Don Bondarley,84,3,6,90.0-95.0%,90.0,95.0,92.5,neutral,22,29,0.7586206896551724,party,
+85,Don Bondarley,84,3,6,95.0-100.0%,95.0,100.0,97.5,neutral,14,25,0.56,party,
+86,Tasty Time Vids,85,3,6,0.0-5.0%,0.0,5.0,2.5,neutral,12,30,0.4,office,social media
+86,Tasty Time Vids,85,3,6,5.0-10.0%,5.0,10.0,7.5,sad,12,24,0.5,office,social media
+86,Tasty Time Vids,85,3,6,10.0-15.0%,10.0,15.0,12.5,happy,12,21,0.5714285714285714,office,social media
+86,Tasty Time Vids,85,3,6,15.0-20.0%,15.0,20.0,17.5,happy,8,23,0.34782608695652173,office,social media
+86,Tasty Time Vids,85,3,6,20.0-25.0%,20.0,25.0,22.5,happy,14,23,0.6086956521739131,office,social media
+86,Tasty Time Vids,85,3,6,25.0-30.0%,25.0,30.0,27.5,happy,11,18,0.6111111111111112,office,social media
+86,Tasty Time Vids,85,3,6,30.0-35.0%,30.0,35.0,32.5,happy,3,9,0.3333333333333333,office,social media
+86,Tasty Time Vids,85,3,6,35.0-40.0%,35.0,40.0,37.5,happy,3,4,0.75,office,social media
+86,Tasty Time Vids,85,3,6,40.0-45.0%,40.0,45.0,42.5,surprise,4,7,0.5714285714285714,office,social media
+86,Tasty Time Vids,85,3,6,45.0-50.0%,45.0,50.0,47.5,neutral,8,12,0.6666666666666666,office,social media
+86,Tasty Time Vids,85,3,6,50.0-55.0%,50.0,55.0,52.5,neutral,5,12,0.4166666666666667,office,social media
+86,Tasty Time Vids,85,3,6,55.0-60.0%,55.0,60.0,57.5,sad,8,17,0.47058823529411764,office,social media
+86,Tasty Time Vids,85,3,6,60.0-65.0%,60.0,65.0,62.5,happy,5,11,0.45454545454545453,office,social media
+86,Tasty Time Vids,85,3,6,65.0-70.0%,65.0,70.0,67.5,happy,3,6,0.5,office,social media
+86,Tasty Time Vids,85,3,6,70.0-75.0%,70.0,75.0,72.5,neutral,6,12,0.5,office,social media
+86,Tasty Time Vids,85,3,6,75.0-80.0%,75.0,80.0,77.5,neutral,11,29,0.3793103448275862,office,social media
+86,Tasty Time Vids,85,3,6,80.0-85.0%,80.0,85.0,82.5,neutral,12,31,0.3870967741935484,office,social media
+86,Tasty Time Vids,85,3,6,85.0-90.0%,85.0,90.0,87.5,happy,1,2,0.5,office,social media
+86,Tasty Time Vids,85,3,6,90.0-95.0%,90.0,95.0,92.5,sad,7,15,0.4666666666666667,office,social media
+86,Tasty Time Vids,85,3,6,95.0-100.0%,95.0,100.0,97.5,neutral,6,17,0.35294117647058826,office,social media

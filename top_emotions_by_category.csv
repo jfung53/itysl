@@ -1,0 +1,111 @@
+category,sentiment_label,count,total,percentage
+class,neutral,45,95,47.368421052631575
+class,curiosity,12,95,12.631578947368421
+class,anger,10,95,10.526315789473683
+class,confusion,5,95,5.263157894736842
+class,disgust,5,95,5.263157894736842
+commercial,neutral,367,607,60.46128500823723
+commercial,curiosity,56,607,9.225700164744646
+commercial,anger,26,607,4.2833607907743
+commercial,admiration,19,607,3.130148270181219
+commercial,approval,19,607,3.130148270181219
+dating,neutral,133,239,55.64853556485355
+dating,approval,20,239,8.368200836820083
+dating,admiration,16,239,6.694560669456067
+dating,curiosity,13,239,5.439330543933055
+dating,anger,8,239,3.3472803347280333
+driving,neutral,193,357,54.061624649859944
+driving,curiosity,29,357,8.123249299719888
+driving,anger,24,357,6.722689075630252
+driving,admiration,13,357,3.6414565826330536
+driving,approval,12,357,3.361344537815126
+family,neutral,170,299,56.85618729096989
+family,approval,21,299,7.023411371237458
+family,curiosity,19,299,6.354515050167224
+family,disapproval,17,299,5.68561872909699
+family,admiration,14,299,4.682274247491638
+funeral,neutral,13,25,52.0
+funeral,sadness,4,25,16.0
+funeral,admiration,3,25,12.0
+funeral,gratitude,2,25,8.0
+funeral,curiosity,1,25,4.0
+game show,neutral,302,456,66.22807017543859
+game show,curiosity,43,456,9.429824561403509
+game show,approval,33,456,7.236842105263158
+game show,anger,16,456,3.508771929824561
+game show,disapproval,14,456,3.070175438596491
+kids,neutral,32,67,47.76119402985074
+kids,admiration,5,67,7.462686567164178
+kids,approval,4,67,5.970149253731343
+kids,amusement,3,67,4.477611940298507
+kids,caring,3,67,4.477611940298507
+live sitcom taping,neutral,57,97,58.76288659793815
+live sitcom taping,curiosity,10,97,10.309278350515463
+live sitcom taping,approval,9,97,9.278350515463918
+live sitcom taping,anger,4,97,4.123711340206185
+live sitcom taping,disapproval,4,97,4.123711340206185
+magic show,neutral,41,86,47.674418604651166
+magic show,approval,7,86,8.13953488372093
+magic show,curiosity,5,86,5.813953488372093
+magic show,gratitude,5,86,5.813953488372093
+magic show,anger,4,86,4.651162790697675
+movie press junket,neutral,35,58,60.3448275862069
+movie press junket,curiosity,7,58,12.068965517241379
+movie press junket,admiration,3,58,5.172413793103448
+movie press junket,gratitude,3,58,5.172413793103448
+movie press junket,anger,2,58,3.4482758620689653
+movie trailer,neutral,16,41,39.02439024390244
+movie trailer,anger,10,41,24.390243902439025
+movie trailer,annoyance,4,41,9.75609756097561
+movie trailer,excitement,3,41,7.317073170731707
+movie trailer,disapproval,2,41,4.878048780487805
+music,neutral,50,69,72.46376811594203
+music,curiosity,5,69,7.246376811594203
+music,approval,2,69,2.898550724637681
+music,confusion,2,69,2.898550724637681
+music,disapproval,2,69,2.898550724637681
+office,neutral,937,1642,57.06455542021924
+office,curiosity,122,1642,7.429963459196102
+office,anger,97,1642,5.907429963459196
+office,approval,95,1642,5.785627283800244
+office,admiration,64,1642,3.8976857490864796
+party,neutral,798,1414,56.43564356435643
+party,curiosity,108,1414,7.637906647807638
+party,approval,82,1414,5.799151343705799
+party,anger,71,1414,5.021216407355021
+party,admiration,65,1414,4.596888260254596
+reality tv,neutral,126,233,54.077253218884124
+reality tv,curiosity,17,233,7.296137339055794
+reality tv,anger,16,233,6.866952789699571
+reality tv,disapproval,15,233,6.437768240343347
+reality tv,approval,10,233,4.291845493562231
+restaurant,neutral,194,348,55.74712643678161
+restaurant,curiosity,30,348,8.620689655172415
+restaurant,approval,23,348,6.609195402298851
+restaurant,anger,16,348,4.597701149425287
+restaurant,admiration,14,348,4.022988505747127
+revenge,neutral,55,88,62.5
+revenge,curiosity,6,88,6.8181818181818175
+revenge,admiration,5,88,5.681818181818182
+revenge,approval,4,88,4.545454545454546
+revenge,joy,3,88,3.4090909090909087
+sci-fi/fantasy,neutral,41,69,59.42028985507246
+sci-fi/fantasy,admiration,4,69,5.797101449275362
+sci-fi/fantasy,annoyance,4,69,5.797101449275362
+sci-fi/fantasy,surprise,4,69,5.797101449275362
+sci-fi/fantasy,anger,3,69,4.3478260869565215
+social media,neutral,32,67,47.76119402985074
+social media,admiration,12,67,17.91044776119403
+social media,approval,11,67,16.417910447761194
+social media,curiosity,3,67,4.477611940298507
+social media,anger,2,67,2.9850746268656714
+theatre,neutral,40,67,59.70149253731343
+theatre,curiosity,16,67,23.88059701492537
+theatre,anger,5,67,7.462686567164178
+theatre,admiration,3,67,4.477611940298507
+theatre,love,2,67,2.9850746268656714
+tour,neutral,41,85,48.23529411764706
+tour,approval,9,85,10.588235294117647
+tour,anger,5,85,5.88235294117647
+tour,disapproval,5,85,5.88235294117647
+tour,admiration,4,85,4.705882352941177
