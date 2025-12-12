@@ -5,7 +5,7 @@ Question: Can machine learning models understand cringe comedy?
 
 The answer: I don't think so.
 
-:warning: Content warning: Explicit language.
+:warning: Content warning: Explicit language in some of the files.
 
 ---
 
